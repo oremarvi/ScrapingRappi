@@ -1,0 +1,2390 @@
+;Nombre Restaurant;URL RESTAURANT
+0;Pasteleria La Pajarera;https://www.rappi.cl/restaurantes/900036526-pasteleria-la-pajarera
+1;SUSHI HOY;https://www.rappi.cl/restaurantes/900073428-sushi-hoy
+2;La Embajada;https://www.rappi.cl/restaurantes/900073038-la-embajada
+3;La Cabrera al Paso;https://www.rappi.cl/restaurantes/900025822-la-cabrera-al-paso
+4;Mistura del Perú;https://www.rappi.cl/restaurantes/900028761-mistura-del-peru
+5;Sushi Ko Go Express;https://www.rappi.cl/restaurantes/900038534-sushi-ko-go-express
+6;Koychi Comida Coreana;https://www.rappi.cl/restaurantes/900083392-koychi-comida-coreana
+7;Eladio;https://www.rappi.cl/restaurantes/900030003-eladio
+8;Pez Zoom Cevicheria;https://www.rappi.cl/restaurantes/900073516-pez-zoom-cevicheria
+9;Yapones;https://www.rappi.cl/restaurantes/900031225-yapones
+10;Sushi Ryge;https://www.rappi.cl/restaurantes/900014982-sushi-ryge
+11;Barrio Chicken;https://www.rappi.cl/restaurantes/900075472-barrio-chicken
+12;Fuente mardoqueo;https://www.rappi.cl/restaurantes/900040848-fuente-mardoqueo
+13;Palacio Danubio Azul;https://www.rappi.cl/restaurantes/900014073-palacio-danubio-azul
+14;La Casona del Ají Seco;https://www.rappi.cl/restaurantes/900018611-la-casona-del-aji-seco
+15;Niu Sushi;https://www.rappi.cl/restaurantes/900077947-niu-sushi
+16;Mei;https://www.rappi.cl/restaurantes/900014896-mei
+17;Rocoto;https://www.rappi.cl/restaurantes/900018686-rocoto
+18;Kobo Sushi;https://www.rappi.cl/restaurantes/900023957-kobo-sushi
+19;Pollo Del Ocho;https://www.rappi.cl/restaurantes/900030822-pollo-del-ocho
+20;Lovdo;https://www.rappi.cl/restaurantes/900069539-lovdo
+21;Alemán Experto;https://www.rappi.cl/restaurantes/900014927-aleman-experto
+22;Tanta;https://www.rappi.cl/restaurantes/900031827-tanta
+23;Perú Gustoso;https://www.rappi.cl/restaurantes/900014956-peru-gustoso
+24;Tamashi;https://www.rappi.cl/restaurantes/900015999-tamashi
+25;El Ají Seco Mistico;https://www.rappi.cl/restaurantes/900020535-el-aji-seco-mistico
+26;El Sol Sublime;https://www.rappi.cl/restaurantes/900020690-el-sol-sublime
+27;Pollo Loco;https://www.rappi.cl/restaurantes/900021924-pollo-loco
+28;Take a Wok;https://www.rappi.cl/restaurantes/900022804-take-a-wok
+29;Filippo;https://www.rappi.cl/restaurantes/900028876-filippo
+30;Pao Ching;https://www.rappi.cl/restaurantes/900030772-pao-ching
+31;Pita House;https://www.rappi.cl/restaurantes/900014674-pita-house
+32;Barrio Perú;https://www.rappi.cl/restaurantes/900018504-barrio-peru
+33;El Japonés;https://www.rappi.cl/restaurantes/900023285-el-japones
+34;Caramagnola;https://www.rappi.cl/restaurantes/900026061-caramagnola
+35;Olivo Limón;https://www.rappi.cl/restaurantes/900026262-olivo-limon
+36;Gelateria Italia;https://www.rappi.cl/restaurantes/900026535-gelateria-italia
+37;Ají Seco del Inca;https://www.rappi.cl/restaurantes/900029328-aji-seco-del-inca
+38;Norkys;https://www.rappi.cl/restaurantes/900032891-norkys
+39;Doc Popcorn;https://www.rappi.cl/restaurantes/900038272-doc-popcorn
+40;Sushi Blues;https://www.rappi.cl/restaurantes/900065952-sushi-blues
+41;Little Caesars Pizza;https://www.rappi.cl/restaurantes/371-little-caesars-pizza
+42;El Puro Perú;https://www.rappi.cl/restaurantes/900015085-el-puro-peru
+43;Mr Qiu;https://www.rappi.cl/restaurantes/900015356-mr-qiu
+44;Calle y Barrio;https://www.rappi.cl/restaurantes/900024906-calle-y-barrio
+45;Fuente Suiza;https://www.rappi.cl/restaurantes/900025428-fuente-suiza
+46;Tres Generaciones;https://www.rappi.cl/restaurantes/900027306-tres-generaciones
+47;Piso Uno;https://www.rappi.cl/restaurantes/900029325-piso-uno
+48;La Gran Muralla China;https://www.rappi.cl/restaurantes/900032517-la-gran-muralla-china
+49;D´gang - Sandwich Club;https://www.rappi.cl/restaurantes/900041352-dgang-sandwich-club
+50;Soho Thai;https://www.rappi.cl/restaurantes/900069733-soho-thai
+51;Street Wrap;https://www.rappi.cl/restaurantes/900073392-street-wrap
+52;The Raj;https://www.rappi.cl/restaurantes/900014614-the-raj
+53;Tokyo Limeño;https://www.rappi.cl/restaurantes/900014860-tokyo-limeno
+54;Chung Hwa;https://www.rappi.cl/restaurantes/900015216-chung-hwa
+55;Tung Fong Comida China;https://www.rappi.cl/restaurantes/900015278-tung-fong-comida-china
+56;Rollin Sushi;https://www.rappi.cl/restaurantes/900015768-rollin-sushi
+57;Noah sushi;https://www.rappi.cl/restaurantes/900016926-noah-sushi
+58;La Ensaladería;https://www.rappi.cl/restaurantes/900016963-la-ensaladeria
+59;El Pollo Caballo;https://www.rappi.cl/restaurantes/900017439-el-pollo-caballo
+60;Melt Pizzas;https://www.rappi.cl/restaurantes/900018447-melt-pizzas
+61;Cocinero de los Mares;https://www.rappi.cl/restaurantes/900019025-cocinero-de-los-mares
+62;Tempura Sushi;https://www.rappi.cl/restaurantes/900022670-tempura-sushi
+63;Barra Chalaca;https://www.rappi.cl/restaurantes/900022812-barra-chalaca
+64;Centurión Resto Bar;https://www.rappi.cl/restaurantes/900026175-centurion-resto-bar
+65;Sushi Yuko;https://www.rappi.cl/restaurantes/900026525-sushi-yuko
+66;Donde la Tía Sonia;https://www.rappi.cl/restaurantes/900026576-donde-la-tia-sonia
+67;Pescados Capitales;https://www.rappi.cl/restaurantes/900027867-pescados-capitales
+68;El Rinconcito;https://www.rappi.cl/restaurantes/900028644-el-rinconcito
+69;El Gran Ají Seco;https://www.rappi.cl/restaurantes/900029327-el-gran-aji-seco
+70;Mi lomo pe;https://www.rappi.cl/restaurantes/900041098-mi-lomo-pe
+71;Ají Peruano;https://www.rappi.cl/restaurantes/900073973-aji-peruano
+72;Tung Fong Guardia Vieja Comida China;https://www.rappi.cl/restaurantes/900014658-tung-fong-guardia-vieja-comida-chin
+73;Oceanika Sushi;https://www.rappi.cl/restaurantes/900015253-oceanika-sushi
+74;Thai Express;https://www.rappi.cl/restaurantes/900015301-thai-express
+75;Ruta Tercera Comida China;https://www.rappi.cl/restaurantes/900017583-ruta-tercera-comida-china
+76;Almacén Peruano;https://www.rappi.cl/restaurantes/900018155-almacen-peruano
+77;Curry;https://www.rappi.cl/restaurantes/900018689-curry
+78;Amus Buch;https://www.rappi.cl/restaurantes/900021485-amus-buch
+79;Puerto Ceviche;https://www.rappi.cl/restaurantes/900025088-puerto-ceviche
+80;Salvadora;https://www.rappi.cl/restaurantes/900026464-salvadora
+81;Muu Steak;https://www.rappi.cl/restaurantes/900026748-muu-steak
+82;Ramen One;https://www.rappi.cl/restaurantes/900030169-ramen-one
+83;Pochito's Gastronomía Peruana;https://www.rappi.cl/restaurantes/900064748-pochitos-gastronomia-peruana
+84;Doble Queso;https://www.rappi.cl/restaurantes/900070320-doble-queso
+85;Get the wok.;https://www.rappi.cl/restaurantes/900014412-get-the-wok
+86;Misotorino;https://www.rappi.cl/restaurantes/900015046-misotorino
+87;Comida China Biyi;https://www.rappi.cl/restaurantes/900017278-comida-china-biyi
+88;Fu Lin;https://www.rappi.cl/restaurantes/900017700-fu-lin
+89;China Village;https://www.rappi.cl/restaurantes/900026045-china-village
+90;Comida China Wynn;https://www.rappi.cl/restaurantes/900027075-comida-china-wynn
+91;Furay Roll;https://www.rappi.cl/restaurantes/900027950-furay-roll
+92;LongHui Comida China;https://www.rappi.cl/restaurantes/900032813-longhui-comida-china
+93;Javier D'Angelo Kusina;https://www.rappi.cl/restaurantes/900038204-javier-dangelo-kusina
+94;Yuzu Sushi;https://www.rappi.cl/restaurantes/900041438-yuzu-sushi
+95;Sushimi;https://www.rappi.cl/restaurantes/900015152-sushimi
+96;Pasta Basta;https://www.rappi.cl/restaurantes/900016422-pasta-basta
+97;Kitai Sushi;https://www.rappi.cl/restaurantes/900017793-kitai-sushi
+98;Xiong Chang Comida China;https://www.rappi.cl/restaurantes/900018593-xiong-chang-comida-china
+99;Restaurant Lima;https://www.rappi.cl/restaurantes/900019186-restaurant-lima
+100;Comida China Hai Li;https://www.rappi.cl/restaurantes/900026585-comida-china-hai-li
+101;Alaska Sushi Fusión;https://www.rappi.cl/restaurantes/900027774-alaska-sushi-fusion
+102;I-Ching;https://www.rappi.cl/restaurantes/900028309-i-ching
+103;Restaurant Junio;https://www.rappi.cl/restaurantes/900029996-restaurant-junio
+104;Xin Hua;https://www.rappi.cl/restaurantes/900030325-xin-hua
+105;Katsumi Sushi;https://www.rappi.cl/restaurantes/900032905-katsumi-sushi
+106;Pollo Chang;https://www.rappi.cl/restaurantes/900035535-pollo-chang
+107;Long Wei;https://www.rappi.cl/restaurantes/900035646-long-wei
+108;Yashiro Sushi;https://www.rappi.cl/restaurantes/900057133-yashiro-sushi
+109;Yonaguni Sushi;https://www.rappi.cl/restaurantes/900078254-yonaguni-sushi
+110;Pisco y Sabor;https://www.rappi.cl/restaurantes/900015089-pisco-y-sabor
+111;El Aguaruna;https://www.rappi.cl/restaurantes/900015208-el-aguaruna
+112;Tokyoto sushi merced;https://www.rappi.cl/restaurantes/900015755-tokyoto-sushi-merced
+113;Yun ho;https://www.rappi.cl/restaurantes/900016983-yun-ho
+114;Teclados;https://www.rappi.cl/restaurantes/900017779-teclados
+115;All Rice Food;https://www.rappi.cl/restaurantes/900017856-all-rice-food
+116;Ying Feng Peñalolén;https://www.rappi.cl/restaurantes/900018583-ying-feng-penalolen
+117;Route 66;https://www.rappi.cl/restaurantes/900019834-route-66
+118;Sushi Delivery;https://www.rappi.cl/restaurantes/900022903-sushi-delivery
+119;Karai Sushi;https://www.rappi.cl/restaurantes/900023309-karai-sushi
+120;El Palacio del Poroto con Rienda;https://www.rappi.cl/restaurantes/900028362-el-palacio-del-poroto-con-rienda
+121;Alto Japón;https://www.rappi.cl/restaurantes/900033234-alto-japon
+122;Jing Shun Comida China;https://www.rappi.cl/restaurantes/900036131-jing-shun-comida-china
+123;Oakberry Açaí;https://www.rappi.cl/restaurantes/900057023-oakberry-acai
+124;Chachan;https://www.rappi.cl/restaurantes/900067731-chachan
+125;Cursi Donuts;https://www.rappi.cl/restaurantes/900073594-cursi-donuts
+126;Wan He;https://www.rappi.cl/restaurantes/900074158-wan-he
+127;Yapones Nueva Bilbao;https://www.rappi.cl/restaurantes/900074992-yapones-nueva-bilbao
+128;Kansui Ramen;https://www.rappi.cl/restaurantes/900077353-kansui-ramen
+129;ChilMex Mexican Grill;https://www.rappi.cl/restaurantes/900014858-chilmex-mexican-grill
+130;Nanami Restorant;https://www.rappi.cl/restaurantes/900015129-nanami-restorant
+131;Dubai Sushi;https://www.rappi.cl/restaurantes/900015514-dubai-sushi
+132;He Hin;https://www.rappi.cl/restaurantes/900018585-he-hin
+133;El chimbotano;https://www.rappi.cl/restaurantes/900023500-el-chimbotano
+134;Al Jazeera;https://www.rappi.cl/restaurantes/900024646-al-jazeera
+135;Comoenlima;https://www.rappi.cl/restaurantes/900029277-comoenlima
+136;Yeka;https://www.rappi.cl/restaurantes/900032268-yeka
+137;Ensalada Grill Bistro;https://www.rappi.cl/restaurantes/900035403-ensalada-grill-bistro
+138;Pasta Grill Premium;https://www.rappi.cl/restaurantes/900035405-pasta-grill-premium
+139;Soja Sushi Santiago;https://www.rappi.cl/restaurantes/900068713-soja-sushi-santiago
+140;Spicy Food;https://www.rappi.cl/restaurantes/900071294-spicy-food
+141;Don Chicken;https://www.rappi.cl/restaurantes/900071551-don-chicken
+142;Lasañas Santiago;https://www.rappi.cl/restaurantes/900079608-lasanas-santiago
+143;The Pizza Factory;https://www.rappi.cl/restaurantes/334-the-pizza-factory
+144;Tea Connection Salads & Sándwiches;https://www.rappi.cl/restaurantes/470-tea-connection-salads-y-sandwiches
+145;P.F. Chang's;https://www.rappi.cl/restaurantes/900015008-pf-changs
+146;La Sopería;https://www.rappi.cl/restaurantes/900016210-la-soperia
+147;Katsumi Sushi & Ceviche;https://www.rappi.cl/restaurantes/900018711-katsumi-sushi-y-ceviche
+148;Chicken Factory;https://www.rappi.cl/restaurantes/900023322-chicken-factory
+149;La Estrella;https://www.rappi.cl/restaurantes/900028263-la-estrella
+150;Sushispop;https://www.rappi.cl/restaurantes/900032792-sushispop
+151;mi ceviche;https://www.rappi.cl/restaurantes/900036875-mi-ceviche
+152;Rongji Comida China;https://www.rappi.cl/restaurantes/900036958-rongji-comida-china
+153;Parrilladas Argentina Rotonda Perez Zujovic;https://www.rappi.cl/restaurantes/900039611-parrilladas-argentina-rotonda-perez
+154;Tasty Poke;https://www.rappi.cl/restaurantes/900041000-tasty-poke
+155;Tobu Sushi Las Condes;https://www.rappi.cl/restaurantes/900057463-tobu-sushi-las-condes
+156;MEXA;https://www.rappi.cl/restaurantes/900014675-mexa
+157;Shawarmas Moha;https://www.rappi.cl/restaurantes/900015752-shawarmas-moha
+158;Panko;https://www.rappi.cl/restaurantes/900016679-panko
+159;Sayonara Urmeneta;https://www.rappi.cl/restaurantes/900020601-sayonara-urmeneta
+160;Aomori Nikkei & Sushi;https://www.rappi.cl/restaurantes/900020602-aomori-nikkei-y-sushi
+161;I-Mu Sushi & Bar;https://www.rappi.cl/restaurantes/900027497-i-mu-sushi-y-bar
+162;Ekos Fusion;https://www.rappi.cl/restaurantes/900027519-ekos-fusion
+163;LuYin Comida China;https://www.rappi.cl/restaurantes/900028356-luyin-comida-china
+164;Giro Sushi;https://www.rappi.cl/restaurantes/900028464-giro-sushi
+165;Del Valle Gourmet Comida Venezolana;https://www.rappi.cl/restaurantes/900030210-del-valle-gourmet-comida-venezolana
+166;Helados Fratelli;https://www.rappi.cl/restaurantes/900033039-helados-fratelli
+167;Mi Ensalada;https://www.rappi.cl/restaurantes/900036866-mi-ensalada
+168;Mi Gohan;https://www.rappi.cl/restaurantes/900037163-mi-gohan
+169;Yasai Vegan Sushi.;https://www.rappi.cl/restaurantes/900040656-yasai-vegan-sushi
+170;Berlin Döner Kebab;https://www.rappi.cl/restaurantes/900041127-berlin-doner-kebab
+171;ACEVICHADO SUSHI;https://www.rappi.cl/restaurantes/900056780-acevichado-sushi
+172;Vegan Wok;https://www.rappi.cl/restaurantes/900067620-vegan-wok
+173;Peru Clasico Santiago Centro;https://www.rappi.cl/restaurantes/900083371-peru-clasico-santiago-centro
+174;Mister Fish;https://www.rappi.cl/restaurantes/402-mister-fish
+175;Fukai;https://www.rappi.cl/restaurantes/482-fukai
+176;Dominó;https://www.rappi.cl/restaurantes/900015228-domino
+177;Saffron;https://www.rappi.cl/restaurantes/900015276-saffron
+178;Chevere y Bakan;https://www.rappi.cl/restaurantes/900016030-chevere-y-bakan
+179;Grido;https://www.rappi.cl/restaurantes/900016930-grido
+180;Teke Factory Fabrica de Tequeños;https://www.rappi.cl/restaurantes/900017547-teke-factory-fabrica-de-tequenos
+181;Ajiseco Teatinos 446;https://www.rappi.cl/restaurantes/900018513-ajiseco-teatinos-446
+182;Vapiano;https://www.rappi.cl/restaurantes/900021448-vapiano
+183;Somos Perú Buffet;https://www.rappi.cl/restaurantes/900026674-somos-peru-buffet
+184;The Fisherman;https://www.rappi.cl/restaurantes/900029480-the-fisherman
+185;Chipe Libre;https://www.rappi.cl/restaurantes/900030354-chipe-libre
+186;Chef Chino;https://www.rappi.cl/restaurantes/900030793-chef-chino
+187;ming zhu limitada;https://www.rappi.cl/restaurantes/900036583-ming-zhu-limitada
+188;Johnny Rockets;https://www.rappi.cl/restaurantes/900036959-johnny-rockets
+189;Hua Xing;https://www.rappi.cl/restaurantes/900039444-hua-xing
+190;Mr. Wong;https://www.rappi.cl/restaurantes/900041358-mr-wong
+191;Tiger Wok;https://www.rappi.cl/restaurantes/900066987-tiger-wok
+192;Sushi Lover's;https://www.rappi.cl/restaurantes/900073410-sushi-lovers
+193;Maru;https://www.rappi.cl/restaurantes/900014585-maru
+194;Labibe;https://www.rappi.cl/restaurantes/900014872-labibe
+195;Fuente las Condes;https://www.rappi.cl/restaurantes/900015077-fuente-las-condes
+196;Sanguchon Peruano San Diego;https://www.rappi.cl/restaurantes/900015925-sanguchon-peruano-san-diego
+197;Tony Roma´s;https://www.rappi.cl/restaurantes/900016017-tony-romas
+198;Las Vegas;https://www.rappi.cl/restaurantes/900017388-las-vegas
+199;Arepas Food and Shop Providencia;https://www.rappi.cl/restaurantes/900019679-arepas-food-and-shop-providencia
+200;Sabores de Mi Barrio;https://www.rappi.cl/restaurantes/900020225-sabores-de-mi-barrio
+201;Sayonara;https://www.rappi.cl/restaurantes/900020592-sayonara
+202;Santo Gohan;https://www.rappi.cl/restaurantes/900021313-santo-gohan
+203;Okui Sushi;https://www.rappi.cl/restaurantes/900025775-okui-sushi
+204;Guacamole Tex Mex;https://www.rappi.cl/restaurantes/900025809-guacamole-tex-mex
+205;Restaurant Peruano Carlitos;https://www.rappi.cl/restaurantes/900027065-restaurant-peruano-carlitos
+206;Satkar;https://www.rappi.cl/restaurantes/900027716-satkar
+207;Empanadas RoySar;https://www.rappi.cl/restaurantes/900028623-empanadas-roysar
+208;Sayonara Sushi Vip;https://www.rappi.cl/restaurantes/900029234-sayonara-sushi-vip
+209;La Popular;https://www.rappi.cl/restaurantes/900036823-la-popular
+210;Chicken Love You;https://www.rappi.cl/restaurantes/900037139-chicken-love-you
+211;Burger Beef;https://www.rappi.cl/restaurantes/900040411-burger-beef
+212;Pandias Kitchen;https://www.rappi.cl/restaurantes/900073161-pandias-kitchen
+213;Roof Burger;https://www.rappi.cl/restaurantes/900077722-roof-burger
+214;Maycha Cocina Peruana;https://www.rappi.cl/restaurantes/900078742-maycha-cocina-peruana
+215;El Toldo Azul;https://www.rappi.cl/restaurantes/900084768-el-toldo-azul
+216;Fuente Chilena;https://www.rappi.cl/restaurantes/900014071-fuente-chilena
+217;Tu Cevichazo;https://www.rappi.cl/restaurantes/900014632-tu-cevichazo
+218;Cora Sushi;https://www.rappi.cl/restaurantes/900016298-cora-sushi
+219;Libanazo;https://www.rappi.cl/restaurantes/900018429-libanazo
+220;Classic Sushi - San Isidro;https://www.rappi.cl/restaurantes/900018896-classic-sushi-san-isidro
+221;Konichi Macul;https://www.rappi.cl/restaurantes/900019518-konichi-macul
+222;Da Dino;https://www.rappi.cl/restaurantes/900020015-da-dino
+223;Full Appetit;https://www.rappi.cl/restaurantes/900020742-full-appetit
+224;Havanna;https://www.rappi.cl/restaurantes/900022883-havanna
+225;Pizza Delivery;https://www.rappi.cl/restaurantes/900022899-pizza-delivery
+226;De Pana!;https://www.rappi.cl/restaurantes/900023156-de-pana
+227;Farina;https://www.rappi.cl/restaurantes/900023447-farina
+228;Perú Clásico;https://www.rappi.cl/restaurantes/900029090-peru-clasico
+229;Mas Que Hummus;https://www.rappi.cl/restaurantes/900035785-mas-que-hummus
+230;El Vegan;https://www.rappi.cl/restaurantes/900040146-el-vegan
+231;Delivery Kirasushi;https://www.rappi.cl/restaurantes/900040553-delivery-kirasushi
+232;Carrer Nou;https://www.rappi.cl/restaurantes/900040965-carrer-nou
+233;KFC;https://www.rappi.cl/restaurantes/900069266-kfc
+234;Fork;https://www.rappi.cl/restaurantes/900069364-fork
+235;Factory Nine;https://www.rappi.cl/restaurantes/900081666-factory-nine
+236;Tradicion Trujillana;https://www.rappi.cl/restaurantes/900082798-tradicion-trujillana
+237;Ají y Limón;https://www.rappi.cl/restaurantes/900015041-aji-y-limon
+238;Yokono sushi;https://www.rappi.cl/restaurantes/900015432-yokono-sushi
+239;Parrilladas Mas y Mas;https://www.rappi.cl/restaurantes/900015959-parrilladas-mas-y-mas
+240;Restaurante Los Vikingos;https://www.rappi.cl/restaurantes/900015967-restaurante-los-vikingos
+241;Heladería Sebastian;https://www.rappi.cl/restaurantes/900017524-heladeria-sebastian
+242;Sugoy Sushi;https://www.rappi.cl/restaurantes/900017837-sugoy-sushi
+243;Mamut;https://www.rappi.cl/restaurantes/900019121-mamut
+244;Sweetfran;https://www.rappi.cl/restaurantes/900026282-sweetfran
+245;Fuente Vicuña;https://www.rappi.cl/restaurantes/900026461-fuente-vicuna
+246;Antica Gelateria del Corso;https://www.rappi.cl/restaurantes/900026668-antica-gelateria-del-corso
+247;Chef Woo;https://www.rappi.cl/restaurantes/900027811-chef-woo
+248;La Enchilada;https://www.rappi.cl/restaurantes/900030416-la-enchilada
+249;Guacamole Mexican Grill;https://www.rappi.cl/restaurantes/900032768-guacamole-mexican-grill
+250;La Punta;https://www.rappi.cl/restaurantes/900035411-la-punta
+251;Poké Life;https://www.rappi.cl/restaurantes/900036547-poke-life
+252;Jeangon Sushi;https://www.rappi.cl/restaurantes/900037433-jeangon-sushi
+253;Isla Ceviche;https://www.rappi.cl/restaurantes/900037997-isla-ceviche
+254;Rubaiyat;https://www.rappi.cl/restaurantes/900039189-rubaiyat
+255;Fushimi Sushi;https://www.rappi.cl/restaurantes/900040623-fushimi-sushi
+256;Que Ceviche!;https://www.rappi.cl/restaurantes/900040648-que-ceviche
+257;Bien Me Sabe;https://www.rappi.cl/restaurantes/900064809-bien-me-sabe
+258;Isabella Pizzas Ricas;https://www.rappi.cl/restaurantes/900014921-isabella-pizzas-ricas
+259;Autentiko French Tacos;https://www.rappi.cl/restaurantes/900015128-autentiko-french-tacos
+260;Carl's Jr.;https://www.rappi.cl/restaurantes/900015587-carls-jr
+261;La Ruta del Waffle;https://www.rappi.cl/restaurantes/900016452-la-ruta-del-waffle
+262;Feng Lin;https://www.rappi.cl/restaurantes/900016741-feng-lin
+263;China Wok;https://www.rappi.cl/restaurantes/900016906-china-wok
+264;Pizza Nostra;https://www.rappi.cl/restaurantes/900018499-pizza-nostra
+265;Maldita Pizza;https://www.rappi.cl/restaurantes/900019728-maldita-pizza
+266;Arabian Fast Food;https://www.rappi.cl/restaurantes/900020240-arabian-fast-food
+267;Santiago Sushi;https://www.rappi.cl/restaurantes/900021010-santiago-sushi
+268;Sushi Nobu;https://www.rappi.cl/restaurantes/900021501-sushi-nobu
+269;Juan y Medio;https://www.rappi.cl/restaurantes/900023306-juan-y-medio
+270;Affogato Heladería y Café;https://www.rappi.cl/restaurantes/900023732-affogato-heladeria-y-cafe
+271;Oh My Pizza;https://www.rappi.cl/restaurantes/900023998-oh-my-pizza
+272;Fajita Express;https://www.rappi.cl/restaurantes/900024463-fajita-express
+273;Trattoria Da Noi;https://www.rappi.cl/restaurantes/900024504-trattoria-da-noi
+274;Misoya;https://www.rappi.cl/restaurantes/900026250-misoya
+275;Lunch and Dinner;https://www.rappi.cl/restaurantes/900029076-lunch-and-dinner
+276;Brussels Heart Of Chocolate;https://www.rappi.cl/restaurantes/900030759-brussels-heart-of-chocolate
+277;Heladería Italia 1609 café & crêpe;https://www.rappi.cl/restaurantes/900030938-heladeria-italia-1609-cafe-y-crepe
+278;Mote Con Huesillo;https://www.rappi.cl/restaurantes/900032676-mote-con-huesillo
+279;Peruvian Nikkei;https://www.rappi.cl/restaurantes/900032826-peruvian-nikkei
+280;Seven Pizza;https://www.rappi.cl/restaurantes/900037899-seven-pizza
+281;Oh My Gohan!;https://www.rappi.cl/restaurantes/900040749-oh-my-gohan
+282;Sushi Rolls Liam;https://www.rappi.cl/restaurantes/900048528-sushi-rolls-liam
+283;Q RIKO FOOD LOS ESPECIALISTA EN CACHAPA;https://www.rappi.cl/restaurantes/900057492-q-riko-food-los-especialista-en-cac
+284;La Ciabatta;https://www.rappi.cl/restaurantes/900065152-la-ciabatta
+285;Under Pizza;https://www.rappi.cl/restaurantes/900068216-under-pizza
+286;Kami Sushi;https://www.rappi.cl/restaurantes/900072946-kami-sushi
+287;Dumpling Factory & CO;https://www.rappi.cl/restaurantes/900073374-dumpling-factory-y-co
+288;Spicy Vegan;https://www.rappi.cl/restaurantes/900074954-spicy-vegan
+289;Okinawa Comida Rapida;https://www.rappi.cl/restaurantes/900078510-okinawa-comida-rapida
+290;Meat And Grill;https://www.rappi.cl/restaurantes/900078643-meat-and-grill
+291;Romaria Pizzería;https://www.rappi.cl/restaurantes/492-romaria-pizzeria
+292;Arepas Food & Shop;https://www.rappi.cl/restaurantes/900015178-arepas-food-y-shop
+293;Lulupok;https://www.rappi.cl/restaurantes/900016461-lulupok
+294;Maskepan;https://www.rappi.cl/restaurantes/900017323-maskepan
+295;Yin Hua;https://www.rappi.cl/restaurantes/900017392-yin-hua
+296;Helados Mó;https://www.rappi.cl/restaurantes/900017541-helados-mo
+297;Sushi Centro;https://www.rappi.cl/restaurantes/900018060-sushi-centro
+298;Chato's;https://www.rappi.cl/restaurantes/900021240-chatos
+299;Chicken International;https://www.rappi.cl/restaurantes/900021363-chicken-international
+300;Indian Box - Veggie;https://www.rappi.cl/restaurantes/900021451-indian-box-veggie
+301;Masala;https://www.rappi.cl/restaurantes/900021498-masala
+302;La Casa Vieja;https://www.rappi.cl/restaurantes/900023707-la-casa-vieja
+303;Tommy Beans;https://www.rappi.cl/restaurantes/900023723-tommy-beans
+304;La Provincia Restaurant;https://www.rappi.cl/restaurantes/900024847-la-provincia-restaurant
+305;Mandala Mía Súper Alimentos;https://www.rappi.cl/restaurantes/900025096-mandala-mia-super-alimentos
+306;DoHa DoHa - Shawarma's House;https://www.rappi.cl/restaurantes/900025097-doha-doha-shawarmas-house
+307;Dulcería Frutillar;https://www.rappi.cl/restaurantes/900025714-dulceria-frutillar
+308;La Focaccia;https://www.rappi.cl/restaurantes/900028494-la-focaccia
+309;gohan y Cia.;https://www.rappi.cl/restaurantes/900029614-gohan-y-cia
+310;Agostina Pizza;https://www.rappi.cl/restaurantes/900030990-agostina-pizza
+311;Fresh Salads Vitacura;https://www.rappi.cl/restaurantes/900031876-fresh-salads-vitacura
+312;Mr. Keto;https://www.rappi.cl/restaurantes/900032045-mr-keto
+313;Waffles World;https://www.rappi.cl/restaurantes/900035518-waffles-world
+314;Crepes & Waffles;https://www.rappi.cl/restaurantes/900038128-crepes-y-waffles
+315;Restaurant Salon Asia;https://www.rappi.cl/restaurantes/900039450-restaurant-salon-asia
+316;El Taller;https://www.rappi.cl/restaurantes/900039912-el-taller
+317;EL MUNDO DE LA EMPANADA;https://www.rappi.cl/restaurantes/900040852-el-mundo-de-la-empanada
+318;Torta Caluga;https://www.rappi.cl/restaurantes/900066466-torta-caluga
+319;Deseable® Sushi;https://www.rappi.cl/restaurantes/900066852-deseabler-sushi
+320;La Areperia Chile;https://www.rappi.cl/restaurantes/900075711-la-areperia-chile
+321;Comida Casera My Toli;https://www.rappi.cl/restaurantes/900079168-comida-casera-my-toli
+322;El Brasero;https://www.rappi.cl/restaurantes/508-el-brasero
+323;Pastas Nenetta;https://www.rappi.cl/restaurantes/900015042-pastas-nenetta
+324;Irreverente;https://www.rappi.cl/restaurantes/900016350-irreverente
+325;Ukiyo Sushi;https://www.rappi.cl/restaurantes/900016952-ukiyo-sushi
+326;Gino´s Pizza;https://www.rappi.cl/restaurantes/900017705-ginos-pizza
+327;Lomito Alemán Ñuñoa;https://www.rappi.cl/restaurantes/900018420-lomito-aleman-nunoa
+328;Dony Doner;https://www.rappi.cl/restaurantes/900018532-dony-doner
+329;Telepizza;https://www.rappi.cl/restaurantes/900018909-telepizza
+330;Don Papas;https://www.rappi.cl/restaurantes/900020616-don-papas
+331;Íjole Taqueria;https://www.rappi.cl/restaurantes/900021406-ijole-taqueria
+332;Subway;https://www.rappi.cl/restaurantes/900022591-subway
+333;WildRoots Salad Bar& Co;https://www.rappi.cl/restaurantes/900026559-wildroots-salad-bary-co
+334;Tomodashi Go;https://www.rappi.cl/restaurantes/900026568-tomodashi-go
+335;Tavelli;https://www.rappi.cl/restaurantes/900027345-tavelli
+336;Sushi Arashi;https://www.rappi.cl/restaurantes/900028245-sushi-arashi
+337;El Mariachi Tacos Grill;https://www.rappi.cl/restaurantes/900028501-el-mariachi-tacos-grill
+338;Sushi Yoi;https://www.rappi.cl/restaurantes/900029226-sushi-yoi
+339;El Arabish;https://www.rappi.cl/restaurantes/900029569-el-arabish
+340;Natei Sushi Bar Lounge;https://www.rappi.cl/restaurantes/900030455-natei-sushi-bar-lounge
+341;Cantaro De Oro;https://www.rappi.cl/restaurantes/900035294-cantaro-de-oro
+342;Tarros Mex;https://www.rappi.cl/restaurantes/900035780-tarros-mex
+343;Ostras Condell;https://www.rappi.cl/restaurantes/900035980-ostras-condell
+344;Sabe a Peru;https://www.rappi.cl/restaurantes/900039481-sabe-a-peru
+345;Delivery Gourmet;https://www.rappi.cl/restaurantes/900040092-delivery-gourmet
+346;Oporto Steak Bar;https://www.rappi.cl/restaurantes/900041156-oporto-steak-bar
+347;Demarchi Milano;https://www.rappi.cl/restaurantes/900065106-demarchi-milano
+348;Come Sano Ensaladas y Más;https://www.rappi.cl/restaurantes/900068080-come-sano-ensaladas-y-mas
+349;PUERTO MALABRIGO CEVICHERIA;https://www.rappi.cl/restaurantes/900069437-puerto-malabrigo-cevicheria
+350;Poke Poke;https://www.rappi.cl/restaurantes/900069638-poke-poke
+351;Dulces Rufiko;https://www.rappi.cl/restaurantes/900069773-dulces-rufiko
+352;Atarashii Sushi;https://www.rappi.cl/restaurantes/900073110-atarashii-sushi
+353;Oliva Delivery;https://www.rappi.cl/restaurantes/900073525-oliva-delivery
+354;Franui;https://www.rappi.cl/restaurantes/900074356-franui
+355;Sajj Shawarmas Chile;https://www.rappi.cl/restaurantes/900075355-sajj-shawarmas-chile
+356;Runaway Sushi...;https://www.rappi.cl/restaurantes/900077899-runaway-sushi
+357;Damasco Bistro Comida Arabe;https://www.rappi.cl/restaurantes/900079924-damasco-bistro-comida-arabe
+358;El Sabor Incaico;https://www.rappi.cl/restaurantes/900080193-el-sabor-incaico
+359;Monkey Dog;https://www.rappi.cl/restaurantes/507-monkey-dog
+360;Sanguchería Petrü;https://www.rappi.cl/restaurantes/900015115-sangucheria-petru
+361;oliva Sano;https://www.rappi.cl/restaurantes/900015907-oliva-sano
+362;Nanita Sushi;https://www.rappi.cl/restaurantes/900016239-nanita-sushi
+363;Trujillano Sushi;https://www.rappi.cl/restaurantes/900016746-trujillano-sushi
+364;Pasteleria Biella;https://www.rappi.cl/restaurantes/900016955-pasteleria-biella
+365;Buffet Express;https://www.rappi.cl/restaurantes/900018175-buffet-express
+366;Relativo Restaurante;https://www.rappi.cl/restaurantes/900018366-relativo-restaurante
+367;Matsumoto restaurante;https://www.rappi.cl/restaurantes/900018408-matsumoto-restaurante
+368;Apero;https://www.rappi.cl/restaurantes/900019515-apero
+369;Taco Bell;https://www.rappi.cl/restaurantes/900020786-taco-bell
+370;El Oasis;https://www.rappi.cl/restaurantes/900021161-el-oasis
+371;Arepa's 310;https://www.rappi.cl/restaurantes/900023301-arepas-310
+372;Maxidonas;https://www.rappi.cl/restaurantes/900024790-maxidonas
+373;La Serrana;https://www.rappi.cl/restaurantes/900028755-la-serrana
+374;La Leona Las Condes;https://www.rappi.cl/restaurantes/900031797-la-leona-las-condes
+375;Köök Bistró;https://www.rappi.cl/restaurantes/900033143-kook-bistro
+376;Pollo Rey;https://www.rappi.cl/restaurantes/900040203-pollo-rey
+377;Empanadium Express;https://www.rappi.cl/restaurantes/900064923-empanadium-express
+378;Franco´s Chicken;https://www.rappi.cl/restaurantes/900067009-francos-chicken
+379;Rigo's Vegan Pizza;https://www.rappi.cl/restaurantes/900069093-rigos-vegan-pizza
+380;Stars Sushi;https://www.rappi.cl/restaurantes/900069977-stars-sushi
+381;Mexicanos;https://www.rappi.cl/restaurantes/900075162-mexicanos
+382;El Chimbotano Independencia;https://www.rappi.cl/restaurantes/900075213-el-chimbotano-independencia
+383;Makani Shawarma;https://www.rappi.cl/restaurantes/900075775-makani-shawarma
+384;Guacamole Tex Mex...;https://www.rappi.cl/restaurantes/900076780-guacamole-tex-mex
+385;Andori Sushi Delivery;https://www.rappi.cl/restaurantes/900084485-andori-sushi-delivery
+386;Poke y Go;https://www.rappi.cl/restaurantes/900085348-poke-y-go
+387;Rosita;https://www.rappi.cl/restaurantes/484-rosita
+388;Ciudadano;https://www.rappi.cl/restaurantes/900016279-ciudadano
+389;Docetrece Restaurant;https://www.rappi.cl/restaurantes/900017237-docetrece-restaurant
+390;Tarragona;https://www.rappi.cl/restaurantes/900017326-tarragona
+391;Rigos Pizza;https://www.rappi.cl/restaurantes/900018536-rigos-pizza
+392;Buffalo Waffles;https://www.rappi.cl/restaurantes/900018737-buffalo-waffles
+393;Chirashi by Noah;https://www.rappi.cl/restaurantes/900018851-chirashi-by-noah
+394;La Pollería;https://www.rappi.cl/restaurantes/900021463-la-polleria
+395;Jack The Juicer;https://www.rappi.cl/restaurantes/900022247-jack-the-juicer
+396;Pizzería Tomate y Queso;https://www.rappi.cl/restaurantes/900023303-pizzeria-tomate-y-queso
+397;Juan Maestro;https://www.rappi.cl/restaurantes/900023716-juan-maestro
+398;Zerozero Pizza;https://www.rappi.cl/restaurantes/900024284-zerozero-pizza
+399;My Tea;https://www.rappi.cl/restaurantes/900024513-my-tea
+400;Deseable® Pizza;https://www.rappi.cl/restaurantes/900028832-deseabler-pizza
+401;Bocanariz;https://www.rappi.cl/restaurantes/900029570-bocanariz
+402;el ahumador spa;https://www.rappi.cl/restaurantes/900031589-el-ahumador-spa
+403;Quererte Cafetería;https://www.rappi.cl/restaurantes/900032292-quererte-cafeteria
+404;Santo Pescao;https://www.rappi.cl/restaurantes/900035569-santo-pescao
+405;Cerezo Café;https://www.rappi.cl/restaurantes/900037705-cerezo-cafe
+406;EL MUNDO DE LAS PAPAS FRITAS;https://www.rappi.cl/restaurantes/900040989-el-mundo-de-las-papas-fritas
+407;Di Angelos Pizza;https://www.rappi.cl/restaurantes/900048374-di-angelos-pizza
+408;Espresso Pizza;https://www.rappi.cl/restaurantes/900048617-espresso-pizza
+409;Tekelandia;https://www.rappi.cl/restaurantes/900057356-tekelandia
+410;Black Chicken Rotisserie;https://www.rappi.cl/restaurantes/900066446-black-chicken-rotisserie
+411;Mogu;https://www.rappi.cl/restaurantes/900066578-mogu
+412;Jjang!;https://www.rappi.cl/restaurantes/900066593-jjang
+413;COMICS SUSHI AND FOOD;https://www.rappi.cl/restaurantes/900071192-comics-sushi-and-food
+414;Poke Yoi;https://www.rappi.cl/restaurantes/900073531-poke-yoi
+415;Burger King®;https://www.rappi.cl/restaurantes/900074922-burger-kingr
+416;El Mundo de la Cachapa;https://www.rappi.cl/restaurantes/900075453-el-mundo-de-la-cachapa
+417;Marco Pollo;https://www.rappi.cl/restaurantes/900080304-marco-pollo
+418;Emma Rolls;https://www.rappi.cl/restaurantes/900082123-emma-rolls
+419;Green Lab;https://www.rappi.cl/restaurantes/900084824-green-lab
+420;Happy Break Sushi;https://www.rappi.cl/restaurantes/900014536-happy-break-sushi
+421;La Yunta;https://www.rappi.cl/restaurantes/900014870-la-yunta
+422;Ocean Pacifics Buque Madre;https://www.rappi.cl/restaurantes/900015968-ocean-pacifics-buque-madre
+423;Waldo's;https://www.rappi.cl/restaurantes/900016026-waldos
+424;Helados San Francisco;https://www.rappi.cl/restaurantes/900016951-helados-san-francisco
+425;La Mechada Nacional;https://www.rappi.cl/restaurantes/900017443-la-mechada-nacional
+426;Yami yami;https://www.rappi.cl/restaurantes/900017727-yami-yami
+427;Milanos Pizza;https://www.rappi.cl/restaurantes/900019826-milanos-pizza
+428;La Ruta de la Milanesa;https://www.rappi.cl/restaurantes/900020719-la-ruta-de-la-milanesa
+429;Sibaritas Club San Miguel;https://www.rappi.cl/restaurantes/900020890-sibaritas-club-san-miguel
+430;Churromania;https://www.rappi.cl/restaurantes/900024020-churromania
+431;Dunkin';https://www.rappi.cl/restaurantes/900024075-dunkin
+432;Wonderland Café;https://www.rappi.cl/restaurantes/900025148-wonderland-cafe
+433;El Tío Manolo Ñuñoa;https://www.rappi.cl/restaurantes/900027236-el-tio-manolo-nunoa
+434;El Tío Manolo Oriente;https://www.rappi.cl/restaurantes/900027939-el-tio-manolo-oriente
+435;Excelencia China;https://www.rappi.cl/restaurantes/900035951-excelencia-china
+436;lomo luco bar;https://www.rappi.cl/restaurantes/900037069-lomo-luco-bar
+437;De pura madre;https://www.rappi.cl/restaurantes/900040959-de-pura-madre
+438;Bravissimo;https://www.rappi.cl/restaurantes/900048100-bravissimo
+439;Churrasco Planet;https://www.rappi.cl/restaurantes/900073203-churrasco-planet
+440;Entreturno Bistro;https://www.rappi.cl/restaurantes/900074858-entreturno-bistro
+441;Rende Bú Café;https://www.rappi.cl/restaurantes/900079181-rende-bu-cafe
+442;Mascarpone;https://www.rappi.cl/restaurantes/900082312-mascarpone
+443;Rai Sushi Nikkei;https://www.rappi.cl/restaurantes/900084323-rai-sushi-nikkei
+444;Donde el Criollo;https://www.rappi.cl/restaurantes/389-donde-el-criollo
+445;La Fabbrica;https://www.rappi.cl/restaurantes/900014998-la-fabbrica
+446;Rincón Magdalena;https://www.rappi.cl/restaurantes/900015272-rincon-magdalena
+447;Chilitalys Pizzas;https://www.rappi.cl/restaurantes/900015813-chilitalys-pizzas
+448;Capellán 8;https://www.rappi.cl/restaurantes/900016648-capellan-8
+449;MANTECADO;https://www.rappi.cl/restaurantes/900016661-mantecado
+450;Chili's;https://www.rappi.cl/restaurantes/900016739-chilis
+451;Hojaldes;https://www.rappi.cl/restaurantes/900019389-hojaldes
+452;Panzón Bustamante;https://www.rappi.cl/restaurantes/900020476-panzon-bustamante
+453;Wendy's;https://www.rappi.cl/restaurantes/900021586-wendys
+454;Shawarma Khalifa;https://www.rappi.cl/restaurantes/900021938-shawarma-khalifa
+455;Sabores Venezolanos;https://www.rappi.cl/restaurantes/900023100-sabores-venezolanos
+456;Domani Pizzeria & Bar;https://www.rappi.cl/restaurantes/900025119-domani-pizzeria-y-bar
+457;El Palacio de la Chorrillana;https://www.rappi.cl/restaurantes/900026235-el-palacio-de-la-chorrillana
+458;Pizza Hut;https://www.rappi.cl/restaurantes/900030399-pizza-hut
+459;Comida China Mas Y Mas;https://www.rappi.cl/restaurantes/900031052-comida-china-mas-y-mas
+460;Big Boba Bubble Tea Shop;https://www.rappi.cl/restaurantes/900031441-big-boba-bubble-tea-shop
+461;San Camilo Salón de Té;https://www.rappi.cl/restaurantes/900035996-san-camilo-salon-de-te
+462;mazamiel panaderia;https://www.rappi.cl/restaurantes/900036777-mazamiel-panaderia
+463;Pizzeria Petit Chef;https://www.rappi.cl/restaurantes/900036815-pizzeria-petit-chef
+464;sabko namaste chile;https://www.rappi.cl/restaurantes/900037177-sabko-namaste-chile
+465;Bakery La Merienda;https://www.rappi.cl/restaurantes/900037230-bakery-la-merienda
+466;Fries House;https://www.rappi.cl/restaurantes/900038004-fries-house
+467;Roberto Muñoz Patisserie;https://www.rappi.cl/restaurantes/900038040-roberto-munoz-patisserie
+468;Wokland;https://www.rappi.cl/restaurantes/900040765-wokland
+469;Tao Veg;https://www.rappi.cl/restaurantes/900041357-tao-veg
+470;Burritos Vegan;https://www.rappi.cl/restaurantes/900065979-burritos-vegan
+471;The Best Wok;https://www.rappi.cl/restaurantes/900065980-the-best-wok
+472;Páramo The Cake;https://www.rappi.cl/restaurantes/900068637-paramo-the-cake
+473;Just Burger;https://www.rappi.cl/restaurantes/900071197-just-burger
+474;El MUNDO DEL TEQUEÑO;https://www.rappi.cl/restaurantes/900074381-el-mundo-del-tequeno
+475;El mundo de las Cachapas;https://www.rappi.cl/restaurantes/900074408-el-mundo-de-las-cachapas
+476;Buena Pasta Providencia;https://www.rappi.cl/restaurantes/900078759-buena-pasta-providencia
+477;Milas;https://www.rappi.cl/restaurantes/900082903-milas
+478;Sushiken 1;https://www.rappi.cl/restaurantes/900083352-sushiken-1
+479;Lina Comida Árabe;https://www.rappi.cl/restaurantes/900015262-lina-comida-arabe
+480;Pollo Stop Asaduría;https://www.rappi.cl/restaurantes/900015627-pollo-stop-asaduria
+481;Daniel´s Bakery & Café;https://www.rappi.cl/restaurantes/900016218-daniels-bakery-y-cafe
+482;Arlecchino Pizzas;https://www.rappi.cl/restaurantes/900016494-arlecchino-pizzas
+483;Fries & Bites;https://www.rappi.cl/restaurantes/900020767-fries-y-bites
+484;Q'Riko Food Truck;https://www.rappi.cl/restaurantes/900022419-qriko-food-truck
+485;Papa's 310;https://www.rappi.cl/restaurantes/900023302-papas-310
+486;Cada Loco con su Churro;https://www.rappi.cl/restaurantes/900025093-cada-loco-con-su-churro
+487;Cup and Cake Bakery;https://www.rappi.cl/restaurantes/900027773-cup-and-cake-bakery
+488;Café Bistro 1933;https://www.rappi.cl/restaurantes/900027782-cafe-bistro-1933
+489;Avatar Sushi;https://www.rappi.cl/restaurantes/900028829-avatar-sushi
+490;Le Poutine;https://www.rappi.cl/restaurantes/900029124-le-poutine
+491;El Ají Seco;https://www.rappi.cl/restaurantes/900029295-el-aji-seco
+492;Sergios;https://www.rappi.cl/restaurantes/900031973-sergios
+493;McDonald's Postre;https://www.rappi.cl/restaurantes/900032610-mcdonalds-postre
+494;Palmira panaderia pasteleria;https://www.rappi.cl/restaurantes/900035416-palmira-panaderia-pasteleria
+495;La Jonronera;https://www.rappi.cl/restaurantes/900035828-la-jonronera
+496;Pizzeria La Pizarra;https://www.rappi.cl/restaurantes/900064703-pizzeria-la-pizarra
+497;Mote con Huesillos Cophie;https://www.rappi.cl/restaurantes/900067027-mote-con-huesillos-cophie
+498;Wakai Sushi Salad;https://www.rappi.cl/restaurantes/900075148-wakai-sushi-salad
+499;Chick´n All;https://www.rappi.cl/restaurantes/900078977-chickn-all
+500;Burger Co;https://www.rappi.cl/restaurantes/900079876-burger-co
+501;La Casa de la Cachapa;https://www.rappi.cl/restaurantes/900080679-la-casa-de-la-cachapa
+502;Cinnabon;https://www.rappi.cl/restaurantes/900015736-cinnabon
+503;Sushi Vai;https://www.rappi.cl/restaurantes/900016962-sushi-vai
+504;Irasshai;https://www.rappi.cl/restaurantes/900016989-irasshai
+505;Casa del Jamón;https://www.rappi.cl/restaurantes/900017552-casa-del-jamon
+506;Mamma Mia;https://www.rappi.cl/restaurantes/900022667-mamma-mia
+507;El Encanto Divino;https://www.rappi.cl/restaurantes/900026530-el-encanto-divino
+508;El Rey del Completo;https://www.rappi.cl/restaurantes/900026708-el-rey-del-completo
+509;Ciros;https://www.rappi.cl/restaurantes/900027639-ciros
+510;Pollo Broaster Sr. Sabroso Arturo;https://www.rappi.cl/restaurantes/900027661-pollo-broaster-sr-sabroso-arturo
+511;Starbucks;https://www.rappi.cl/restaurantes/900029286-starbucks
+512;Jalisco;https://www.rappi.cl/restaurantes/900029511-jalisco
+513;Mandala Food - Comida India;https://www.rappi.cl/restaurantes/900031264-mandala-food-comida-india
+514;Délice;https://www.rappi.cl/restaurantes/900035657-delice
+515;Il Maestrale;https://www.rappi.cl/restaurantes/900036252-il-maestrale
+516;Duploz;https://www.rappi.cl/restaurantes/900036564-duploz
+517;W.O.K;https://www.rappi.cl/restaurantes/900036895-wok
+518;Churroholic;https://www.rappi.cl/restaurantes/900038071-churroholic
+519;Sazón Guayanes;https://www.rappi.cl/restaurantes/900039497-sazon-guayanes
+520;Chikys;https://www.rappi.cl/restaurantes/900047829-chikys
+521;Gusti Pizza;https://www.rappi.cl/restaurantes/900067104-gusti-pizza
+522;Pasteleria con C;https://www.rappi.cl/restaurantes/900069796-pasteleria-con-c
+523;Pollito´s 310;https://www.rappi.cl/restaurantes/900073753-pollitos-310
+524;Comida Chilena el Lucho;https://www.rappi.cl/restaurantes/900074919-comida-chilena-el-lucho
+525;Burgery;https://www.rappi.cl/restaurantes/900077723-burgery
+526;Lazy Burger;https://www.rappi.cl/restaurantes/900077727-lazy-burger
+527;Trilogía Latina;https://www.rappi.cl/restaurantes/900077858-trilogia-latina
+528;El Mundo de Las Papas Fritas la Reina;https://www.rappi.cl/restaurantes/900080629-el-mundo-de-las-papas-fritas-la-rei
+529;Tequeños Pololos;https://www.rappi.cl/restaurantes/900080829-tequenos-pololos
+530;Saori Nikkei;https://www.rappi.cl/restaurantes/900081696-saori-nikkei
+531;Mr Hans Chicken;https://www.rappi.cl/restaurantes/900085078-mr-hans-chicken
+532;Uncle Fletch;https://www.rappi.cl/restaurantes/900014512-uncle-fletch
+533;Mr. Jack;https://www.rappi.cl/restaurantes/900015883-mr-jack
+534;Omar Khayyam;https://www.rappi.cl/restaurantes/900017477-omar-khayyam
+535;TPM Tomate Palta Mayo;https://www.rappi.cl/restaurantes/900017683-tpm-tomate-palta-mayo
+536;Pulpork-Original Pulled Pork;https://www.rappi.cl/restaurantes/900020029-pulpork-original-pulled-pork
+537;Doggis;https://www.rappi.cl/restaurantes/900020953-doggis
+538;El Mastique;https://www.rappi.cl/restaurantes/900022015-el-mastique
+539;Donerds Donuts;https://www.rappi.cl/restaurantes/900022863-donerds-donuts
+540;Lasaña Factory;https://www.rappi.cl/restaurantes/900027854-lasana-factory
+541;Crazy Cliff;https://www.rappi.cl/restaurantes/900028452-crazy-cliff
+542;Panier;https://www.rappi.cl/restaurantes/900029184-panier
+543;Barbazul;https://www.rappi.cl/restaurantes/900029260-barbazul
+544;Funny Waffles;https://www.rappi.cl/restaurantes/900035794-funny-waffles
+545;Voilá;https://www.rappi.cl/restaurantes/900037641-voila
+546;El Sabor Parrillero;https://www.rappi.cl/restaurantes/900038147-el-sabor-parrillero
+547;Tasty Bowls;https://www.rappi.cl/restaurantes/900041109-tasty-bowls
+548;Sorry Burger;https://www.rappi.cl/restaurantes/900057298-sorry-burger
+549;Lazeez Comida Árabe Macul;https://www.rappi.cl/restaurantes/900066927-lazeez-comida-arabe-macul
+550;Oréganos;https://www.rappi.cl/restaurantes/900074881-oreganos
+551;Tutto Pasta;https://www.rappi.cl/restaurantes/900076865-tutto-pasta
+552;Suni Sushi Express los Leones;https://www.rappi.cl/restaurantes/900079933-suni-sushi-express-los-leones
+553;Etienne Marcel Ñuñoa;https://www.rappi.cl/restaurantes/900080717-etienne-marcel-nunoa
+554;Carnitas;https://www.rappi.cl/restaurantes/900081321-carnitas
+555;Nican Sushi Recoleta;https://www.rappi.cl/restaurantes/900082947-nican-sushi-recoleta
+556;Lumberjack's Grill;https://www.rappi.cl/restaurantes/900014915-lumberjacks-grill
+557;Pollo Fast;https://www.rappi.cl/restaurantes/900016021-pollo-fast
+558;Koya Sushi;https://www.rappi.cl/restaurantes/900017899-koya-sushi
+559;Don Juan Sanguchería;https://www.rappi.cl/restaurantes/900019379-don-juan-sangucheria
+560;Saki Sushi;https://www.rappi.cl/restaurantes/900022686-saki-sushi
+561;Sonder Meat....;https://www.rappi.cl/restaurantes/900026555-sonder-meat
+562;Perpiacere;https://www.rappi.cl/restaurantes/900028480-perpiacere
+563;Pollos a las Brasas Delicias;https://www.rappi.cl/restaurantes/900028796-pollos-a-las-brasas-delicias
+564;Dulce Pimienta;https://www.rappi.cl/restaurantes/900035479-dulce-pimienta
+565;Sweetpaty;https://www.rappi.cl/restaurantes/900039309-sweetpaty
+566;D Pablo´s (almuerzos y once );https://www.rappi.cl/restaurantes/900039551-d-pablos-almuerzos-y-once
+567;Martina Sangucheria Vegana;https://www.rappi.cl/restaurantes/900040774-martina-sangucheria-vegana
+568;Zawaya Sushi;https://www.rappi.cl/restaurantes/900048107-zawaya-sushi
+569;Da Franco;https://www.rappi.cl/restaurantes/900048959-da-franco
+570;Alitas;https://www.rappi.cl/restaurantes/900073173-alitas
+571;La Tequeneria;https://www.rappi.cl/restaurantes/900074834-la-tequeneria
+572;Dulce Su;https://www.rappi.cl/restaurantes/900074877-dulce-su
+573;Fuente Epica;https://www.rappi.cl/restaurantes/900077724-fuente-epica
+574;Entre Churros;https://www.rappi.cl/restaurantes/900079654-entre-churros
+575;Hawaian Bowl;https://www.rappi.cl/restaurantes/900081339-hawaian-bowl
+576;Hacienda Huentelauquen;https://www.rappi.cl/restaurantes/900081905-hacienda-huentelauquen
+577;Kimura Sushis;https://www.rappi.cl/restaurantes/900083229-kimura-sushis
+578;Big O Pizza;https://www.rappi.cl/restaurantes/900083621-big-o-pizza
+579;Happy Days Waffles & Coffee;https://www.rappi.cl/restaurantes/900016020-happy-days-waffles-y-coffee
+580;Sushi Rolls & Music;https://www.rappi.cl/restaurantes/900018425-sushi-rolls-y-music
+581;The Junko;https://www.rappi.cl/restaurantes/900018972-the-junko
+582;Los Reyes del Pan;https://www.rappi.cl/restaurantes/900022265-los-reyes-del-pan
+583;Croq Delice;https://www.rappi.cl/restaurantes/900023172-croq-delice
+584;Kwa Food;https://www.rappi.cl/restaurantes/900027446-kwa-food
+585;Romamor;https://www.rappi.cl/restaurantes/900032773-romamor
+586;Colaciones Mery;https://www.rappi.cl/restaurantes/900032893-colaciones-mery
+587;Salad Lab;https://www.rappi.cl/restaurantes/900035352-salad-lab
+588;arabitodeluxe;https://www.rappi.cl/restaurantes/900036604-arabitodeluxe
+589;Crepe Mania;https://www.rappi.cl/restaurantes/900038037-crepe-mania
+590;Juicy Lucy;https://www.rappi.cl/restaurantes/900066814-juicy-lucy
+591;Gaucho Parrilla;https://www.rappi.cl/restaurantes/900068788-gaucho-parrilla
+592;Le Chicken by Pollo Castillo;https://www.rappi.cl/restaurantes/900073896-le-chicken-by-pollo-castillo
+593;Panafood Constitucion 270;https://www.rappi.cl/restaurantes/900077654-panafood-constitucion-270
+594;Trigo Pan;https://www.rappi.cl/restaurantes/900078238-trigo-pan
+595;El Mundo de Las Alitas de Pollo;https://www.rappi.cl/restaurantes/900080620-el-mundo-de-las-alitas-de-pollo
+596;El Mundo de la Empanada Quinta Normal;https://www.rappi.cl/restaurantes/900080622-el-mundo-de-la-empanada-quinta-norm
+597;Etienne Marcel Providencia;https://www.rappi.cl/restaurantes/900080712-etienne-marcel-providencia
+598;Slicy Rocks Pizza;https://www.rappi.cl/restaurantes/900082310-slicy-rocks-pizza
+599;La Maison Delice;https://www.rappi.cl/restaurantes/900083341-la-maison-delice
+600;Vittamina Restaurant.;https://www.rappi.cl/restaurantes/900083582-vittamina-restaurant
+601;Pastelería Suiza;https://www.rappi.cl/restaurantes/900015822-pasteleria-suiza
+602;Fritkot;https://www.rappi.cl/restaurantes/900017835-fritkot
+603;Burger Bistro;https://www.rappi.cl/restaurantes/900026960-burger-bistro
+604;Le Ñam;https://www.rappi.cl/restaurantes/900028490-le-nam
+605;Yogurtlife;https://www.rappi.cl/restaurantes/900030347-yogurtlife
+606;Mundo Popcorn;https://www.rappi.cl/restaurantes/900035804-mundo-popcorn
+607;Maxidea;https://www.rappi.cl/restaurantes/900036028-maxidea
+608;Pine Cone Bakery;https://www.rappi.cl/restaurantes/900036589-pine-cone-bakery
+609;Por La Fruta Gourmet;https://www.rappi.cl/restaurantes/900036842-por-la-fruta-gourmet
+610;Franco´s Pizza;https://www.rappi.cl/restaurantes/900066973-francos-pizza
+611;Dulcentorno;https://www.rappi.cl/restaurantes/900067143-dulcentorno
+612;Doggis Heladeria;https://www.rappi.cl/restaurantes/900073676-doggis-heladeria
+613;Pancitosyu;https://www.rappi.cl/restaurantes/900074569-pancitosyu
+614;Churros Meds;https://www.rappi.cl/restaurantes/900075270-churros-meds
+615;Mechada Donde la Abuela;https://www.rappi.cl/restaurantes/900075485-mechada-donde-la-abuela
+616;Polloclock;https://www.rappi.cl/restaurantes/900077463-polloclock
+617;La Tequeñería Estación Central;https://www.rappi.cl/restaurantes/900078686-la-tequeneria-estacion-central
+618;La Tequeñería la Reina;https://www.rappi.cl/restaurantes/900078698-la-tequeneria-la-reina
+619;This Is Vegan;https://www.rappi.cl/restaurantes/900079964-this-is-vegan
+620;Rincon la Pizza;https://www.rappi.cl/restaurantes/900080517-rincon-la-pizza
+621;The Kings Papa;https://www.rappi.cl/restaurantes/900083436-the-kings-papa
+622;Nicecream;https://www.rappi.cl/restaurantes/372-nicecream
+623;Pedro Juan & Diego;https://www.rappi.cl/restaurantes/900015580-pedro-juan-y-diego
+624;Schopdog;https://www.rappi.cl/restaurantes/900025658-schopdog
+625;Bendita Sopaipilla;https://www.rappi.cl/restaurantes/900026170-bendita-sopaipilla
+626;Vecchia Casa;https://www.rappi.cl/restaurantes/900026991-vecchia-casa
+627;Tortas Santa Ana;https://www.rappi.cl/restaurantes/900027447-tortas-santa-ana
+628;Juan Valdez Café;https://www.rappi.cl/restaurantes/900032563-juan-valdez-cafe
+629;El Dandy;https://www.rappi.cl/restaurantes/900035843-el-dandy
+630;La Fragazza Pizza;https://www.rappi.cl/restaurantes/900036084-la-fragazza-pizza
+631;Verace Pizza;https://www.rappi.cl/restaurantes/900036788-verace-pizza
+632;Obvious Burger;https://www.rappi.cl/restaurantes/900036806-obvious-burger
+633;Coppelia;https://www.rappi.cl/restaurantes/900039156-coppelia
+634;Happy Gelato;https://www.rappi.cl/restaurantes/900070302-happy-gelato
+635;Fiki Burger;https://www.rappi.cl/restaurantes/900073000-fiki-burger
+636;The BIG Burgery;https://www.rappi.cl/restaurantes/900077720-the-big-burgery
+637;Catrinas Mexican Food;https://www.rappi.cl/restaurantes/900081244-catrinas-mexican-food
+638;Cineplanet;https://www.rappi.cl/restaurantes/900081307-cineplanet
+639;Omg Pizza;https://www.rappi.cl/restaurantes/900083395-omg-pizza
+640;Pronto Sándwich;https://www.rappi.cl/restaurantes/900014238-pronto-sandwich
+641;Velvet Bakery;https://www.rappi.cl/restaurantes/900017451-velvet-bakery
+642;Los Egipcios;https://www.rappi.cl/restaurantes/900024692-los-egipcios
+643;La Burguesería;https://www.rappi.cl/restaurantes/900029077-la-burgueseria
+644;Q riko;https://www.rappi.cl/restaurantes/900035631-q-riko
+645;La Pichuleria;https://www.rappi.cl/restaurantes/900041261-la-pichuleria
+646;PARRILLADAS ARGENTINA ALAMEDA;https://www.rappi.cl/restaurantes/900048573-parrilladas-argentina-alameda
+647;Deleite Churros;https://www.rappi.cl/restaurantes/900073368-deleite-churros
+648;Le Ñam Burgers;https://www.rappi.cl/restaurantes/900073429-le-nam-burgers
+649;Queee Pollos;https://www.rappi.cl/restaurantes/900075006-queee-pollos
+650;Montpellier Cafe;https://www.rappi.cl/restaurantes/900077870-montpellier-cafe
+651;La Brava Sangucheria Manuel Montt;https://www.rappi.cl/restaurantes/900082652-la-brava-sangucheria-manuel-montt
+652;Italita;https://www.rappi.cl/restaurantes/900014081-italita
+653;Pollo Stop Crispy;https://www.rappi.cl/restaurantes/900018331-pollo-stop-crispy
+654;THE FRITAS;https://www.rappi.cl/restaurantes/900026009-the-fritas
+655;Biteme Organic Burger;https://www.rappi.cl/restaurantes/900030543-biteme-organic-burger
+656;megasandwich el bajon;https://www.rappi.cl/restaurantes/900031596-megasandwich-el-bajon
+657;Sublime Pastelería;https://www.rappi.cl/restaurantes/900032106-sublime-pasteleria
+658;El Karim;https://www.rappi.cl/restaurantes/900035777-el-karim
+659;Por la Fruta;https://www.rappi.cl/restaurantes/900036750-por-la-fruta
+660;La Merienda Empanadas;https://www.rappi.cl/restaurantes/900037038-la-merienda-empanadas
+661;La Antojería;https://www.rappi.cl/restaurantes/900071622-la-antojeria
+662;Lasagna & Pasta 90;https://www.rappi.cl/restaurantes/900075367-lasagna-y-pasta-90
+663;Noi Siamo Trattoria;https://www.rappi.cl/restaurantes/900079313-noi-siamo-trattoria
+664;Pizzarella Renca;https://www.rappi.cl/restaurantes/900080201-pizzarella-renca
+665;Barrio Peru 2;https://www.rappi.cl/restaurantes/900080904-barrio-peru-2
+666;Entre Laloslololo;https://www.rappi.cl/restaurantes/900083623-entre-laloslololo
+667;Pastelería Fufu;https://www.rappi.cl/restaurantes/900014992-pasteleria-fufu
+668;Kiosko Roca Centro;https://www.rappi.cl/restaurantes/900015554-kiosko-roca-centro
+669;Rustik Cafetería de Especialidad;https://www.rappi.cl/restaurantes/900021399-rustik-cafeteria-de-especialidad
+670;Mango Pastelería 0% Azúcar;https://www.rappi.cl/restaurantes/900023692-mango-pasteleria-0por-ciento-azucar
+671;Chicken Tea;https://www.rappi.cl/restaurantes/900026040-chicken-tea
+672;Sabro Pollo;https://www.rappi.cl/restaurantes/900065939-sabro-pollo
+673;Walk 2 Salad;https://www.rappi.cl/restaurantes/900075230-walk-2-salad
+674;Gusti Vegan;https://www.rappi.cl/restaurantes/900075272-gusti-vegan
+675;Que Tentacion Cafe;https://www.rappi.cl/restaurantes/900077810-que-tentacion-cafe
+676;Pizzeria Ciao Ciao;https://www.rappi.cl/restaurantes/900078279-pizzeria-ciao-ciao
+677;Pastelera Dolny;https://www.rappi.cl/restaurantes/900078393-pastelera-dolny
+678;La Casa Del Tequeño;https://www.rappi.cl/restaurantes/900080692-la-casa-del-tequeno
+679;McDonald's;https://www.rappi.cl/restaurantes/900082874-mcdonalds
+680;Cafeteria Incuba;https://www.rappi.cl/restaurantes/900083842-cafeteria-incuba
+681;Cacao y Manjar;https://www.rappi.cl/restaurantes/900084964-cacao-y-manjar
+682;La Maestranza;https://www.rappi.cl/restaurantes/900014661-la-maestranza
+683;El Arepazo;https://www.rappi.cl/restaurantes/900015909-el-arepazo
+684;Punto Dulce;https://www.rappi.cl/restaurantes/900025713-punto-dulce
+685;Madison Coffee;https://www.rappi.cl/restaurantes/900027269-madison-coffee
+686;Kong Lung;https://www.rappi.cl/restaurantes/900027304-kong-lung
+687;Green Vitality;https://www.rappi.cl/restaurantes/900035908-green-vitality
+688;Mechada Smile Ñuñoa;https://www.rappi.cl/restaurantes/900068828-mechada-smile-nunoa
+689;Come Fry With Me;https://www.rappi.cl/restaurantes/900072668-come-fry-with-me
+690;Bagel Burger;https://www.rappi.cl/restaurantes/900077719-bagel-burger
+691;La Casa de Las Papas Fritas;https://www.rappi.cl/restaurantes/900080675-la-casa-de-las-papas-fritas
+692;Emporio La Rosa;https://www.rappi.cl/restaurantes/900015793-emporio-la-rosa
+693;Pizza Hut;https://www.rappi.cl/restaurantes/900019006-pizza-hut
+694;Cafeteria Dulce Vainilla;https://www.rappi.cl/restaurantes/900020957-cafeteria-dulce-vainilla
+695;Zepellin;https://www.rappi.cl/restaurantes/900022161-zepellin
+696;Quinta Nativa;https://www.rappi.cl/restaurantes/900029272-quinta-nativa
+697;Moritas Bakery;https://www.rappi.cl/restaurantes/900029481-moritas-bakery
+698;Oliva Ensalada Sandwich & Algo Mas;https://www.rappi.cl/restaurantes/900031552-oliva-ensalada-sandwich-y-algo-mas
+699;La Mexicana;https://www.rappi.cl/restaurantes/900041105-la-mexicana
+700;Inside Deli By Tea Connection;https://www.rappi.cl/restaurantes/900048500-inside-deli-by-tea-connection
+701;Tutto Vegani;https://www.rappi.cl/restaurantes/900075707-tutto-vegani
+702;Bloke Burger;https://www.rappi.cl/restaurantes/900078296-bloke-burger
+703;Cachapas Yayita y Algo Mas Spa;https://www.rappi.cl/restaurantes/900079031-cachapas-yayita-y-algo-mas-spa
+704;Chicken Cowboy;https://www.rappi.cl/restaurantes/900081507-chicken-cowboy
+705;Shawerma el Baba;https://www.rappi.cl/restaurantes/900083046-shawerma-el-baba
+706;Take Eat;https://www.rappi.cl/restaurantes/900027000-take-eat
+707;Magnolia By Flopi Group;https://www.rappi.cl/restaurantes/900074751-magnolia-by-flopi-group
+708;La Sandwicheria;https://www.rappi.cl/restaurantes/900080530-la-sandwicheria
+709;Get It Santiago;https://www.rappi.cl/restaurantes/900080966-get-it-santiago
+710;Churrisimo Santiago Centro;https://www.rappi.cl/restaurantes/900081243-churrisimo-santiago-centro
+711;Alexandrina Gelateria Santiago;https://www.rappi.cl/restaurantes/900082213-alexandrina-gelateria-santiago
+712;American Burger;https://www.rappi.cl/restaurantes/900015132-american-burger
+713;Rico y Rapido;https://www.rappi.cl/restaurantes/900024758-rico-y-rapido
+714;Huerto Vurger;https://www.rappi.cl/restaurantes/900078616-huerto-vurger
+715;Fasfu Burgers;https://www.rappi.cl/restaurantes/900078775-fasfu-burgers
+716;Q Riko Vitacura;https://www.rappi.cl/restaurantes/900080616-q-riko-vitacura
+717;Garage 0276;https://www.rappi.cl/restaurantes/900037690-garage-0276
+718;U.K Vegan Burger;https://www.rappi.cl/restaurantes/900066428-uk-vegan-burger
+719;Injera;https://www.rappi.cl/restaurantes/900067205-injera
+720;Bang Burgers;https://www.rappi.cl/restaurantes/900016984-bang-burgers
+721;England Vegan Burger;https://www.rappi.cl/restaurantes/900077363-england-vegan-burger
+722;The Chilean;https://www.rappi.cl/restaurantes/900014944-the-chilean
+723;Señor Burger;https://www.rappi.cl/restaurantes/900026047-senor-burger
+724;Cafetería Between;https://www.rappi.cl/restaurantes/900031461-cafeteria-between
+725;Hdp;https://www.rappi.cl/restaurantes/900074020-hdp
+726;Caracas Burger by El Arepazo;https://www.rappi.cl/restaurantes/900021454-caracas-burger-by-el-arepazo
+727;Pablitos Burguer;https://www.rappi.cl/restaurantes/900074929-pablitos-burguer
+728;What Burger;https://www.rappi.cl/restaurantes/900075025-what-burger
+729;Cafetería La Once;https://www.rappi.cl/restaurantes/900030302-cafeteria-la-once
+730;Coffe & Crepes Santiago;https://www.rappi.cl/restaurantes/900032330-coffe-y-crepes-santiago
+731;La sucursal del cielo;https://www.rappi.cl/restaurantes/900040093-la-sucursal-del-cielo
+732;cafeteria y emporio riel;https://www.rappi.cl/restaurantes/900041244-cafeteria-y-emporio-riel
+733;Ais Burger;https://www.rappi.cl/restaurantes/900069816-ais-burger
+734;Honor Burgers;https://www.rappi.cl/restaurantes/900048698-honor-burgers
+735;Loops & Coffee;https://www.rappi.cl/restaurantes/900024954-loops-y-coffee
+736;Open Burger;https://www.rappi.cl/restaurantes/900075007-open-burger
+737;Miky Mechas;https://www.rappi.cl/restaurantes/900030533-miky-mechas
+738;Burger Sin;https://www.rappi.cl/restaurantes/900065974-burger-sin
+739;Toro Sazon;https://www.rappi.cl/restaurantes/900079326-toro-sazon
+740;El Mundo de Las Hamburguesas;https://www.rappi.cl/restaurantes/900081229-el-mundo-de-las-hamburguesas
+741;Ay mi madre;https://www.rappi.cl/restaurantes/900014882-ay-mi-madre
+742;Frosty Shakes;https://www.rappi.cl/restaurantes/900018400-frosty-shakes
+743;Under Coffee;https://www.rappi.cl/restaurantes/900037403-under-coffee
+744;A SUSHI;https://www.rappi.cl/restaurantes/900039261-a-sushi
+745;Albus Sushi;https://www.rappi.cl/restaurantes/900078415-albus-sushi
+746;Veggie´s 310;https://www.rappi.cl/restaurantes/900074155-veggies-310
+747;Tamashi Express;https://www.rappi.cl/restaurantes/900078270-tamashi-express
+748;Otto Pollo;https://www.rappi.cl/restaurantes/900019720-otto-pollo
+749;Romani;https://www.rappi.cl/restaurantes/900021455-romani
+750;Sangucheria Rosita;https://www.rappi.cl/restaurantes/900029218-sangucheria-rosita
+751;Restobar Compañia 1287;https://www.rappi.cl/restaurantes/900031509-restobar-compania-1287
+752;Santa Brasa;https://www.rappi.cl/restaurantes/900035914-santa-brasa
+753;Mr. Vegetariano;https://www.rappi.cl/restaurantes/900073536-mr-vegetariano
+754;El Mundo de la Parrilla;https://www.rappi.cl/restaurantes/900081237-el-mundo-de-la-parrilla
+755;Veggie Thai;https://www.rappi.cl/restaurantes/900084515-veggie-thai
+756;Gras;https://www.rappi.cl/restaurantes/900013777-gras
+757;Franco 2x1;https://www.rappi.cl/restaurantes/900016608-franco-2x1
+758;La esquina de la salsa y mariscos;https://www.rappi.cl/restaurantes/900020362-la-esquina-de-la-salsa-y-mariscos
+759;Cachapa La Jonronera;https://www.rappi.cl/restaurantes/900029239-cachapa-la-jonronera
+760;Pokewok Vegano;https://www.rappi.cl/restaurantes/900073816-pokewok-vegano
+761;Pizzas Caffe Di Roma;https://www.rappi.cl/restaurantes/900074401-pizzas-caffe-di-roma
+762;Que Chulada;https://www.rappi.cl/restaurantes/900080545-que-chulada
+763;Cacao Bakery;https://www.rappi.cl/restaurantes/900083357-cacao-bakery
+764;Indian For All;https://www.rappi.cl/restaurantes/900084071-indian-for-all
+765;Fatboys Donuts;https://www.rappi.cl/restaurantes/900084890-fatboys-donuts
+766;Chiken Po;https://www.rappi.cl/restaurantes/900085219-chiken-po
+767;Korner Beer House;https://www.rappi.cl/restaurantes/900018409-korner-beer-house
+768;La Sanguchera del Barrio;https://www.rappi.cl/restaurantes/900022790-la-sanguchera-del-barrio
+769;Pasta Pazza;https://www.rappi.cl/restaurantes/900026278-pasta-pazza
+770;T de Tequeño;https://www.rappi.cl/restaurantes/900027202-t-de-tequeno
+771;La Chimbotana;https://www.rappi.cl/restaurantes/900028080-la-chimbotana
+772;El Arabe;https://www.rappi.cl/restaurantes/900036779-el-arabe
+773;El Carnal;https://www.rappi.cl/restaurantes/900037728-el-carnal
+774;maktub sushi;https://www.rappi.cl/restaurantes/900048491-maktub-sushi
+775;Lomo de La Fuente;https://www.rappi.cl/restaurantes/900072760-lomo-de-la-fuente
+776;El Mundo de la Empanada;https://www.rappi.cl/restaurantes/900075458-el-mundo-de-la-empanada
+777;El Mundo de la Cachapa Vitacura;https://www.rappi.cl/restaurantes/900080619-el-mundo-de-la-cachapa-vitacura
+778;Quibop Sushi Providencia;https://www.rappi.cl/restaurantes/900082920-quibop-sushi-providencia
+779;Silo Pizza Manuel Montt;https://www.rappi.cl/restaurantes/900084099-silo-pizza-manuel-montt
+780;Ato Sushi;https://www.rappi.cl/restaurantes/900015146-ato-sushi
+781;PanaFood;https://www.rappi.cl/restaurantes/900015296-panafood
+782;C´viche;https://www.rappi.cl/restaurantes/900015926-cviche
+783;Sathiri;https://www.rappi.cl/restaurantes/900017596-sathiri
+784;Ferchis;https://www.rappi.cl/restaurantes/900020618-ferchis
+785;Domenica;https://www.rappi.cl/restaurantes/900020832-domenica
+786;Rincón Venezolano;https://www.rappi.cl/restaurantes/900021941-rincon-venezolano
+787;Aloha POKÉ;https://www.rappi.cl/restaurantes/900025086-aloha-poke
+788;Cocineria PyC;https://www.rappi.cl/restaurantes/900038386-cocineria-pyc
+789;Que Sopaipilla;https://www.rappi.cl/restaurantes/900056880-que-sopaipilla
+790;Treco Pizza;https://www.rappi.cl/restaurantes/900067713-treco-pizza
+791;Sushi Bogati;https://www.rappi.cl/restaurantes/900069899-sushi-bogati
+792;Happy Milkshake;https://www.rappi.cl/restaurantes/900070313-happy-milkshake
+793;La Kzona;https://www.rappi.cl/restaurantes/900075524-la-kzona
+794;Full Appetit 2;https://www.rappi.cl/restaurantes/900080224-full-appetit-2
+795;Dulce Barquillo;https://www.rappi.cl/restaurantes/900080800-dulce-barquillo
+796;Paradiso;https://www.rappi.cl/restaurantes/900018844-paradiso
+797;Yalla Habibi-Comida Árabe;https://www.rappi.cl/restaurantes/900024760-yalla-habibi-comida-arabe
+798;Tacos & Cuates - TexMex;https://www.rappi.cl/restaurantes/900025085-tacos-y-cuates-texmex
+799;Oh My Teque!;https://www.rappi.cl/restaurantes/900038041-oh-my-teque
+800;It's Just Wings;https://www.rappi.cl/restaurantes/900048825-its-just-wings
+801;Tequenomania;https://www.rappi.cl/restaurantes/900074749-tequenomania
+802;La Casa de Las Alitas;https://www.rappi.cl/restaurantes/900080676-la-casa-de-las-alitas
+803;Para Veganos Food;https://www.rappi.cl/restaurantes/900083311-para-veganos-food
+804;Don Pretzel;https://www.rappi.cl/restaurantes/900018569-don-pretzel
+805;Don Shi;https://www.rappi.cl/restaurantes/900018952-don-shi
+806;delicias del sinai;https://www.rappi.cl/restaurantes/900036459-delicias-del-sinai
+807;POLLO' CLOCK;https://www.rappi.cl/restaurantes/900073228-pollo-clock
+808;Burrito Vegan Bistró;https://www.rappi.cl/restaurantes/900075631-burrito-vegan-bistro
+809;Delicia Sushi;https://www.rappi.cl/restaurantes/900083211-delicia-sushi
+810;Pavarotti Pizza Vegani;https://www.rappi.cl/restaurantes/900083387-pavarotti-pizza-vegani
+811;Pollos sin Fronteras;https://www.rappi.cl/restaurantes/900084049-pollos-sin-fronteras
+812;Lima 17;https://www.rappi.cl/restaurantes/900015279-lima-17
+813;Gran Chiquito;https://www.rappi.cl/restaurantes/900017287-gran-chiquito
+814;Genovesa Pizzería;https://www.rappi.cl/restaurantes/900018666-genovesa-pizzeria
+815;Rabello Pizza;https://www.rappi.cl/restaurantes/900027275-rabello-pizza
+816;Pa' que Piques y te Rías;https://www.rappi.cl/restaurantes/900027706-pa-que-piques-y-te-rias
+817;ANGUS BURGERS;https://www.rappi.cl/restaurantes/900066709-angus-burgers
+818;Doctor Dulce Ñuñoa;https://www.rappi.cl/restaurantes/900080265-doctor-dulce-nunoa
+819;Royal Food;https://www.rappi.cl/restaurantes/900081207-royal-food
+820;Hamburguesa Parrillera;https://www.rappi.cl/restaurantes/900081234-hamburguesa-parrillera
+821;Holy Donas;https://www.rappi.cl/restaurantes/900082412-holy-donas
+822;Dragon Pizzeria;https://www.rappi.cl/restaurantes/900083031-dragon-pizzeria
+823;El Peruanito;https://www.rappi.cl/restaurantes/485-el-peruanito
+824;Rincon Paisano;https://www.rappi.cl/restaurantes/900014583-rincon-paisano
+825;Club de Sushi;https://www.rappi.cl/restaurantes/900015084-club-de-sushi
+826;Caribe Burger;https://www.rappi.cl/restaurantes/900015133-caribe-burger
+827;Yiyi;https://www.rappi.cl/restaurantes/900015257-yiyi
+828;Pizzeria Italia;https://www.rappi.cl/restaurantes/900016317-pizzeria-italia
+829;Tostadisimo Pizza;https://www.rappi.cl/restaurantes/900017685-tostadisimo-pizza
+830;Dimaky sushi fusión;https://www.rappi.cl/restaurantes/900022009-dimaky-sushi-fusion
+831;Wakai;https://www.rappi.cl/restaurantes/900022033-wakai
+832;Burguer’s 310 República;https://www.rappi.cl/restaurantes/900023300-burguers-310-republica
+833;Caffé Di Luca;https://www.rappi.cl/restaurantes/900023746-caffe-di-luca
+834;La Muzza Pizzería;https://www.rappi.cl/restaurantes/900024674-la-muzza-pizzeria
+835;Leaf - Just Fresh Salads;https://www.rappi.cl/restaurantes/900025099-leaf-just-fresh-salads
+836;Empanadas San Valentino;https://www.rappi.cl/restaurantes/900027493-empanadas-san-valentino
+837;La Fabrica Craft Beer;https://www.rappi.cl/restaurantes/900027752-la-fabrica-craft-beer
+838;José Ramón 277;https://www.rappi.cl/restaurantes/900027765-jose-ramon-277
+839;The Greek;https://www.rappi.cl/restaurantes/900029078-the-greek
+840;Menchoy Restaurant;https://www.rappi.cl/restaurantes/900031837-menchoy-restaurant
+841;Suo Food;https://www.rappi.cl/restaurantes/900032139-suo-food
+842;California Chicken;https://www.rappi.cl/restaurantes/900035482-california-chicken
+843;Cupbab Express;https://www.rappi.cl/restaurantes/900035620-cupbab-express
+844;Lui Kung;https://www.rappi.cl/restaurantes/900036400-lui-kung
+845;Ismaelle Food Coffee;https://www.rappi.cl/restaurantes/900036773-ismaelle-food-coffee
+846;JE Burger;https://www.rappi.cl/restaurantes/900037290-je-burger
+847;ENCANTO LIMEÑO;https://www.rappi.cl/restaurantes/900037587-encanto-limeno
+848;Chicho's;https://www.rappi.cl/restaurantes/900039159-chichos
+849;La Patrona;https://www.rappi.cl/restaurantes/900040962-la-patrona
+850;Tasty Salad;https://www.rappi.cl/restaurantes/900041108-tasty-salad
+851;El Puerto - Sabores del Mundo;https://www.rappi.cl/restaurantes/900041324-el-puerto-sabores-del-mundo
+852;Sabor al Toque;https://www.rappi.cl/restaurantes/900057076-sabor-al-toque
+853;All Star Burger;https://www.rappi.cl/restaurantes/900065963-all-star-burger
+854;Burritos Kahlo;https://www.rappi.cl/restaurantes/900065964-burritos-kahlo
+855;Chicken What?;https://www.rappi.cl/restaurantes/900066815-chicken-what
+856;Seven Sushi;https://www.rappi.cl/restaurantes/900066887-seven-sushi
+857;Wenappetit Encomenderos;https://www.rappi.cl/restaurantes/900067035-wenappetit-encomenderos
+858;Torripizza;https://www.rappi.cl/restaurantes/900067814-torripizza
+859;Chickengine;https://www.rappi.cl/restaurantes/900074463-chickengine
+860;Sanguches la Weá;https://www.rappi.cl/restaurantes/900075655-sanguches-la-wea
+861;Origami Vegan Wok;https://www.rappi.cl/restaurantes/900075691-origami-vegan-wok
+862;La Choreria Waffles;https://www.rappi.cl/restaurantes/900077339-la-choreria-waffles
+863;Chicken Pork;https://www.rappi.cl/restaurantes/900077459-chicken-pork
+864;Lolita Canela;https://www.rappi.cl/restaurantes/900078113-lolita-canela
+865;La Galera Chile;https://www.rappi.cl/restaurantes/900078352-la-galera-chile
+866;Chancho Rey;https://www.rappi.cl/restaurantes/900079067-chancho-rey
+867;Cafe 56;https://www.rappi.cl/restaurantes/900079259-cafe-56
+868;El Rocoto Norteno;https://www.rappi.cl/restaurantes/900079287-el-rocoto-norteno
+869;Sow;https://www.rappi.cl/restaurantes/900080165-sow
+870;Brother Hood Ñuñoa;https://www.rappi.cl/restaurantes/900080264-brother-hood-nunoa
+871;El Mundo Del Tequeño la Reina;https://www.rappi.cl/restaurantes/900080625-el-mundo-del-tequeno-la-reina
+872;La Casa de Las Hamburguesas;https://www.rappi.cl/restaurantes/900080674-la-casa-de-las-hamburguesas
+873;Cafeteria Cat Paw;https://www.rappi.cl/restaurantes/900080879-cafeteria-cat-paw
+874;Torripizza Cl;https://www.rappi.cl/restaurantes/900081644-torripizza-cl
+875;Kinari Sushi Nikkei;https://www.rappi.cl/restaurantes/900081740-kinari-sushi-nikkei
+876;SUSHINIKKEI 17;https://www.rappi.cl/restaurantes/900082476-sushinikkei-17
+877;Crispy Waffles;https://www.rappi.cl/restaurantes/900083499-crispy-waffles
+878;La Orquidea Pasteleria;https://www.rappi.cl/restaurantes/900083683-la-orquidea-pasteleria
+879;El Mero Mero;https://www.rappi.cl/restaurantes/900083781-el-mero-mero
+880;Cele Sushi Ñuñoa;https://www.rappi.cl/restaurantes/900083986-cele-sushi-nunoa
+881;Fabric Burger Suecia;https://www.rappi.cl/restaurantes/900084030-fabric-burger-suecia
+882;Puinare Burger Grill Spa;https://www.rappi.cl/restaurantes/900084521-puinare-burger-grill-spa
+883;Bambu Gourmet;https://www.rappi.cl/restaurantes/900084727-bambu-gourmet
+884;Rincon Dulciera;https://www.rappi.cl/restaurantes/900084897-rincon-dulciera
+885;El Garaje de la Chanchita;https://www.rappi.cl/restaurantes/900020604-el-garaje-de-la-chanchita
+886;Café Loreto;https://www.rappi.cl/restaurantes/900027763-cafe-loreto
+887;Poke Fresh;https://www.rappi.cl/restaurantes/900029954-poke-fresh
+888;Bravazzo;https://www.rappi.cl/restaurantes/900030380-bravazzo
+889;The Green Burger;https://www.rappi.cl/restaurantes/900031912-the-green-burger
+890;Porky;https://www.rappi.cl/restaurantes/900032042-porky
+891;El Gran Bitute Recoleta;https://www.rappi.cl/restaurantes/900035759-el-gran-bitute-recoleta
+892;Ciento Trece;https://www.rappi.cl/restaurantes/900036896-ciento-trece
+893;Kapitan Frei Sushi;https://www.rappi.cl/restaurantes/900038646-kapitan-frei-sushi
+894;Queen Burger;https://www.rappi.cl/restaurantes/900039470-queen-burger
+895;toshiro sushi nikkei;https://www.rappi.cl/restaurantes/900040764-toshiro-sushi-nikkei
+896;Embelecos;https://www.rappi.cl/restaurantes/900064874-embelecos
+897;Happy Coffe;https://www.rappi.cl/restaurantes/900070304-happy-coffe
+898;Santa Burga;https://www.rappi.cl/restaurantes/900073397-santa-burga
+899;Sangucheria Bacan;https://www.rappi.cl/restaurantes/900073824-sangucheria-bacan
+900;The Work Wings;https://www.rappi.cl/restaurantes/900074425-the-work-wings
+901;Cream Roll;https://www.rappi.cl/restaurantes/900075496-cream-roll
+902;Kikai Sushi;https://www.rappi.cl/restaurantes/900077439-kikai-sushi
+903;Vapizza;https://www.rappi.cl/restaurantes/900077684-vapizza
+904;The Wings Of The World la Reina;https://www.rappi.cl/restaurantes/900078755-the-wings-of-the-world-la-reina
+905;Kao Asian Food;https://www.rappi.cl/restaurantes/900080147-kao-asian-food
+906;The Vurger Ñuñoa;https://www.rappi.cl/restaurantes/900080347-the-vurger-nunoa
+907;El Expresso Burger;https://www.rappi.cl/restaurantes/900082052-el-expresso-burger
+908;Restaurant Peruano Inca Mapu;https://www.rappi.cl/restaurantes/900083284-restaurant-peruano-inca-mapu
+909;Togarashi Nikkei y Sushi;https://www.rappi.cl/restaurantes/900083304-togarashi-nikkei-y-sushi
+910;Gusti Pasta Vegani;https://www.rappi.cl/restaurantes/900083405-gusti-pasta-vegani
+911;Roosterbull;https://www.rappi.cl/restaurantes/900083849-roosterbull
+912;Gorbea Sushi;https://www.rappi.cl/restaurantes/900083851-gorbea-sushi
+913;Holleer Restobar Providencia;https://www.rappi.cl/restaurantes/900084005-holleer-restobar-providencia
+914;Charlies Tavern;https://www.rappi.cl/restaurantes/900084080-charlies-tavern
+915;Mister Poncho Burgers;https://www.rappi.cl/restaurantes/900084287-mister-poncho-burgers
+916;Alminuto Sushi;https://www.rappi.cl/restaurantes/900084469-alminuto-sushi
+917;Kanda Thai;https://www.rappi.cl/restaurantes/900084632-kanda-thai
+918;Shabuum;https://www.rappi.cl/restaurantes/900084696-shabuum
+919;Alminuto Foods;https://www.rappi.cl/restaurantes/900084832-alminuto-foods
+920;Il Romano Portugal;https://www.rappi.cl/restaurantes/900084846-il-romano-portugal
+921;Restobar Santiago;https://www.rappi.cl/restaurantes/900084876-restobar-santiago
+922;Fuente los Bravos;https://www.rappi.cl/restaurantes/900084903-fuente-los-bravos
+923;Shawarma Rafred;https://www.rappi.cl/restaurantes/900084938-shawarma-rafred
+924;Mas Pizza Delivery;https://www.rappi.cl/restaurantes/900085081-mas-pizza-delivery
+925;Don Chaquito Pollo a Las Brasas;https://www.rappi.cl/restaurantes/900085199-don-chaquito-pollo-a-las-brasas
+926;Yu Sushi;https://www.rappi.cl/restaurantes/900085266-yu-sushi
+927;Crema y Nata;https://www.rappi.cl/restaurantes/900085271-crema-y-nata
+928;La Pepiteria Gourmet;https://www.rappi.cl/restaurantes/900085272-la-pepiteria-gourmet
+929;D Burger;https://www.rappi.cl/restaurantes/900085304-d-burger
+930;Fuente Dely;https://www.rappi.cl/restaurantes/900085342-fuente-dely
+931;Pilaos;https://www.rappi.cl/restaurantes/900085355-pilaos
+932;Almud Papas;https://www.rappi.cl/restaurantes/900085427-almud-papas
+933;Woody Coffee And Bakery;https://www.rappi.cl/restaurantes/900085524-woody-coffee-and-bakery
+934;Chicken Little Fried;https://www.rappi.cl/restaurantes/900085537-chicken-little-fried
+935;History Sandwich;https://www.rappi.cl/restaurantes/900085555-history-sandwich
+936;Benjamin Alvarado Gastronomia;https://www.rappi.cl/restaurantes/900085557-benjamin-alvarado-gastronomia
+937;El Rincon Gourmet Sushi;https://www.rappi.cl/restaurantes/900085607-el-rincon-gourmet-sushi
+938;MADS'S PIZZA;https://www.rappi.cl/restaurantes/900085616-madss-pizza
+939;El Rincon Gourmet;https://www.rappi.cl/restaurantes/900085618-el-rincon-gourmet
+940;Rikarepa;https://www.rappi.cl/restaurantes/900085623-rikarepa
+941;Quiroz Cafe;https://www.rappi.cl/restaurantes/900085667-quiroz-cafe
+942;Imperio Oriental;https://www.rappi.cl/restaurantes/486-imperio-oriental
+943;Tambo;https://www.rappi.cl/restaurantes/900014572-tambo
+944;Oro y Carbón;https://www.rappi.cl/restaurantes/900014596-oro-y-carbon
+945;Casa Capellan;https://www.rappi.cl/restaurantes/900015758-casa-capellan
+946;Hayato Sushi;https://www.rappi.cl/restaurantes/900015898-hayato-sushi
+947;Pica Perú;https://www.rappi.cl/restaurantes/900016240-pica-peru
+948;Gaby´s Pizza;https://www.rappi.cl/restaurantes/900016601-gabys-pizza
+949;Trattoria Barrio Sucre;https://www.rappi.cl/restaurantes/900017799-trattoria-barrio-sucre
+950;Benvenutto;https://www.rappi.cl/restaurantes/900021370-benvenutto
+951;Mono Roll Sushi Nikkey;https://www.rappi.cl/restaurantes/900021416-mono-roll-sushi-nikkey
+952;Pan's Artesanal Cl;https://www.rappi.cl/restaurantes/900023460-pans-artesanal-cl
+953;Barranco 51;https://www.rappi.cl/restaurantes/900024278-barranco-51
+954;Maniero;https://www.rappi.cl/restaurantes/900025146-maniero
+955;Deli Fresh;https://www.rappi.cl/restaurantes/900025767-deli-fresh
+956;Chick;https://www.rappi.cl/restaurantes/900027604-chick
+957;Taqueria Th;https://www.rappi.cl/restaurantes/900027666-taqueria-th
+958;Crispy Chicken;https://www.rappi.cl/restaurantes/900027772-crispy-chicken
+959;Délices D'Alsace;https://www.rappi.cl/restaurantes/900028984-delices-dalsace
+960;Kimagure;https://www.rappi.cl/restaurantes/900029123-kimagure
+961;Don Burger;https://www.rappi.cl/restaurantes/900029158-don-burger
+962;Bianco Gelato;https://www.rappi.cl/restaurantes/900030679-bianco-gelato
+963;Pizzario;https://www.rappi.cl/restaurantes/900030907-pizzario
+964;Papatatas.;https://www.rappi.cl/restaurantes/900030951-papatatas
+965;Sushi Mister Panko.;https://www.rappi.cl/restaurantes/900035605-sushi-mister-panko
+966;Taco Express;https://www.rappi.cl/restaurantes/900035866-taco-express
+967;Panino Lab;https://www.rappi.cl/restaurantes/900036682-panino-lab
+968;Arana Chicken;https://www.rappi.cl/restaurantes/900037340-arana-chicken
+969;Abbatia Restaurant;https://www.rappi.cl/restaurantes/900038112-abbatia-restaurant
+970;Entre Masas;https://www.rappi.cl/restaurantes/900038231-entre-masas
+971;alitas king;https://www.rappi.cl/restaurantes/900039479-alitas-king
+972;Bendita Tentazione;https://www.rappi.cl/restaurantes/900040513-bendita-tentazione
+973;Lomo Y Filete;https://www.rappi.cl/restaurantes/900064926-lomo-y-filete
+974;Up Burger;https://www.rappi.cl/restaurantes/900065066-up-burger
+975;Vainilla Heladería;https://www.rappi.cl/restaurantes/900065168-vainilla-heladeria
+976;El Mochica;https://www.rappi.cl/restaurantes/900066461-el-mochica
+977;El Tazon Limeño;https://www.rappi.cl/restaurantes/900066472-el-tazon-limeno
+978;Burger Truck;https://www.rappi.cl/restaurantes/900066813-burger-truck
+979;Allegro Pizzeria;https://www.rappi.cl/restaurantes/900068282-allegro-pizzeria
+980;Ready Smash Burgers;https://www.rappi.cl/restaurantes/900072708-ready-smash-burgers
+981;Tanzo Pasta Bar;https://www.rappi.cl/restaurantes/900072973-tanzo-pasta-bar
+982;TERRACOTA BURGER & GRILL;https://www.rappi.cl/restaurantes/900073384-terracota-burger-y-grill
+983;Watson Vegan Bistró;https://www.rappi.cl/restaurantes/900073828-watson-vegan-bistro
+984;Taz Burger;https://www.rappi.cl/restaurantes/900073879-taz-burger
+985;Q Riko la Reina;https://www.rappi.cl/restaurantes/900074692-q-riko-la-reina
+986;Pizzoas;https://www.rappi.cl/restaurantes/900074923-pizzoas
+987;Antillana;https://www.rappi.cl/restaurantes/900075168-antillana
+988;Chefcity;https://www.rappi.cl/restaurantes/900075265-chefcity
+989;Il Cuore Pasta;https://www.rappi.cl/restaurantes/900075301-il-cuore-pasta
+990;Sangucheria 1891;https://www.rappi.cl/restaurantes/900075317-sangucheria-1891
+991;Chicken Wings la Reina;https://www.rappi.cl/restaurantes/900075459-chicken-wings-la-reina
+992;Rock Zone Burger;https://www.rappi.cl/restaurantes/900075738-rock-zone-burger
+993;Café Precolombino;https://www.rappi.cl/restaurantes/900079129-cafe-precolombino
+994;Sushi Food Paradise;https://www.rappi.cl/restaurantes/900079712-sushi-food-paradise
+995;El Especialista Ñuñoa;https://www.rappi.cl/restaurantes/900080266-el-especialista-nunoa
+996;Chicken Fried House Ñuñoa;https://www.rappi.cl/restaurantes/900080334-chicken-fried-house-nunoa
+997;La Macusa Ñuñoa;https://www.rappi.cl/restaurantes/900080335-la-macusa-nunoa
+998;Metapizza;https://www.rappi.cl/restaurantes/900080465-metapizza
+999;Chicken Wings Quinta Normal;https://www.rappi.cl/restaurantes/900080577-chicken-wings-quinta-normal
+1000;Tequeñomanía Quinta Normal;https://www.rappi.cl/restaurantes/900080624-tequenomania-quinta-normal
+1001;La Salchipaperia Central;https://www.rappi.cl/restaurantes/900080671-la-salchipaperia-central
+1002;Mega Churro Santiago Centro;https://www.rappi.cl/restaurantes/900081169-mega-churro-santiago-centro
+1003;Burger Ya;https://www.rappi.cl/restaurantes/900081228-burger-ya
+1004;Mega Tequeños Santiago Centro;https://www.rappi.cl/restaurantes/900081240-mega-tequenos-santiago-centro
+1005;La Mollejua;https://www.rappi.cl/restaurantes/900081257-la-mollejua
+1006;Livorno Restaurante;https://www.rappi.cl/restaurantes/900081354-livorno-restaurante
+1007;Dalai Lomo Providencia;https://www.rappi.cl/restaurantes/900081592-dalai-lomo-providencia
+1008;Street Moon;https://www.rappi.cl/restaurantes/900082295-street-moon
+1009;Angus Grill Restaurant;https://www.rappi.cl/restaurantes/900082566-angus-grill-restaurant
+1010;La Brava Mall Plaza el Trebol;https://www.rappi.cl/restaurantes/900082622-la-brava-mall-plaza-el-trebol
+1011;Caleta Barra Marina;https://www.rappi.cl/restaurantes/900082664-caleta-barra-marina
+1012;Inagi;https://www.rappi.cl/restaurantes/900082976-inagi
+1013;Restaurant Peruano el Sabroson;https://www.rappi.cl/restaurantes/900083286-restaurant-peruano-el-sabroson
+1014;Gusti Pasta;https://www.rappi.cl/restaurantes/900083389-gusti-pasta
+1015;Vittamina Restaurant;https://www.rappi.cl/restaurantes/900083393-vittamina-restaurant
+1016;Gabilondo;https://www.rappi.cl/restaurantes/900083447-gabilondo
+1017;Vicios Food;https://www.rappi.cl/restaurantes/900083549-vicios-food
+1018;Crispy Churros;https://www.rappi.cl/restaurantes/900083555-crispy-churros
+1019;Churrascon 24/7 Recoleta;https://www.rappi.cl/restaurantes/900083811-churrascon-247-recoleta
+1020;Vandals;https://www.rappi.cl/restaurantes/900084190-vandals
+1021;Cafe Vita Pizzocas;https://www.rappi.cl/restaurantes/900084249-cafe-vita-pizzocas
+1022;Mr Qiu 2;https://www.rappi.cl/restaurantes/900084583-mr-qiu-2
+1023;Pizzas Pasapalos y Picoteos Md;https://www.rappi.cl/restaurantes/900084660-pizzas-pasapalos-y-picoteos-md
+1024;Mi Vegano Gourmet;https://www.rappi.cl/restaurantes/900084852-mi-vegano-gourmet
+1025;Crazy George Burgerr;https://www.rappi.cl/restaurantes/900085464-crazy-george-burgerr
+1026;El Almuerzazo;https://www.rappi.cl/restaurantes/900085567-el-almuerzazo
+1027;Delicias Del Portal;https://www.rappi.cl/restaurantes/900085636-delicias-del-portal
+1028;La Ruffina;https://www.rappi.cl/restaurantes/339-la-ruffina
+1029;Café Melba;https://www.rappi.cl/restaurantes/900014524-cafe-melba
+1030;El Merendero Venezolano;https://www.rappi.cl/restaurantes/900014565-el-merendero-venezolano
+1031;Taco Factory;https://www.rappi.cl/restaurantes/900014618-taco-factory
+1032;Majestic;https://www.rappi.cl/restaurantes/900014645-majestic
+1033;Eccolo Qua;https://www.rappi.cl/restaurantes/900015095-eccolo-qua
+1034;Bambinos Pizza;https://www.rappi.cl/restaurantes/900015624-bambinos-pizza
+1035;Nori Sushi Ñuñoa;https://www.rappi.cl/restaurantes/900016044-nori-sushi-nunoa
+1036;Tataki Sushi;https://www.rappi.cl/restaurantes/900016868-tataki-sushi
+1037;Yang Tes;https://www.rappi.cl/restaurantes/900017073-yang-tes
+1038;Kubiro Sushi Centro;https://www.rappi.cl/restaurantes/900017241-kubiro-sushi-centro
+1039;Sushi Big Bang;https://www.rappi.cl/restaurantes/900017374-sushi-big-bang
+1040;Cafe Palermo;https://www.rappi.cl/restaurantes/900017380-cafe-palermo
+1041;Japo - Casa Carmencita;https://www.rappi.cl/restaurantes/900017522-japo-casa-carmencita
+1042;Lun wa;https://www.rappi.cl/restaurantes/900017731-lun-wa
+1043;Café Diario;https://www.rappi.cl/restaurantes/900019815-cafe-diario
+1044;Rishtedar;https://www.rappi.cl/restaurantes/900021369-rishtedar
+1045;La Burguesita by La Burguesía;https://www.rappi.cl/restaurantes/900022119-la-burguesita-by-la-burguesia
+1046;Mr Lucas;https://www.rappi.cl/restaurantes/900023280-mr-lucas
+1047;ConserBar;https://www.rappi.cl/restaurantes/900025995-conserbar
+1048;Jerónimo;https://www.rappi.cl/restaurantes/900027343-jeronimo
+1049;Vegan Meat;https://www.rappi.cl/restaurantes/900028846-vegan-meat
+1050;Sexy Burger;https://www.rappi.cl/restaurantes/900028981-sexy-burger
+1051;Oriental;https://www.rappi.cl/restaurantes/900028999-oriental
+1052;Myteka;https://www.rappi.cl/restaurantes/900029002-myteka
+1053;Master Wok Providencia;https://www.rappi.cl/restaurantes/900029934-master-wok-providencia
+1054;Casa Juancho;https://www.rappi.cl/restaurantes/900030685-casa-juancho
+1055;Tasuke Vegan Sushi;https://www.rappi.cl/restaurantes/900031237-tasuke-vegan-sushi
+1056;El Mejor Pollo;https://www.rappi.cl/restaurantes/900031769-el-mejor-pollo
+1057;La Risottería;https://www.rappi.cl/restaurantes/900031779-la-risotteria
+1058;Brasur;https://www.rappi.cl/restaurantes/900032767-brasur
+1059;Empanadas El Matiz;https://www.rappi.cl/restaurantes/900021533-empanadas-el-matiz
+1060;Nan Fang;https://www.rappi.cl/restaurantes/900033016-nan-fang
+1061;Silo Pizza;https://www.rappi.cl/restaurantes/900033082-silo-pizza
+1062;tara sushi;https://www.rappi.cl/restaurantes/900035402-tara-sushi
+1063;Gohan & Mas;https://www.rappi.cl/restaurantes/900035527-gohan-y-mas
+1064;Damascus Food;https://www.rappi.cl/restaurantes/900035963-damascus-food
+1065;Full Empanada;https://www.rappi.cl/restaurantes/900036215-full-empanada
+1066;Goemon;https://www.rappi.cl/restaurantes/900036471-goemon
+1067;Akai Sushi;https://www.rappi.cl/restaurantes/900036513-akai-sushi
+1068;veggie burger;https://www.rappi.cl/restaurantes/900036563-veggie-burger
+1069;Japo Thai;https://www.rappi.cl/restaurantes/900037023-japo-thai
+1070;Los Caponelli Restorante Italiano;https://www.rappi.cl/restaurantes/900037164-los-caponelli-restorante-italiano
+1071;Crudo sin Censura;https://www.rappi.cl/restaurantes/900037253-crudo-sin-censura
+1072;Rockstar Burger Santiago;https://www.rappi.cl/restaurantes/900037495-rockstar-burger-santiago
+1073;Wenos Pal Dulce Bakery;https://www.rappi.cl/restaurantes/900037720-wenos-pal-dulce-bakery
+1074;Sazón Venezuela HC;https://www.rappi.cl/restaurantes/900037976-sazon-venezuela-hc
+1075;Vegan Studio;https://www.rappi.cl/restaurantes/900040078-vegan-studio
+1076;COFFEE CORNER;https://www.rappi.cl/restaurantes/900040547-coffee-corner
+1077;Gohan Premium;https://www.rappi.cl/restaurantes/900040825-gohan-premium
+1078;Green Eat;https://www.rappi.cl/restaurantes/900041189-green-eat
+1079;Restaurante Man Ji;https://www.rappi.cl/restaurantes/900047850-restaurante-man-ji
+1080;Real Food Market;https://www.rappi.cl/restaurantes/900048089-real-food-market
+1081;Kanmi Sushi;https://www.rappi.cl/restaurantes/900048385-kanmi-sushi
+1082;Puro Gohan;https://www.rappi.cl/restaurantes/900048625-puro-gohan
+1083;Pizza de La Plaza;https://www.rappi.cl/restaurantes/900048809-pizza-de-la-plaza
+1084;Dopbap;https://www.rappi.cl/restaurantes/900057288-dopbap
+1085;I Love Curry;https://www.rappi.cl/restaurantes/900057403-i-love-curry
+1086;Burger pana;https://www.rappi.cl/restaurantes/900066708-burger-pana
+1087;Selfish;https://www.rappi.cl/restaurantes/900067499-selfish
+1088;Bilbao's;https://www.rappi.cl/restaurantes/900067710-bilbaos
+1089;Como en tu Casa;https://www.rappi.cl/restaurantes/900068717-como-en-tu-casa
+1090;Luckys Fried Chicken;https://www.rappi.cl/restaurantes/900069469-luckys-fried-chicken
+1091;D'albahaka Fast Gourmet;https://www.rappi.cl/restaurantes/900069694-dalbahaka-fast-gourmet
+1092;Vegan Thai;https://www.rappi.cl/restaurantes/900071389-vegan-thai
+1093;Abacaxi Bistro;https://www.rappi.cl/restaurantes/900073075-abacaxi-bistro
+1094;El Club Del Pollo;https://www.rappi.cl/restaurantes/900073733-el-club-del-pollo
+1095;Jupiter Bar Pizzeria;https://www.rappi.cl/restaurantes/900073771-jupiter-bar-pizzeria
+1096;La Burguita;https://www.rappi.cl/restaurantes/900074018-la-burguita
+1097;Barra Fina Sushi.;https://www.rappi.cl/restaurantes/900074570-barra-fina-sushi
+1098;Empanadas San Miguel;https://www.rappi.cl/restaurantes/900074899-empanadas-san-miguel
+1099;Rockstar Chicken;https://www.rappi.cl/restaurantes/900075271-rockstar-chicken
+1100;Cous Cous Bowl;https://www.rappi.cl/restaurantes/900075634-cous-cous-bowl
+1101;Ruta Shawarma;https://www.rappi.cl/restaurantes/900075715-ruta-shawarma
+1102;Surreal Restobar;https://www.rappi.cl/restaurantes/900077513-surreal-restobar
+1103;Bronto Family;https://www.rappi.cl/restaurantes/900081718-bronto-family
+1104;Il Cuore Desayunos;https://www.rappi.cl/restaurantes/900078948-il-cuore-desayunos
+1105;Peru Thai;https://www.rappi.cl/restaurantes/900079109-peru-thai
+1106;The Breakfast;https://www.rappi.cl/restaurantes/900079136-the-breakfast
+1107;Burger On Board;https://www.rappi.cl/restaurantes/900079317-burger-on-board
+1108;Sin Vergüenza;https://www.rappi.cl/restaurantes/900079418-sin-verguenza
+1109;Hoshi Gohan;https://www.rappi.cl/restaurantes/900079630-hoshi-gohan
+1110;Olivia Bistro;https://www.rappi.cl/restaurantes/900079969-olivia-bistro
+1111;Underwok;https://www.rappi.cl/restaurantes/900080069-underwok
+1112;Benjamn Alvarado Gastronomia;https://www.rappi.cl/restaurantes/900080215-benjamn-alvarado-gastronomia
+1113;Will Delivery;https://www.rappi.cl/restaurantes/900080437-will-delivery
+1114;Valeburgers;https://www.rappi.cl/restaurantes/900080473-valeburgers
+1115;Rosquicake;https://www.rappi.cl/restaurantes/900080770-rosquicake
+1116;La Distinta Empanadas;https://www.rappi.cl/restaurantes/900080954-la-distinta-empanadas
+1117;Mega Burger Santiago Centro;https://www.rappi.cl/restaurantes/900081233-mega-burger-santiago-centro
+1118;Cafe Caramelo;https://www.rappi.cl/restaurantes/900081305-cafe-caramelo
+1119;Cafeteria Arabe Yalla Habibi;https://www.rappi.cl/restaurantes/900081473-cafeteria-arabe-yalla-habibi
+1120;Club Del Poke;https://www.rappi.cl/restaurantes/900082950-club-del-poke
+1121;Pizzeria Latinoamericana;https://www.rappi.cl/restaurantes/900082973-pizzeria-latinoamericana
+1122;Space American Burger;https://www.rappi.cl/restaurantes/900083639-space-american-burger
+1123;Space American Veggie;https://www.rappi.cl/restaurantes/900084085-space-american-veggie
+1124;Naoki;https://www.rappi.cl/restaurantes/900084443-naoki
+1125;Ytaka Sushi Bar;https://www.rappi.cl/restaurantes/900084673-ytaka-sushi-bar
+1126;Shawarma Rocker;https://www.rappi.cl/restaurantes/900084757-shawarma-rocker
+1127;Guang Yen;https://www.rappi.cl/restaurantes/374-guang-yen
+1128;Lima Mia;https://www.rappi.cl/restaurantes/379-lima-mia
+1129;Aji Dulce Market;https://www.rappi.cl/restaurantes/900013791-aji-dulce-market
+1130;FoodGol;https://www.rappi.cl/restaurantes/900013820-foodgol
+1131;Capitán Cook;https://www.rappi.cl/restaurantes/900014874-capitan-cook
+1132;Lima Sushi;https://www.rappi.cl/restaurantes/900015090-lima-sushi
+1133;Tres Toques Sanguchería;https://www.rappi.cl/restaurantes/900015185-tres-toques-sangucheria
+1134;Pizza Greene House;https://www.rappi.cl/restaurantes/900015211-pizza-greene-house
+1135;Barrio Kebab;https://www.rappi.cl/restaurantes/900015298-barrio-kebab
+1136;Abo Sultan;https://www.rappi.cl/restaurantes/900015496-abo-sultan
+1137;Central Sándwich Delivery;https://www.rappi.cl/restaurantes/900015497-central-sandwich-delivery
+1138;OK Chicken Delivery;https://www.rappi.cl/restaurantes/900015498-ok-chicken-delivery
+1139;Felipe Didier;https://www.rappi.cl/restaurantes/900015511-felipe-didier
+1140;Jinsei;https://www.rappi.cl/restaurantes/900015610-jinsei
+1141;Rock The Food;https://www.rappi.cl/restaurantes/900015613-rock-the-food
+1142;Vegan Dealer;https://www.rappi.cl/restaurantes/900015745-vegan-dealer
+1143;Restaurant Amistad;https://www.rappi.cl/restaurantes/900015748-restaurant-amistad
+1144;Comida China Sucre;https://www.rappi.cl/restaurantes/900015811-comida-china-sucre
+1145;Central Pizza;https://www.rappi.cl/restaurantes/900015878-central-pizza
+1146;Sanguchon Peruano Brasil;https://www.rappi.cl/restaurantes/900015924-sanguchon-peruano-brasil
+1147;Sabor al Cuadrado;https://www.rappi.cl/restaurantes/900015927-sabor-al-cuadrado
+1148;Sushi Town;https://www.rappi.cl/restaurantes/900015970-sushi-town
+1149;La Huamantanga Fuente Peruana;https://www.rappi.cl/restaurantes/900016036-la-huamantanga-fuente-peruana
+1150;Fusión Holandesa;https://www.rappi.cl/restaurantes/900016241-fusion-holandesa
+1151;Charlie´s Tavern;https://www.rappi.cl/restaurantes/900016272-charlies-tavern
+1152;Get It;https://www.rappi.cl/restaurantes/900016652-get-it
+1153;Olympic Sushi;https://www.rappi.cl/restaurantes/900016978-olympic-sushi
+1154;Pizzeria a Time;https://www.rappi.cl/restaurantes/900017078-pizzeria-a-time
+1155;Akihiro Sushi Fusión;https://www.rappi.cl/restaurantes/900017222-akihiro-sushi-fusion
+1156;Donde Naresh;https://www.rappi.cl/restaurantes/900017312-donde-naresh
+1157;Kazoku NH;https://www.rappi.cl/restaurantes/900017346-kazoku-nh
+1158;Tung Fong.;https://www.rappi.cl/restaurantes/900017433-tung-fong
+1159;Shawarma el Porvenir;https://www.rappi.cl/restaurantes/900017478-shawarma-el-porvenir
+1160;Perpetuo restaurant;https://www.rappi.cl/restaurantes/900017785-perpetuo-restaurant
+1161;Empanadas 4K;https://www.rappi.cl/restaurantes/900017863-empanadas-4k
+1162;Waffle Waffle!;https://www.rappi.cl/restaurantes/900018030-waffle-waffle
+1163;Killer Pizza;https://www.rappi.cl/restaurantes/900018062-killer-pizza
+1164;Canton House;https://www.rappi.cl/restaurantes/900018133-canton-house
+1165;Jareku sushi;https://www.rappi.cl/restaurantes/900018135-jareku-sushi
+1166;Búfalo Beef;https://www.rappi.cl/restaurantes/900018160-bufalo-beef
+1167;Achoclonados;https://www.rappi.cl/restaurantes/900018924-achoclonados
+1168;Lima Tokio;https://www.rappi.cl/restaurantes/900019274-lima-tokio
+1169;Gran Yuan;https://www.rappi.cl/restaurantes/900019926-gran-yuan
+1170;La Esquina del Sabor Venezolano;https://www.rappi.cl/restaurantes/900019969-la-esquina-del-sabor-venezolano
+1171;Tatsu Sushi;https://www.rappi.cl/restaurantes/900020119-tatsu-sushi
+1172;Sushi Nan Santiago;https://www.rappi.cl/restaurantes/900020169-sushi-nan-santiago
+1173;Como En Tu Casa;https://www.rappi.cl/restaurantes/900020402-como-en-tu-casa
+1174;Don Pizzero;https://www.rappi.cl/restaurantes/900020614-don-pizzero
+1175;Pollo Bombero;https://www.rappi.cl/restaurantes/900020734-pollo-bombero
+1176;Salad Food;https://www.rappi.cl/restaurantes/900020917-salad-food
+1177;Zekkei Sushi Mallinkrodt;https://www.rappi.cl/restaurantes/900020997-zekkei-sushi-mallinkrodt
+1178;Thai Taste;https://www.rappi.cl/restaurantes/900021486-thai-taste
+1179;Tequeven;https://www.rappi.cl/restaurantes/900021513-tequeven
+1180;Moritz Eis;https://www.rappi.cl/restaurantes/900022467-moritz-eis
+1181;Gringos Vitacura;https://www.rappi.cl/restaurantes/900022489-gringos-vitacura
+1182;La Anguschería;https://www.rappi.cl/restaurantes/900022788-la-anguscheria
+1183;Ica;https://www.rappi.cl/restaurantes/900023124-ica
+1184;Nikkei´s;https://www.rappi.cl/restaurantes/900023168-nikkeis
+1185;nikkei sushi;https://www.rappi.cl/restaurantes/900023169-nikkei-sushi
+1186;Angusteak Burger;https://www.rappi.cl/restaurantes/900023599-angusteak-burger
+1187;Tlayolli;https://www.rappi.cl/restaurantes/900023743-tlayolli
+1188;Pollos a la Brasa D'Maoma Sushi;https://www.rappi.cl/restaurantes/900023896-pollos-a-la-brasa-dmaoma-sushi
+1189;Dalia Gelato;https://www.rappi.cl/restaurantes/900024285-dalia-gelato
+1190;Baharat;https://www.rappi.cl/restaurantes/900024552-baharat
+1191;La Popular Pizza y Pan;https://www.rappi.cl/restaurantes/900024943-la-popular-pizza-y-pan
+1192;Zona Latina;https://www.rappi.cl/restaurantes/900025808-zona-latina
+1193;Topos;https://www.rappi.cl/restaurantes/900026264-topos
+1194;Master Fish and Chips;https://www.rappi.cl/restaurantes/900026416-master-fish-and-chips
+1195;Mitani Ramen;https://www.rappi.cl/restaurantes/900026436-mitani-ramen
+1196;Dolce Valentina;https://www.rappi.cl/restaurantes/900026465-dolce-valentina
+1197;Carro Vip;https://www.rappi.cl/restaurantes/900026713-carro-vip
+1198;Cafetería Isanic;https://www.rappi.cl/restaurantes/900026947-cafeteria-isanic
+1199;La Pica El Huaso Ale;https://www.rappi.cl/restaurantes/900026978-la-pica-el-huaso-ale
+1200;La Mandarina;https://www.rappi.cl/restaurantes/900027567-la-mandarina
+1201;Macchupiscos;https://www.rappi.cl/restaurantes/900027685-macchupiscos
+1202;Formula 1 Burger;https://www.rappi.cl/restaurantes/900027960-formula-1-burger
+1203;La Esquina del Sabor Pizzería;https://www.rappi.cl/restaurantes/900028145-la-esquina-del-sabor-pizzeria
+1204;Casa Lai;https://www.rappi.cl/restaurantes/900028242-casa-lai
+1205;Don Diego;https://www.rappi.cl/restaurantes/900028558-don-diego
+1206;Green Choices;https://www.rappi.cl/restaurantes/900028650-green-choices
+1207;PizzaLand;https://www.rappi.cl/restaurantes/900028966-pizzaland
+1208;Delicias del Perú;https://www.rappi.cl/restaurantes/900029159-delicias-del-peru
+1209;Los Maestros Pizzeros;https://www.rappi.cl/restaurantes/900029160-los-maestros-pizzeros
+1210;La Delicia de la Cachapa;https://www.rappi.cl/restaurantes/900029258-la-delicia-de-la-cachapa
+1211;Más que ensalada;https://www.rappi.cl/restaurantes/900029454-mas-que-ensalada
+1212;Burger Top;https://www.rappi.cl/restaurantes/900029514-burger-top
+1213;Raices Nativas;https://www.rappi.cl/restaurantes/900030005-raices-nativas
+1214;Más Que Ceviche;https://www.rappi.cl/restaurantes/900030120-mas-que-ceviche
+1215;Wok 71;https://www.rappi.cl/restaurantes/900030139-wok-71
+1216;el oriente medio;https://www.rappi.cl/restaurantes/900030192-el-oriente-medio
+1217;Sushi Barak;https://www.rappi.cl/restaurantes/900030372-sushi-barak
+1218;Xin Wen Hua;https://www.rappi.cl/restaurantes/900030387-xin-wen-hua
+1219;La Fabrica de Los Completos;https://www.rappi.cl/restaurantes/900030706-la-fabrica-de-los-completos
+1220;Testardos Pizza;https://www.rappi.cl/restaurantes/900030708-testardos-pizza
+1221;La Argentina Pizzeria;https://www.rappi.cl/restaurantes/900030730-la-argentina-pizzeria
+1222;Pizzería El encuentro G.A.S.Ch;https://www.rappi.cl/restaurantes/900031217-pizzeria-el-encuentro-gasch
+1223;Cookie Lab;https://www.rappi.cl/restaurantes/900031499-cookie-lab
+1224;Acqua & Farina;https://www.rappi.cl/restaurantes/900031594-acqua-y-farina
+1225;tanoor zaman;https://www.rappi.cl/restaurantes/900031597-tanoor-zaman
+1226;Dvalu Fusion;https://www.rappi.cl/restaurantes/900031806-dvalu-fusion
+1227;Pizzería Margarita;https://www.rappi.cl/restaurantes/900031852-pizzeria-margarita
+1228;Krossbar;https://www.rappi.cl/restaurantes/900031873-krossbar
+1229;Restaurant Mendos;https://www.rappi.cl/restaurantes/900031874-restaurant-mendos
+1230;Cesar Burger;https://www.rappi.cl/restaurantes/900032048-cesar-burger
+1231;Pam Pan;https://www.rappi.cl/restaurantes/900032475-pam-pan
+1232;Holy Cow;https://www.rappi.cl/restaurantes/900032500-holy-cow
+1233;Sambal Sushi;https://www.rappi.cl/restaurantes/900032562-sambal-sushi
+1234;El Capricho;https://www.rappi.cl/restaurantes/900033034-el-capricho
+1235;Picadelly Restaurante;https://www.rappi.cl/restaurantes/900033079-picadelly-restaurante
+1236;Pasteleria Hildegard;https://www.rappi.cl/restaurantes/900033090-pasteleria-hildegard
+1237;Taipa;https://www.rappi.cl/restaurantes/900035372-taipa
+1238;Pollonato;https://www.rappi.cl/restaurantes/900035490-pollonato
+1239;Mikkas Coffee;https://www.rappi.cl/restaurantes/900035590-mikkas-coffee
+1240;Bite Box;https://www.rappi.cl/restaurantes/900035699-bite-box
+1241;No Sugar Place;https://www.rappi.cl/restaurantes/900035815-no-sugar-place
+1242;Pizzas 180 Grados;https://www.rappi.cl/restaurantes/900035879-pizzas-180-grados
+1243;Ubanda Comida Venezolana;https://www.rappi.cl/restaurantes/900035929-ubanda-comida-venezolana
+1244;cafe peumo;https://www.rappi.cl/restaurantes/900036014-cafe-peumo
+1245;Comida Casera 180 Grados;https://www.rappi.cl/restaurantes/900036027-comida-casera-180-grados
+1246;Chicken Tocornal;https://www.rappi.cl/restaurantes/900036051-chicken-tocornal
+1247;Hamburguesas Ubanda;https://www.rappi.cl/restaurantes/900036052-hamburguesas-ubanda
+1248;Hambrientos;https://www.rappi.cl/restaurantes/900036054-hambrientos
+1249;Comida Internacional;https://www.rappi.cl/restaurantes/900036082-comida-internacional
+1250;Restaurante El Txoko Alavés;https://www.rappi.cl/restaurantes/900036085-restaurante-el-txoko-alaves
+1251;Desayunos Ubanda;https://www.rappi.cl/restaurantes/900036092-desayunos-ubanda
+1252;Donde Guido;https://www.rappi.cl/restaurantes/900036096-donde-guido
+1253;Colaciones 180 Grados;https://www.rappi.cl/restaurantes/900036227-colaciones-180-grados
+1254;Da Xing;https://www.rappi.cl/restaurantes/900036231-da-xing
+1255;Fruits Life;https://www.rappi.cl/restaurantes/900036652-fruits-life
+1256;el pollo bascunan;https://www.rappi.cl/restaurantes/900036655-el-pollo-bascunan
+1257;Moonbunny Cafe;https://www.rappi.cl/restaurantes/900036828-moonbunny-cafe
+1258;Alka Sushi Delivery;https://www.rappi.cl/restaurantes/900036898-alka-sushi-delivery
+1259;Shawarma Sirio;https://www.rappi.cl/restaurantes/900036957-shawarma-sirio
+1260;Waffleland;https://www.rappi.cl/restaurantes/900036975-waffleland
+1261;Master Pollo.;https://www.rappi.cl/restaurantes/900037085-master-pollo
+1262;El Pollo Sureño;https://www.rappi.cl/restaurantes/900037137-el-pollo-sureno
+1263;Pepo's Chicken;https://www.rappi.cl/restaurantes/900037350-pepos-chicken
+1264;Alma Café;https://www.rappi.cl/restaurantes/900037487-alma-cafe
+1265;Everyday;https://www.rappi.cl/restaurantes/900037488-everyday
+1266;Coffe & Restaurant Smart;https://www.rappi.cl/restaurantes/900037691-coffe-y-restaurant-smart
+1267;La Picá del Nacional;https://www.rappi.cl/restaurantes/900037967-la-pica-del-nacional
+1268;Divina Tradición;https://www.rappi.cl/restaurantes/900037986-divina-tradicion
+1269;Matilda Pasteleria;https://www.rappi.cl/restaurantes/900038119-matilda-pasteleria
+1270;Thimi;https://www.rappi.cl/restaurantes/900038188-thimi
+1271;El Fogón Criollo;https://www.rappi.cl/restaurantes/900038233-el-fogon-criollo
+1272;Rincon de Jano;https://www.rappi.cl/restaurantes/900039336-rincon-de-jano
+1273;Green Mint Restaurant;https://www.rappi.cl/restaurantes/900040195-green-mint-restaurant
+1274;Yeppo cafetería;https://www.rappi.cl/restaurantes/900040509-yeppo-cafeteria
+1275;Crunchy´s;https://www.rappi.cl/restaurantes/900040510-crunchys
+1276;Oishii sushi;https://www.rappi.cl/restaurantes/900040878-oishii-sushi
+1277;Actitud Sana;https://www.rappi.cl/restaurantes/900040895-actitud-sana
+1278;Don Hummus;https://www.rappi.cl/restaurantes/900041125-don-hummus
+1279;Tutto Bueno;https://www.rappi.cl/restaurantes/900041179-tutto-bueno
+1280;El Palacio de las Tortas;https://www.rappi.cl/restaurantes/900041233-el-palacio-de-las-tortas
+1281;Tortaypastelstgo;https://www.rappi.cl/restaurantes/900041312-tortaypastelstgo
+1282;Rezintto Bistro Bar;https://www.rappi.cl/restaurantes/900044092-rezintto-bistro-bar
+1283;Si! Acaí;https://www.rappi.cl/restaurantes/900047828-si-acai
+1284;Wallys;https://www.rappi.cl/restaurantes/900047840-wallys
+1285;Rock Station Sandwich;https://www.rappi.cl/restaurantes/900047843-rock-station-sandwich
+1286;Cafe y Market Dedalo;https://www.rappi.cl/restaurantes/900048599-cafe-y-market-dedalo
+1287;The Good Galletas;https://www.rappi.cl/restaurantes/900048814-the-good-galletas
+1288;Heladería Savory;https://www.rappi.cl/restaurantes/900056916-heladeria-savory
+1289;Waffle Chang - Asia Chang;https://www.rappi.cl/restaurantes/900056977-waffle-chang-asia-chang
+1290;San Camilo desde 1884;https://www.rappi.cl/restaurantes/900057041-san-camilo-desde-1884
+1291;Culture Resto-bar;https://www.rappi.cl/restaurantes/900057150-culture-resto-bar
+1292;Antojos Venezolanos;https://www.rappi.cl/restaurantes/900057165-antojos-venezolanos
+1293;Chirashis poke;https://www.rappi.cl/restaurantes/900057341-chirashis-poke
+1294;Super Gohan Bowl;https://www.rappi.cl/restaurantes/900057364-super-gohan-bowl
+1295;Colaciones el Peluche;https://www.rappi.cl/restaurantes/900057499-colaciones-el-peluche
+1296;Chips Dips;https://www.rappi.cl/restaurantes/900064612-chips-dips
+1297;Dicaro's;https://www.rappi.cl/restaurantes/900064613-dicaros
+1298;Agrados Perú;https://www.rappi.cl/restaurantes/900064722-agrados-peru
+1299;Pueblo Chileno - Santiago;https://www.rappi.cl/restaurantes/900064742-pueblo-chileno-santiago
+1300;Cairo Cocina Árabe;https://www.rappi.cl/restaurantes/900064806-cairo-cocina-arabe
+1301;Delicius - CL;https://www.rappi.cl/restaurantes/900064919-delicius-cl
+1302;Green poke - Sushi & Gohans;https://www.rappi.cl/restaurantes/900064991-green-poke-sushi-y-gohans
+1303;Boru Gohans & Bowls;https://www.rappi.cl/restaurantes/900065017-boru-gohans-y-bowls
+1304;URUMAKI SUSHI;https://www.rappi.cl/restaurantes/900065027-urumaki-sushi
+1305;Star Wraps;https://www.rappi.cl/restaurantes/900065176-star-wraps
+1306;Jeyde Sushi Rolls;https://www.rappi.cl/restaurantes/900066510-jeyde-sushi-rolls
+1307;Emporio Criollo;https://www.rappi.cl/restaurantes/900066684-emporio-criollo
+1308;Prana Sopas;https://www.rappi.cl/restaurantes/900066758-prana-sopas
+1309;El panal andino;https://www.rappi.cl/restaurantes/900066895-el-panal-andino
+1310;Home Burgers Chile;https://www.rappi.cl/restaurantes/900067101-home-burgers-chile
+1311;Falaf El Falaf;https://www.rappi.cl/restaurantes/900067207-falaf-el-falaf
+1312;Pad Thai House;https://www.rappi.cl/restaurantes/900067212-pad-thai-house
+1313;Pana Food;https://www.rappi.cl/restaurantes/900067806-pana-food
+1314;Pollos Angie;https://www.rappi.cl/restaurantes/900068137-pollos-angie
+1315;C´est si bon Carmencita;https://www.rappi.cl/restaurantes/900068214-cest-si-bon-carmencita
+1316;Jinsei Sushi Providencia;https://www.rappi.cl/restaurantes/900068324-jinsei-sushi-providencia
+1317;Nikkei Sushi Providencia;https://www.rappi.cl/restaurantes/900068327-nikkei-sushi-providencia
+1318;Sekai Sushi;https://www.rappi.cl/restaurantes/900068334-sekai-sushi
+1319;Monster Cookies;https://www.rappi.cl/restaurantes/900068627-monster-cookies
+1320;Sushiban;https://www.rappi.cl/restaurantes/900068756-sushiban
+1321;El establo llanero;https://www.rappi.cl/restaurantes/900068900-el-establo-llanero
+1322;Sabe a Lima Caupolican;https://www.rappi.cl/restaurantes/900068960-sabe-a-lima-caupolican
+1323;American Cake Shopp;https://www.rappi.cl/restaurantes/900068996-american-cake-shopp
+1324;Chic cuisine;https://www.rappi.cl/restaurantes/900069395-chic-cuisine
+1325;Sunthai Ñuñoa;https://www.rappi.cl/restaurantes/900069769-sunthai-nunoa
+1326;Pasteleria Dos Polos;https://www.rappi.cl/restaurantes/900070081-pasteleria-dos-polos
+1327;Lima Fusion;https://www.rappi.cl/restaurantes/900070094-lima-fusion
+1328;El Oriental Food;https://www.rappi.cl/restaurantes/900071437-el-oriental-food
+1329;Chicharrones los paisitas;https://www.rappi.cl/restaurantes/900071486-chicharrones-los-paisitas
+1330;FRITOSABOR;https://www.rappi.cl/restaurantes/900072560-fritosabor
+1331;WaiWai;https://www.rappi.cl/restaurantes/900072814-waiwai
+1332;Amalfinata Pizza;https://www.rappi.cl/restaurantes/900072969-amalfinata-pizza
+1333;Komorebi Santiago;https://www.rappi.cl/restaurantes/900072972-komorebi-santiago
+1334;Artisan Pastelería;https://www.rappi.cl/restaurantes/900073062-artisan-pasteleria
+1335;Amada Pastelería;https://www.rappi.cl/restaurantes/900073298-amada-pasteleria
+1336;Paninoteca;https://www.rappi.cl/restaurantes/900073486-paninoteca
+1337;Universal Burger Av Italia;https://www.rappi.cl/restaurantes/900073517-universal-burger-av-italia
+1338;La Areperia;https://www.rappi.cl/restaurantes/900073570-la-areperia
+1339;Fair Play Sports Resto;https://www.rappi.cl/restaurantes/900073634-fair-play-sports-resto
+1340;Diparti Pizza;https://www.rappi.cl/restaurantes/900073651-diparti-pizza
+1341;Zitto Pizzeria;https://www.rappi.cl/restaurantes/900073695-zitto-pizzeria
+1342;Vego;https://www.rappi.cl/restaurantes/900073696-vego
+1343;Café Jacinto;https://www.rappi.cl/restaurantes/900073698-cafe-jacinto
+1344;Sushi Life Macul;https://www.rappi.cl/restaurantes/900073766-sushi-life-macul
+1345;Fritopap;https://www.rappi.cl/restaurantes/900073784-fritopap
+1346;VPizza;https://www.rappi.cl/restaurantes/900073797-vpizza
+1347;Más Bodegón;https://www.rappi.cl/restaurantes/900073914-mas-bodegon
+1348;Jardin Vegano Providencia;https://www.rappi.cl/restaurantes/900073916-jardin-vegano-providencia
+1349;Santa Pausa;https://www.rappi.cl/restaurantes/900074048-santa-pausa
+1350;Burger Sin Recoleta;https://www.rappi.cl/restaurantes/900074052-burger-sin-recoleta
+1351;The Best Wok Recoleta;https://www.rappi.cl/restaurantes/900074053-the-best-wok-recoleta
+1352;All Star Burger Recoleta;https://www.rappi.cl/restaurantes/900074054-all-star-burger-recoleta
+1353;Burritos Kahlo Recoleta;https://www.rappi.cl/restaurantes/900074055-burritos-kahlo-recoleta
+1354;Vegan Wok Recoleta;https://www.rappi.cl/restaurantes/900074056-vegan-wok-recoleta
+1355;U.k Vegan Burger Recoleta;https://www.rappi.cl/restaurantes/900074082-uk-vegan-burger-recoleta
+1356;La Pizzara;https://www.rappi.cl/restaurantes/900074129-la-pizzara
+1357;THE CHARMELL BROTHERS;https://www.rappi.cl/restaurantes/900074135-the-charmell-brothers
+1358;Chiken wings;https://www.rappi.cl/restaurantes/900074148-chiken-wings
+1359;Burritos Vegan Recoleta;https://www.rappi.cl/restaurantes/900074175-burritos-vegan-recoleta
+1360;Kimiko Sushi;https://www.rappi.cl/restaurantes/900074195-kimiko-sushi
+1361;Platon Independencia;https://www.rappi.cl/restaurantes/900074225-platon-independencia
+1362;Postres superBLOOM;https://www.rappi.cl/restaurantes/900074312-postres-superbloom
+1363;Nikkey NYE sushi;https://www.rappi.cl/restaurantes/900074345-nikkey-nye-sushi
+1364;Wok - Han Vitacura;https://www.rappi.cl/restaurantes/900074457-wok-han-vitacura
+1365;Hashira Vegan Wok;https://www.rappi.cl/restaurantes/900074470-hashira-vegan-wok
+1366;Perritos Chao;https://www.rappi.cl/restaurantes/900074545-perritos-chao
+1367;El Majrur;https://www.rappi.cl/restaurantes/900074567-el-majrur
+1368;Santa Crema Pasteleria;https://www.rappi.cl/restaurantes/900074576-santa-crema-pasteleria
+1369;Tokio Sushi Bar;https://www.rappi.cl/restaurantes/900074638-tokio-sushi-bar
+1370;Ichiraku Asín Food;https://www.rappi.cl/restaurantes/900074652-ichiraku-asin-food
+1371;Yokomo Sushi Providencia;https://www.rappi.cl/restaurantes/900074717-yokomo-sushi-providencia
+1372;Salome Sushi;https://www.rappi.cl/restaurantes/900074775-salome-sushi
+1373;Mi Bendito Pecado - Br;https://www.rappi.cl/restaurantes/900074788-mi-bendito-pecado-br
+1374;Puddarus;https://www.rappi.cl/restaurantes/900074851-puddarus
+1375;Calavera Providencia;https://www.rappi.cl/restaurantes/900074953-calavera-providencia
+1376;St Giovannis Al Taglio;https://www.rappi.cl/restaurantes/900075057-st-giovannis-al-taglio
+1377;Poked By Amus;https://www.rappi.cl/restaurantes/900075103-poked-by-amus
+1378;Subway Bandera;https://www.rappi.cl/restaurantes/900075312-subway-bandera
+1379;Shaka Heladería y Cafetería.;https://www.rappi.cl/restaurantes/900075331-shaka-heladeria-y-cafeteria
+1380;Restaurant como en el Cielo;https://www.rappi.cl/restaurantes/900075343-restaurant-como-en-el-cielo
+1381;Tequezolanos;https://www.rappi.cl/restaurantes/900075346-tequezolanos
+1382;Sabor Musical Spa;https://www.rappi.cl/restaurantes/900075516-sabor-musical-spa
+1383;Martina Sangucheria Artesanal;https://www.rappi.cl/restaurantes/900075589-martina-sangucheria-artesanal
+1384;La Casa Nomade;https://www.rappi.cl/restaurantes/900076793-la-casa-nomade
+1385;Balocchi Pasteleria;https://www.rappi.cl/restaurantes/900076846-balocchi-pasteleria
+1386;Brunosalumeria;https://www.rappi.cl/restaurantes/900077325-brunosalumeria
+1387;Heladerías Deleite's Quinta Normal 2;https://www.rappi.cl/restaurantes/900078130-heladerias-deleites-quinta-normal-2
+1388;Domo Pizzeria;https://www.rappi.cl/restaurantes/900077633-domo-pizzeria
+1389;Pollo Express Independencia;https://www.rappi.cl/restaurantes/900077683-pollo-express-independencia
+1390;Atlántic Sushi - Recoleta;https://www.rappi.cl/restaurantes/900077787-atlantic-sushi-recoleta
+1391;Ocean’t Sushi - Copiapó;https://www.rappi.cl/restaurantes/900077789-oceant-sushi-copiapo
+1392;Bowly;https://www.rappi.cl/restaurantes/900077900-bowly
+1393;Utopia Restobar;https://www.rappi.cl/restaurantes/900077924-utopia-restobar
+1394;Pizza Bacan;https://www.rappi.cl/restaurantes/900077955-pizza-bacan
+1395;El Eden Del Vikingo;https://www.rappi.cl/restaurantes/900078021-el-eden-del-vikingo
+1396;Lukai Sushi;https://www.rappi.cl/restaurantes/900078097-lukai-sushi
+1397;Kioto Sushi Portugal;https://www.rappi.cl/restaurantes/900078116-kioto-sushi-portugal
+1398;Kuriseba Sushi Fusion;https://www.rappi.cl/restaurantes/900078402-kuriseba-sushi-fusion
+1399;Mr Sabroso Restaurant;https://www.rappi.cl/restaurantes/900078449-mr-sabroso-restaurant
+1400;Chippos;https://www.rappi.cl/restaurantes/900078472-chippos
+1401;Gusto Casero.;https://www.rappi.cl/restaurantes/900078579-gusto-casero
+1402;Maxidea Providencia;https://www.rappi.cl/restaurantes/900078604-maxidea-providencia
+1403;Andolini;https://www.rappi.cl/restaurantes/900078635-andolini
+1404;Nostrum Fast Food;https://www.rappi.cl/restaurantes/900078895-nostrum-fast-food
+1405;El Dragón Picante;https://www.rappi.cl/restaurantes/900078929-el-dragon-picante
+1406;Fuente de Soda do Brasil;https://www.rappi.cl/restaurantes/900078987-fuente-de-soda-do-brasil
+1407;Royal Pan Providencia;https://www.rappi.cl/restaurantes/900079110-royal-pan-providencia
+1408;El Carnalito;https://www.rappi.cl/restaurantes/900079178-el-carnalito
+1409;Cevicheria el Mariscon;https://www.rappi.cl/restaurantes/900079198-cevicheria-el-mariscon
+1410;A Bocanadas;https://www.rappi.cl/restaurantes/900079212-a-bocanadas
+1411;Gud Burgers;https://www.rappi.cl/restaurantes/900079279-gud-burgers
+1412;Bistro Urbano;https://www.rappi.cl/restaurantes/900079290-bistro-urbano
+1413;Manso Completo;https://www.rappi.cl/restaurantes/900079389-manso-completo
+1414;Donde la Tia Mary;https://www.rappi.cl/restaurantes/900079425-donde-la-tia-mary
+1415;Creamy Cookies;https://www.rappi.cl/restaurantes/900079431-creamy-cookies
+1416;Ferchis Av. Brasil;https://www.rappi.cl/restaurantes/900079484-ferchis-av-brasil
+1417;Miri y Noe;https://www.rappi.cl/restaurantes/900079502-miri-y-noe
+1418;Don Papas Av Brasil;https://www.rappi.cl/restaurantes/900079507-don-papas-av-brasil
+1419;La Cantina...;https://www.rappi.cl/restaurantes/900079703-la-cantina
+1420;Comefit Santiago;https://www.rappi.cl/restaurantes/900079713-comefit-santiago
+1421;Sushifriends;https://www.rappi.cl/restaurantes/900079750-sushifriends
+1422;El Arepazo.;https://www.rappi.cl/restaurantes/900079765-el-arepazo
+1423;Thi Yu Spa;https://www.rappi.cl/restaurantes/900079784-thi-yu-spa
+1424;Don Gusta Delivery;https://www.rappi.cl/restaurantes/900079785-don-gusta-delivery
+1425;Fusion Bistro;https://www.rappi.cl/restaurantes/900079825-fusion-bistro
+1426;Dpiopio;https://www.rappi.cl/restaurantes/900079863-dpiopio
+1427;Verdeo Casero y Vegano;https://www.rappi.cl/restaurantes/900079878-verdeo-casero-y-vegano
+1428;Sushi Urbano Maipu;https://www.rappi.cl/restaurantes/900080052-sushi-urbano-maipu
+1429;Restaurant Seoul;https://www.rappi.cl/restaurantes/900080113-restaurant-seoul
+1430;Sr Vicente;https://www.rappi.cl/restaurantes/900080223-sr-vicente
+1431;Come Testa;https://www.rappi.cl/restaurantes/900080267-come-testa
+1432;La Coseccha Artesanal Burger;https://www.rappi.cl/restaurantes/900080416-la-coseccha-artesanal-burger
+1433;El Jequetepecano Restaurant;https://www.rappi.cl/restaurantes/900080444-el-jequetepecano-restaurant
+1434;Brownie Republic;https://www.rappi.cl/restaurantes/900080520-brownie-republic
+1435;Bravazo Pizza;https://www.rappi.cl/restaurantes/900080533-bravazo-pizza
+1436;Sabor de Chile;https://www.rappi.cl/restaurantes/900080572-sabor-de-chile
+1437;La Estacion;https://www.rappi.cl/restaurantes/900080653-la-estacion
+1438;Toke Delicia;https://www.rappi.cl/restaurantes/900080680-toke-delicia
+1439;Erka's Food;https://www.rappi.cl/restaurantes/900080714-erkas-food
+1440;Diegos Spa;https://www.rappi.cl/restaurantes/900080723-diegos-spa
+1441;Espacio Mestizo;https://www.rappi.cl/restaurantes/900080734-espacio-mestizo
+1442;Qgusto Restaurante;https://www.rappi.cl/restaurantes/900080746-qgusto-restaurante
+1443;Sanguchicken;https://www.rappi.cl/restaurantes/900080766-sanguchicken
+1444;Smash Bros;https://www.rappi.cl/restaurantes/900080768-smash-bros
+1445;Punto Encuntro;https://www.rappi.cl/restaurantes/900080806-punto-encuntro
+1446;Bg Foodie;https://www.rappi.cl/restaurantes/900080882-bg-foodie
+1447;Sabor X 2;https://www.rappi.cl/restaurantes/900080959-sabor-x-2
+1448;Tu Rincon de Sabores;https://www.rappi.cl/restaurantes/900081057-tu-rincon-de-sabores
+1449;La Golosa Gourmet;https://www.rappi.cl/restaurantes/900081070-la-golosa-gourmet
+1450;Cafe Meche;https://www.rappi.cl/restaurantes/900081072-cafe-meche
+1451;Aomori Nikkei y Sushi Huerfanos;https://www.rappi.cl/restaurantes/900081107-aomori-nikkei-y-sushi-huerfanos
+1452;Zenda Sushii;https://www.rappi.cl/restaurantes/900081127-zenda-sushii
+1453;Pippe Pizza Zenteno;https://www.rappi.cl/restaurantes/900081190-pippe-pizza-zenteno
+1454;Pasteleria 870;https://www.rappi.cl/restaurantes/900081247-pasteleria-870
+1455;La Brasa Inka Restaurante;https://www.rappi.cl/restaurantes/900081327-la-brasa-inka-restaurante
+1456;La Toscana Gourmet;https://www.rappi.cl/restaurantes/900081344-la-toscana-gourmet
+1457;Lunchbox Factory;https://www.rappi.cl/restaurantes/900081472-lunchbox-factory
+1458;Fogo Sangucheria;https://www.rappi.cl/restaurantes/900081513-fogo-sangucheria
+1459;Buen Provecho Pollos a Las Brasas;https://www.rappi.cl/restaurantes/900081543-buen-provecho-pollos-a-las-brasas
+1460;Shiawase Food;https://www.rappi.cl/restaurantes/900081544-shiawase-food
+1461;Pizzería Casa Roma;https://www.rappi.cl/restaurantes/900081757-pizzeria-casa-roma
+1462;Alby Sushi;https://www.rappi.cl/restaurantes/900081764-alby-sushi
+1463;Pizza de la Pizzeria;https://www.rappi.cl/restaurantes/900081809-pizza-de-la-pizzeria
+1464;Circo Sanguches;https://www.rappi.cl/restaurantes/900081842-circo-sanguches
+1465;Cara de Pezkao;https://www.rappi.cl/restaurantes/900081876-cara-de-pezkao
+1466;Victorino Restaurant;https://www.rappi.cl/restaurantes/900081958-victorino-restaurant
+1467;4Big;https://www.rappi.cl/restaurantes/900081970-4big
+1468;Pizzeria el Punto Criollo;https://www.rappi.cl/restaurantes/900081980-pizzeria-el-punto-criollo
+1469;Vive Coffee Market;https://www.rappi.cl/restaurantes/900082022-vive-coffee-market
+1470;Mafu Food;https://www.rappi.cl/restaurantes/900082039-mafu-food
+1471;Fabric Burger;https://www.rappi.cl/restaurantes/900082059-fabric-burger
+1472;Crazy George Burger;https://www.rappi.cl/restaurantes/900082062-crazy-george-burger
+1473;La Caribena 2;https://www.rappi.cl/restaurantes/900082102-la-caribena-2
+1474;Margareth Bakes;https://www.rappi.cl/restaurantes/900082207-margareth-bakes
+1475;Palermos Pizza;https://www.rappi.cl/restaurantes/900082298-palermos-pizza
+1476;Fornarias Pizzaria;https://www.rappi.cl/restaurantes/900082466-fornarias-pizzaria
+1477;Sushi Nan Recoleta;https://www.rappi.cl/restaurantes/900082492-sushi-nan-recoleta
+1478;Domenicos Pizza;https://www.rappi.cl/restaurantes/900082494-domenicos-pizza
+1479;Durangos Pizzas;https://www.rappi.cl/restaurantes/900082501-durangos-pizzas
+1480;Pasteleria y Cafeteria la Monse;https://www.rappi.cl/restaurantes/900082507-pasteleria-y-cafeteria-la-monse
+1481;Mazzones Pizza;https://www.rappi.cl/restaurantes/900082518-mazzones-pizza
+1482;Pizzas Kasoli S;https://www.rappi.cl/restaurantes/900082538-pizzas-kasoli-s
+1483;Capriccianos Pizza;https://www.rappi.cl/restaurantes/900082596-capriccianos-pizza
+1484;The Rangers Hob Empanadas;https://www.rappi.cl/restaurantes/900082603-the-rangers-hob-empanadas
+1485;Heladeria Blus;https://www.rappi.cl/restaurantes/900082608-heladeria-blus
+1486;La Brava Sangucheria Mall Espacio M;https://www.rappi.cl/restaurantes/900082648-la-brava-sangucheria-mall-espacio-m
+1487;Dodici Cafe;https://www.rappi.cl/restaurantes/900082764-dodici-cafe
+1488;La Pica Del Nacional;https://www.rappi.cl/restaurantes/900082843-la-pica-del-nacional
+1489;Tegualda;https://www.rappi.cl/restaurantes/900082872-tegualda
+1490;Cafe Jardin Providencia;https://www.rappi.cl/restaurantes/900082886-cafe-jardin-providencia
+1491;Bar Cofradia;https://www.rappi.cl/restaurantes/900082983-bar-cofradia
+1492;Il Golosso;https://www.rappi.cl/restaurantes/900082990-il-golosso
+1493;Panitas Burger Independencia;https://www.rappi.cl/restaurantes/900083044-panitas-burger-independencia
+1494;El Aji Seco 3;https://www.rappi.cl/restaurantes/900083059-el-aji-seco-3
+1495;El Emir;https://www.rappi.cl/restaurantes/900083060-el-emir
+1496;New View;https://www.rappi.cl/restaurantes/900083117-new-view
+1497;Nickpapas Toppings;https://www.rappi.cl/restaurantes/900083129-nickpapas-toppings
+1498;Akitoy Sushi Nikkei;https://www.rappi.cl/restaurantes/900083161-akitoy-sushi-nikkei
+1499;Menjar;https://www.rappi.cl/restaurantes/900083163-menjar
+1500;La Milagrosa;https://www.rappi.cl/restaurantes/900083187-la-milagrosa
+1501;Masterpollo;https://www.rappi.cl/restaurantes/900083337-masterpollo
+1502;Aji Recutecu;https://www.rappi.cl/restaurantes/900083346-aji-recutecu
+1503;Rgb;https://www.rappi.cl/restaurantes/900083448-rgb
+1504;Son Zulianos;https://www.rappi.cl/restaurantes/900083456-son-zulianos
+1505;Taberna Pizza X Metro;https://www.rappi.cl/restaurantes/900083466-taberna-pizza-x-metro
+1506;Crispy Waffles Sta Victoria;https://www.rappi.cl/restaurantes/900083489-crispy-waffles-sta-victoria
+1507;Bombo Burger;https://www.rappi.cl/restaurantes/900083513-bombo-burger
+1508;La Gohaneria;https://www.rappi.cl/restaurantes/900083522-la-gohaneria
+1509;The Market;https://www.rappi.cl/restaurantes/900083551-the-market
+1510;El Ganif Shawarma Comida Arabe;https://www.rappi.cl/restaurantes/900083553-el-ganif-shawarma-comida-arabe
+1511;El Mordiscazo;https://www.rappi.cl/restaurantes/900083663-el-mordiscazo
+1512;Sushi Yerkiss;https://www.rappi.cl/restaurantes/900083783-sushi-yerkiss
+1513;Sushi Nisei;https://www.rappi.cl/restaurantes/900083789-sushi-nisei
+1514;Chelsea Pizza;https://www.rappi.cl/restaurantes/900083808-chelsea-pizza
+1515;El Meson de la Marraqueta;https://www.rappi.cl/restaurantes/900083893-el-meson-de-la-marraqueta
+1516;Patata Chicken;https://www.rappi.cl/restaurantes/900084007-patata-chicken
+1517;Palermos Pizzeria;https://www.rappi.cl/restaurantes/900084122-palermos-pizzeria
+1518;Cuscinetto Pizzas;https://www.rappi.cl/restaurantes/900084140-cuscinetto-pizzas
+1519;Cake Premium;https://www.rappi.cl/restaurantes/900084153-cake-premium
+1520;Biaggios Pizzas;https://www.rappi.cl/restaurantes/900084154-biaggios-pizzas
+1521;Gourmeteria;https://www.rappi.cl/restaurantes/900084162-gourmeteria
+1522;Pura Gula Satelite;https://www.rappi.cl/restaurantes/900084230-pura-gula-satelite
+1523;Estacion Burger;https://www.rappi.cl/restaurantes/900084840-estacion-burger
+1524;Biaggios Pizzeria;https://www.rappi.cl/restaurantes/900084283-biaggios-pizzeria
+1525;Sushirepublic;https://www.rappi.cl/restaurantes/900084341-sushirepublic
+1526;El Palacio de la Arepa Mixta Santiago;https://www.rappi.cl/restaurantes/900084366-el-palacio-de-la-arepa-mixta-santia
+1527;Burger Smash Santiago Centro;https://www.rappi.cl/restaurantes/900084378-burger-smash-santiago-centro
+1528;Larcomarperu Restaurante Peruano;https://www.rappi.cl/restaurantes/900084389-larcomarperu-restaurante-peruano
+1529;Pastelitos Andinos Cl;https://www.rappi.cl/restaurantes/900084462-pastelitos-andinos-cl
+1530;Mollys Comida Peruana;https://www.rappi.cl/restaurantes/900084463-mollys-comida-peruana
+1531;Chicksnacks;https://www.rappi.cl/restaurantes/900084495-chicksnacks
+1532;Marraqueta Rustica;https://www.rappi.cl/restaurantes/900084496-marraqueta-rustica
+1533;Donpollo;https://www.rappi.cl/restaurantes/900084567-donpollo
+1534;Sophiburguer;https://www.rappi.cl/restaurantes/900084572-sophiburguer
+1535;Roccoto y Aji;https://www.rappi.cl/restaurantes/900084683-roccoto-y-aji
+1536;Comida Peruana Mi Rico Chimbote;https://www.rappi.cl/restaurantes/900084731-comida-peruana-mi-rico-chimbote
+1537;Sabor Peruano Pollos a Las Brasas;https://www.rappi.cl/restaurantes/900084851-sabor-peruano-pollos-a-las-brasas
+1538;Casa Pirita;https://www.rappi.cl/restaurantes/900084877-casa-pirita
+1539;La Lucha Sangucheria Costanera Center;https://www.rappi.cl/restaurantes/900085090-la-lucha-sangucheria-costanera-cent
+1540;Oggi Gelato;https://www.rappi.cl/restaurantes/900085096-oggi-gelato
+1541;Pollo Express Santa Isabel;https://www.rappi.cl/restaurantes/900085162-pollo-express-santa-isabel
+1542;La Duquesa Santiago Centro;https://www.rappi.cl/restaurantes/900085169-la-duquesa-santiago-centro
+1543;Un Siete Food;https://www.rappi.cl/restaurantes/900085253-un-siete-food
+1544;Sangucado;https://www.rappi.cl/restaurantes/900085301-sangucado
+1545;Al Tariq Nabati;https://www.rappi.cl/restaurantes/900085332-al-tariq-nabati
+1546;La Brava Sangucheria Mall Barrio Independencia;https://www.rappi.cl/restaurantes/900085336-la-brava-sangucheria-mall-barrio-in
+1547;90 Grados Fusion;https://www.rappi.cl/restaurantes/900085340-90-grados-fusion
+1548;Karat Pita Bowl Vegano;https://www.rappi.cl/restaurantes/900085343-karat-pita-bowl-vegano
+1549;Emi Pizzas;https://www.rappi.cl/restaurantes/900085352-emi-pizzas
+1550;Veggie Lunchs;https://www.rappi.cl/restaurantes/900085369-veggie-lunchs
+1551;Parrilla Criadores;https://www.rappi.cl/restaurantes/900085418-parrilla-criadores
+1552;Bangko K;https://www.rappi.cl/restaurantes/900085492-bangko-k
+1553;Bueno Bueno Macul;https://www.rappi.cl/restaurantes/900085534-bueno-bueno-macul
+1554;Milaresto;https://www.rappi.cl/restaurantes/900085549-milaresto
+1555;Rincon Sureno;https://www.rappi.cl/restaurantes/900085685-rincon-sureno
+1556;Too Much;https://www.rappi.cl/restaurantes/900014808-too-much
+1557;Takeshi Food;https://www.rappi.cl/restaurantes/900014986-takeshi-food
+1558;Tio Tomate;https://www.rappi.cl/restaurantes/900014988-tio-tomate
+1559;TGI Friday's;https://www.rappi.cl/restaurantes/900015106-tgi-fridays
+1560;Detodito Gourmet;https://www.rappi.cl/restaurantes/900015560-detodito-gourmet
+1561;Liberte Chocolat Chocolateria;https://www.rappi.cl/restaurantes/900015622-liberte-chocolat-chocolateria
+1562;Sushi Ota;https://www.rappi.cl/restaurantes/900015913-sushi-ota
+1563;Maloha Sushi y Sándwich;https://www.rappi.cl/restaurantes/900016054-maloha-sushi-y-sandwich
+1564;Himalaya;https://www.rappi.cl/restaurantes/900016309-himalaya
+1565;HIROKI SUSHI;https://www.rappi.cl/restaurantes/900016351-hiroki-sushi
+1566;Yanagui Sushi;https://www.rappi.cl/restaurantes/900016756-yanagui-sushi
+1567;Mezcla Cafetería;https://www.rappi.cl/restaurantes/900016985-mezcla-cafeteria
+1568;Soichiro Sushi;https://www.rappi.cl/restaurantes/900017461-soichiro-sushi
+1569;La Fuente del Bávaro;https://www.rappi.cl/restaurantes/900017666-la-fuente-del-bavaro
+1570;Woking Restaurant;https://www.rappi.cl/restaurantes/900018875-woking-restaurant
+1571;Nikkei Sushi Nanshi;https://www.rappi.cl/restaurantes/900018949-nikkei-sushi-nanshi
+1572;D'Todito;https://www.rappi.cl/restaurantes/900019206-dtodito
+1573;Santiago Eats.;https://www.rappi.cl/restaurantes/900019987-santiago-eats
+1574;Selvado;https://www.rappi.cl/restaurantes/900020939-selvado
+1575;Heart Attack;https://www.rappi.cl/restaurantes/900020961-heart-attack
+1576;Tuttobene Ossa;https://www.rappi.cl/restaurantes/900021057-tuttobene-ossa
+1577;Papa's Shop;https://www.rappi.cl/restaurantes/900022209-papas-shop
+1578;Yankee Burger;https://www.rappi.cl/restaurantes/900023748-yankee-burger
+1579;Restaurant Peruano Susan 2;https://www.rappi.cl/restaurantes/900023824-restaurant-peruano-susan-2
+1580;Mr. Takoyaki;https://www.rappi.cl/restaurantes/900024905-mr-takoyaki
+1581;La Tía Peta;https://www.rappi.cl/restaurantes/900025665-la-tia-peta
+1582;La Pura Mexicana;https://www.rappi.cl/restaurantes/900025801-la-pura-mexicana
+1583;Mahalo Food's;https://www.rappi.cl/restaurantes/900025805-mahalo-foods
+1584;Gabs Burger;https://www.rappi.cl/restaurantes/900026417-gabs-burger
+1585;Frito Frito.com;https://www.rappi.cl/restaurantes/900026418-frito-fritocom
+1586;Pez de Oro;https://www.rappi.cl/restaurantes/900026613-pez-de-oro
+1587;Pastelería Estambul;https://www.rappi.cl/restaurantes/900027064-pasteleria-estambul
+1588;Bar Nacional Las condes;https://www.rappi.cl/restaurantes/900027087-bar-nacional-las-condes
+1589;El Pollo Bakán;https://www.rappi.cl/restaurantes/900027468-el-pollo-bakan
+1590;New Horizon;https://www.rappi.cl/restaurantes/900027470-new-horizon
+1591;Baco's Burger & Sushi;https://www.rappi.cl/restaurantes/900027942-bacos-burger-y-sushi
+1592;Poke Bowl;https://www.rappi.cl/restaurantes/900027969-poke-bowl
+1593;Buonissima Pizzería;https://www.rappi.cl/restaurantes/900028792-buonissima-pizzeria
+1594;El Rincón de Abril;https://www.rappi.cl/restaurantes/900028793-el-rincon-de-abril
+1595;Cafetaleros;https://www.rappi.cl/restaurantes/900028875-cafetaleros
+1596;Giulietta;https://www.rappi.cl/restaurantes/900029267-giulietta
+1597;Sabores del Ají Seco;https://www.rappi.cl/restaurantes/900029329-sabores-del-aji-seco
+1598;Chueca Bar;https://www.rappi.cl/restaurantes/900029877-chueca-bar
+1599;El Pinche Mexicano;https://www.rappi.cl/restaurantes/900030056-el-pinche-mexicano
+1600;Don Chingon;https://www.rappi.cl/restaurantes/900030114-don-chingon
+1601;Emporio Condell;https://www.rappi.cl/restaurantes/900030151-emporio-condell
+1602;Sushi Kay;https://www.rappi.cl/restaurantes/900030297-sushi-kay
+1603;Rock And Churros;https://www.rappi.cl/restaurantes/900030321-rock-and-churros
+1604;Que antojitos;https://www.rappi.cl/restaurantes/900030333-que-antojitos
+1605;Sayonara Sushi Vip;https://www.rappi.cl/restaurantes/900030441-sayonara-sushi-vip
+1606;Dama Negra;https://www.rappi.cl/restaurantes/900030752-dama-negra
+1607;Lacevicheriachile;https://www.rappi.cl/restaurantes/900030839-lacevicheriachile
+1608;El Pinche Mexicano Santiago;https://www.rappi.cl/restaurantes/900031244-el-pinche-mexicano-santiago
+1609;Baco's Burger & Sushi;https://www.rappi.cl/restaurantes/900031449-bacos-burger-y-sushi
+1610;180 Grados;https://www.rappi.cl/restaurantes/900031800-180-grados
+1611;Maloha Sushi Y Sandwichs;https://www.rappi.cl/restaurantes/900032122-maloha-sushi-y-sandwichs
+1612;Mi Vieja Sangucheria;https://www.rappi.cl/restaurantes/900032141-mi-vieja-sangucheria
+1613;Budare 246;https://www.rappi.cl/restaurantes/900032332-budare-246
+1614;Diávola, Alta Pizza;https://www.rappi.cl/restaurantes/900035532-diavola-alta-pizza
+1615;El Chamo;https://www.rappi.cl/restaurantes/900035533-el-chamo
+1616;Family Bakery Burguer;https://www.rappi.cl/restaurantes/900035723-family-bakery-burguer
+1617;Family Bakery Panaderia;https://www.rappi.cl/restaurantes/900035724-family-bakery-panaderia
+1618;Comida Rapida 180 Grados;https://www.rappi.cl/restaurantes/900035889-comida-rapida-180-grados
+1619;Zeste Limón;https://www.rappi.cl/restaurantes/900035957-zeste-limon
+1620;Mahalo Food's;https://www.rappi.cl/restaurantes/900036248-mahalo-foods
+1621;Poke & Wrap;https://www.rappi.cl/restaurantes/900036258-poke-y-wrap
+1622;Gaman Asian Food;https://www.rappi.cl/restaurantes/900036580-gaman-asian-food
+1623;Sendai Sushi;https://www.rappi.cl/restaurantes/900036664-sendai-sushi
+1624;Gg Burgers;https://www.rappi.cl/restaurantes/900036865-gg-burgers
+1625;Guasacaca Pork;https://www.rappi.cl/restaurantes/900037049-guasacaca-pork
+1626;Chicken World;https://www.rappi.cl/restaurantes/900037658-chicken-world
+1627;Veggissima;https://www.rappi.cl/restaurantes/900038105-veggissima
+1628;CJ Comida al Paso;https://www.rappi.cl/restaurantes/900039128-cj-comida-al-paso
+1629;Solo Hamburguesa Hindenburg;https://www.rappi.cl/restaurantes/900039440-solo-hamburguesa-hindenburg
+1630;Señora Chicha Santiago;https://www.rappi.cl/restaurantes/900040470-senora-chicha-santiago
+1631;La Terraza;https://www.rappi.cl/restaurantes/900040532-la-terraza
+1632;PRIMOS;https://www.rappi.cl/restaurantes/900040768-primos
+1633;LLuvia De Hamburguesa;https://www.rappi.cl/restaurantes/900041166-lluvia-de-hamburguesa
+1634;Barrio Chino - 唐人街;https://www.rappi.cl/restaurantes/900048433-barrio-chino
+1635;Poke & Wrap, Victoria Santiago;https://www.rappi.cl/restaurantes/900048444-poke-y-wrap-victoria-santiago
+1636;Sabe a Lima Sushi;https://www.rappi.cl/restaurantes/900048537-sabe-a-lima-sushi
+1637;Black Apron;https://www.rappi.cl/restaurantes/900048665-black-apron
+1638;St. Pierre;https://www.rappi.cl/restaurantes/900056966-st-pierre
+1639;Acquarello Pastas;https://www.rappi.cl/restaurantes/900057078-acquarello-pastas
+1640;Shawarmas Janadyan;https://www.rappi.cl/restaurantes/900057116-shawarmas-janadyan
+1641;caprichos burger;https://www.rappi.cl/restaurantes/900057163-caprichos-burger
+1642;Maury Mania;https://www.rappi.cl/restaurantes/900057332-maury-mania
+1643;Fishico;https://www.rappi.cl/restaurantes/900064618-fishico
+1644;Planta Base Vegan Burgers;https://www.rappi.cl/restaurantes/900064620-planta-base-vegan-burgers
+1645;Limu Poke;https://www.rappi.cl/restaurantes/900064666-limu-poke
+1646;Pizza Station;https://www.rappi.cl/restaurantes/900064767-pizza-station
+1647;Hangi Sushi;https://www.rappi.cl/restaurantes/900065018-hangi-sushi
+1648;La Cuarentena Burger;https://www.rappi.cl/restaurantes/900065127-la-cuarentena-burger
+1649;Itamae Sushi;https://www.rappi.cl/restaurantes/900065934-itamae-sushi
+1650;Hanoi Sushi;https://www.rappi.cl/restaurantes/900066438-hanoi-sushi
+1651;Hummus Delicious;https://www.rappi.cl/restaurantes/900066447-hummus-delicious
+1652;DELICIAS FUSION.;https://www.rappi.cl/restaurantes/900067033-delicias-fusion
+1653;Callejero Restaurant;https://www.rappi.cl/restaurantes/900067184-callejero-restaurant
+1654;Escamas;https://www.rappi.cl/restaurantes/900067215-escamas
+1655;Matilda Pizza;https://www.rappi.cl/restaurantes/900067309-matilda-pizza
+1656;Vburger;https://www.rappi.cl/restaurantes/900067465-vburger
+1657;Vbowls;https://www.rappi.cl/restaurantes/900067473-vbowls
+1658;Okibo sushi;https://www.rappi.cl/restaurantes/900067686-okibo-sushi
+1659;Kitchenita;https://www.rappi.cl/restaurantes/900067841-kitchenita
+1660;Pasteleria licious;https://www.rappi.cl/restaurantes/900068821-pasteleria-licious
+1661;Lima Sushi Providencia;https://www.rappi.cl/restaurantes/900068970-lima-sushi-providencia
+1662;sakae - sushi;https://www.rappi.cl/restaurantes/900069233-sakae-sushi
+1663;Remakeat;https://www.rappi.cl/restaurantes/900069328-remakeat
+1664;Iron Burgers;https://www.rappi.cl/restaurantes/900070467-iron-burgers
+1665;Fuente Los Dominicos;https://www.rappi.cl/restaurantes/900071385-fuente-los-dominicos
+1666;Mambobistroburguer;https://www.rappi.cl/restaurantes/900071635-mambobistroburguer
+1667;Mercado Vegano, Tabancura;https://www.rappi.cl/restaurantes/900072632-mercado-vegano-tabancura
+1668;Estallido Vegano;https://www.rappi.cl/restaurantes/900073044-estallido-vegano
+1669;Bambinos Waffles;https://www.rappi.cl/restaurantes/900073377-bambinos-waffles
+1670;Mr. Crepes;https://www.rappi.cl/restaurantes/900073502-mr-crepes
+1671;Tasty Poke Bowl;https://www.rappi.cl/restaurantes/900073632-tasty-poke-bowl
+1672;Inka Food;https://www.rappi.cl/restaurantes/900073637-inka-food
+1673;Only Mexican.;https://www.rappi.cl/restaurantes/900073638-only-mexican
+1674;Aloha Eats Restaurant;https://www.rappi.cl/restaurantes/900073640-aloha-eats-restaurant
+1675;Pizzanta;https://www.rappi.cl/restaurantes/900073668-pizzanta
+1676;Raum Café;https://www.rappi.cl/restaurantes/900074300-raum-cafe
+1677;Flavors...;https://www.rappi.cl/restaurantes/900074391-flavors
+1678;Pollos a Las Brasas Donde Richard;https://www.rappi.cl/restaurantes/900074450-pollos-a-las-brasas-donde-richard
+1679;La Areperia Del Barrio;https://www.rappi.cl/restaurantes/900074886-la-areperia-del-barrio
+1680;Yapones Buenos Aires;https://www.rappi.cl/restaurantes/900074982-yapones-buenos-aires
+1681;Fritty`s;https://www.rappi.cl/restaurantes/900075066-fritty-s
+1682;Los Tios;https://www.rappi.cl/restaurantes/900075338-los-tios
+1683;Pollo Stereo Asados Totales;https://www.rappi.cl/restaurantes/900075356-pollo-stereo-asados-totales
+1684;Pollera Del Sol;https://www.rappi.cl/restaurantes/900075546-pollera-del-sol
+1685;The Good Food Santiago Centro;https://www.rappi.cl/restaurantes/900077295-the-good-food-santiago-centro
+1686;Antojos Food;https://www.rappi.cl/restaurantes/900077451-antojos-food
+1687;Morrocoy Food;https://www.rappi.cl/restaurantes/900077922-morrocoy-food
+1688;Aj3 Food And Drinks;https://www.rappi.cl/restaurantes/900077930-aj3-food-and-drinks
+1689;Sushidea;https://www.rappi.cl/restaurantes/900078231-sushidea
+1690;Oma Sushi;https://www.rappi.cl/restaurantes/900078257-oma-sushi
+1691;Gymburger;https://www.rappi.cl/restaurantes/900078258-gymburger
+1692;El Meson de Vichy;https://www.rappi.cl/restaurantes/900078491-el-meson-de-vichy
+1693;El Bajón Del Didi;https://www.rappi.cl/restaurantes/900078843-el-bajon-del-didi
+1694;Restoran de Lo Nuestro;https://www.rappi.cl/restaurantes/900078935-restoran-de-lo-nuestro
+1695;Mil Milanesas;https://www.rappi.cl/restaurantes/900079172-mil-milanesas
+1696;Hamburgol;https://www.rappi.cl/restaurantes/900079277-hamburgol
+1697;Guaros Grill;https://www.rappi.cl/restaurantes/900079294-guaros-grill
+1698;Subte Restaurante;https://www.rappi.cl/restaurantes/900079501-subte-restaurante
+1699;Abra Kada Wrap;https://www.rappi.cl/restaurantes/900079532-abra-kada-wrap
+1700;La Rumba Burger;https://www.rappi.cl/restaurantes/900079658-la-rumba-burger
+1701;Hot Rolls Food;https://www.rappi.cl/restaurantes/900079899-hot-rolls-food
+1702;Trending Sushi;https://www.rappi.cl/restaurantes/900080213-trending-sushi
+1703;Wakai Sushi Salads;https://www.rappi.cl/restaurantes/900080230-wakai-sushi-salads
+1704;Las Papas Del Barrio;https://www.rappi.cl/restaurantes/900080308-las-papas-del-barrio
+1705;Pizza House Santiago;https://www.rappi.cl/restaurantes/900080390-pizza-house-santiago
+1706;La Pica de Macul;https://www.rappi.cl/restaurantes/900080602-la-pica-de-macul
+1707;El Pan de Cada Dia Providencia;https://www.rappi.cl/restaurantes/900080738-el-pan-de-cada-dia-providencia
+1708;pizzarte;https://www.rappi.cl/restaurantes/900080765-pizzarte
+1709;Rutas Burger;https://www.rappi.cl/restaurantes/900080956-rutas-burger
+1710;Echale Sal;https://www.rappi.cl/restaurantes/900080957-echale-sal
+1711;El Sultan Fast Food;https://www.rappi.cl/restaurantes/900081042-el-sultan-fast-food
+1712;Maiz Maiz Empanadas;https://www.rappi.cl/restaurantes/900081178-maiz-maiz-empanadas
+1713;Gales Restobar;https://www.rappi.cl/restaurantes/900081493-gales-restobar
+1714;Sazon Caribeno;https://www.rappi.cl/restaurantes/900081613-sazon-caribeno
+1715;Burger Big;https://www.rappi.cl/restaurantes/900081720-burger-big
+1716;World Waffles;https://www.rappi.cl/restaurantes/900081810-world-waffles
+1717;Sushikeyp;https://www.rappi.cl/restaurantes/900081824-sushikeyp
+1718;Asaduria Donde los Tios;https://www.rappi.cl/restaurantes/900081873-asaduria-donde-los-tios
+1719;Tako Nikkei Sushi;https://www.rappi.cl/restaurantes/900081957-tako-nikkei-sushi
+1720;Biaggio S Pizza;https://www.rappi.cl/restaurantes/900082470-biaggio-s-pizza
+1721;Alta Cocina Peruana;https://www.rappi.cl/restaurantes/900082702-alta-cocina-peruana
+1722;Zermatt Restaurant;https://www.rappi.cl/restaurantes/900083168-zermatt-restaurant
+1723;My Poke Nikkei San Diego;https://www.rappi.cl/restaurantes/900083397-my-poke-nikkei-san-diego
+1724;Organicfood Cl;https://www.rappi.cl/restaurantes/900083512-organicfood-cl
+1725;La Roleria;https://www.rappi.cl/restaurantes/900083535-la-roleria
+1726;Space Chicks Burger;https://www.rappi.cl/restaurantes/900083560-space-chicks-burger
+1727;Burger Fast;https://www.rappi.cl/restaurantes/900083703-burger-fast
+1728;La Real Pizzeria;https://www.rappi.cl/restaurantes/900084159-la-real-pizzeria
+1729;Durangos Pizzas Chacabuco;https://www.rappi.cl/restaurantes/900084165-durangos-pizzas-chacabuco
+1730;Tequenisimo;https://www.rappi.cl/restaurantes/900084535-tequenisimo
+1731;Michy Cookies;https://www.rappi.cl/restaurantes/900084536-michy-cookies
+1732;Ensalandwichs;https://www.rappi.cl/restaurantes/900084657-ensalandwichs
+1733;Donde George;https://www.rappi.cl/restaurantes/900085246-donde-george
+1734;Strangers Burger;https://www.rappi.cl/restaurantes/900085647-strangers-burger
+1736;Carl's Jr.;https://www.rappi.cl/restaurantes/900014894-carls-jr
+1738;La Panera Rosa;https://www.rappi.cl/restaurantes/900073835-la-panera-rosa
+1739;McDonald's;https://www.rappi.cl/restaurantes/900030937-mcdonalds
+1741;Koychi Comida Coreana;https://www.rappi.cl/restaurantes/900083839-koychi-comida-coreana
+1745;Niu Sushi;https://www.rappi.cl/restaurantes/900077966-niu-sushi
+1747;Sushi Blues;https://www.rappi.cl/restaurantes/900019613-sushi-blues
+1752;Fuente mardoqueo;https://www.rappi.cl/restaurantes/900040849-fuente-mardoqueo
+1754;Empanadas Tomas Moro;https://www.rappi.cl/restaurantes/900038243-empanadas-tomas-moro
+1755;Museo Peruano;https://www.rappi.cl/restaurantes/900015778-museo-peruano
+1766;Alto Japón;https://www.rappi.cl/restaurantes/900038156-alto-japon
+1768;Oh My Sushi;https://www.rappi.cl/restaurantes/900015515-oh-my-sushi
+1777;Da Cesare&Paolo;https://www.rappi.cl/restaurantes/900016255-da-cesareypaolo
+1788;Oceanika Sushi;https://www.rappi.cl/restaurantes/900015254-oceanika-sushi
+1790;Burger King®;https://www.rappi.cl/restaurantes/900015570-burger-kingr
+1797;Barra Chalaca;https://www.rappi.cl/restaurantes/900022813-barra-chalaca
+1806;Teclados;https://www.rappi.cl/restaurantes/900017778-teclados
+1810;Dulce Luna;https://www.rappi.cl/restaurantes/900022844-dulce-luna
+1813;Thai Express;https://www.rappi.cl/restaurantes/900027525-thai-express
+1817;Doble Queso;https://www.rappi.cl/restaurantes/900014562-doble-queso
+1819;Tamashi;https://www.rappi.cl/restaurantes/900015998-tamashi
+1822;Omakase Sushi Delivery;https://www.rappi.cl/restaurantes/900020265-omakase-sushi-delivery
+1827;Burger Truck;https://www.rappi.cl/restaurantes/900038380-burger-truck
+1842;Green Lab;https://www.rappi.cl/restaurantes/900081148-green-lab
+1850;Take a Wok;https://www.rappi.cl/restaurantes/900022807-take-a-wok
+1853;Al Jazeera;https://www.rappi.cl/restaurantes/900025707-al-jazeera
+1863;La Burguesita by La Burguesía;https://www.rappi.cl/restaurantes/900017651-la-burguesita-by-la-burguesia
+1876;Melt Pizzas;https://www.rappi.cl/restaurantes/900018448-melt-pizzas
+1885;Burger Beef;https://www.rappi.cl/restaurantes/900064834-burger-beef
+1886;Dominó;https://www.rappi.cl/restaurantes/524-domino
+1892;Green Eat;https://www.rappi.cl/restaurantes/900023897-green-eat
+1896;Comida China Ming Shi;https://www.rappi.cl/restaurantes/900030160-comida-china-ming-shi
+1905;El Bodegón Taberna Limeña;https://www.rappi.cl/restaurantes/900079312-el-bodegon-taberna-limena
+1907;Chicken Love You;https://www.rappi.cl/restaurantes/900083720-chicken-love-you
+1940;Malevolo Pizza;https://www.rappi.cl/restaurantes/900065020-malevolo-pizza
+1941;Kami Sushi;https://www.rappi.cl/restaurantes/900072944-kami-sushi
+1946;Yokono sushi;https://www.rappi.cl/restaurantes/900014821-yokono-sushi
+1948;China Wok;https://www.rappi.cl/restaurantes/900016905-china-wok
+1950;KFC;https://www.rappi.cl/restaurantes/900019689-kfc
+1961;Mr Hans Chicken;https://www.rappi.cl/restaurantes/900073366-mr-hans-chicken
+1962;Grido;https://www.rappi.cl/restaurantes/900014549-grido
+1964;El Toldo Azul;https://www.rappi.cl/restaurantes/900015749-el-toldo-azul
+1966;Ocean Pacifics Esmeralda;https://www.rappi.cl/restaurantes/900015969-ocean-pacifics-esmeralda
+1969;Taco Bell;https://www.rappi.cl/restaurantes/900020792-taco-bell
+1974;Muu Steak;https://www.rappi.cl/restaurantes/900031768-muu-steak
+1983;Bella Vista Donuts providencia;https://www.rappi.cl/restaurantes/900048383-bella-vista-donuts-providencia
+1985;Alaska Sushi Fusión;https://www.rappi.cl/restaurantes/900068944-alaska-sushi-fusion
+1986;Lasañas Santiago;https://www.rappi.cl/restaurantes/900079607-lasanas-santiago
+1987;La Rambla;https://www.rappi.cl/restaurantes/900014819-la-rambla
+1990;La Casa Orgánica;https://www.rappi.cl/restaurantes/900015199-la-casa-organica
+1993;ChilMex Mexican Grill;https://www.rappi.cl/restaurantes/900017536-chilmex-mexican-grill
+1994;Helados Mó;https://www.rappi.cl/restaurantes/900018285-helados-mo
+2008;Bravissimo;https://www.rappi.cl/restaurantes/900033141-bravissimo
+2016;Niu Sushi Lyon;https://www.rappi.cl/restaurantes/900078070-niu-sushi-lyon
+2021;Dunkin';https://www.rappi.cl/restaurantes/900016059-dunkin
+2036;Brussels Heart Of Chocolate;https://www.rappi.cl/restaurantes/900030761-brussels-heart-of-chocolate
+2049;Tarragona;https://www.rappi.cl/restaurantes/900081996-tarragona
+2050;Cafe Haussmann, Crudo Valdiviano;https://www.rappi.cl/restaurantes/387-cafe-haussmann-crudo-valdiviano
+2052;Chicken Factory;https://www.rappi.cl/restaurantes/900014636-chicken-factory
+2054;Tortas Amelia;https://www.rappi.cl/restaurantes/900015450-tortas-amelia
+2060;Mamut;https://www.rappi.cl/restaurantes/900019494-mamut
+2062;La Pollería;https://www.rappi.cl/restaurantes/900020711-la-polleria
+2072;Seven Pizza;https://www.rappi.cl/restaurantes/900037880-seven-pizza
+2073;Delivery Gourmet;https://www.rappi.cl/restaurantes/900040122-delivery-gourmet
+2077;Poke Poke;https://www.rappi.cl/restaurantes/900069639-poke-poke
+2081;Sow;https://www.rappi.cl/restaurantes/900074915-sow
+2088;Mestiere;https://www.rappi.cl/restaurantes/900015192-mestiere
+2091;La Makacha;https://www.rappi.cl/restaurantes/900016301-la-makacha
+2092;Paradiso;https://www.rappi.cl/restaurantes/900016815-paradiso
+2096;Masala;https://www.rappi.cl/restaurantes/900018691-masala
+2097;Juan Maestro;https://www.rappi.cl/restaurantes/900018749-juan-maestro
+2098;Tio Tomate;https://www.rappi.cl/restaurantes/900019123-tio-tomate
+2099;Fork;https://www.rappi.cl/restaurantes/900019435-fork
+2101;Pasteleria Biella;https://www.rappi.cl/restaurantes/900022068-pasteleria-biella
+2104;Monna;https://www.rappi.cl/restaurantes/900032890-monna
+2106;Pollo Rey;https://www.rappi.cl/restaurantes/900064752-pollo-rey
+2109;Bendito Sushi;https://www.rappi.cl/restaurantes/900071543-bendito-sushi
+2117;Starbucks;https://www.rappi.cl/restaurantes/900016563-starbucks
+2121;Buffalo Waffles;https://www.rappi.cl/restaurantes/900020737-buffalo-waffles
+2125;Tommy Beans;https://www.rappi.cl/restaurantes/900024791-tommy-beans
+2126;Tavelli;https://www.rappi.cl/restaurantes/900027340-tavelli
+2132;Caprese;https://www.rappi.cl/restaurantes/900035744-caprese
+2141;Barrio Chicken;https://www.rappi.cl/restaurantes/900066884-barrio-chicken
+2145;Etienne Marcel Las Condes;https://www.rappi.cl/restaurantes/900080711-etienne-marcel-las-condes
+2149;Telepizza;https://www.rappi.cl/restaurantes/900015068-telepizza
+2154;Churromania;https://www.rappi.cl/restaurantes/900019365-churromania
+2155;Milanos Pizza;https://www.rappi.cl/restaurantes/900019829-milanos-pizza
+2163;El Otro Puerto Callao Vitacura;https://www.rappi.cl/restaurantes/900066823-el-otro-puerto-callao-vitacura
+2170;Fries & Bites;https://www.rappi.cl/restaurantes/488-fries-y-bites
+2171;Pizza Hut;https://www.rappi.cl/restaurantes/900014654-pizza-hut
+2179;La Mechada Nacional;https://www.rappi.cl/restaurantes/900021247-la-mechada-nacional
+2191;Maxidonas;https://www.rappi.cl/restaurantes/900069546-maxidonas
+2195;La Galletería Las Condes;https://www.rappi.cl/restaurantes/900077403-la-galleteria-las-condes
+2201;Cocina de Kaleta;https://www.rappi.cl/restaurantes/900017555-cocina-de-kaleta
+2210;La Ermita;https://www.rappi.cl/restaurantes/900036557-la-ermita
+2215;La Polloteka;https://www.rappi.cl/restaurantes/900015418-la-polloteka
+2216;Pastamore;https://www.rappi.cl/restaurantes/900015555-pastamore
+2221;Pronto Copec;https://www.rappi.cl/restaurantes/900021276-pronto-copec
+2223;TPM Tomate Palta Mayo;https://www.rappi.cl/restaurantes/900025466-tpm-tomate-palta-mayo
+2234;Juicy Lucy;https://www.rappi.cl/restaurantes/900038379-juicy-lucy
+2239;EL MUNDO DEL TEQUEÑO (VITACURA);https://www.rappi.cl/restaurantes/900073023-el-mundo-del-tequeno-vitacura
+2248;In Huinchi;https://www.rappi.cl/restaurantes/900016515-in-huinchi
+2250;Rico Espacio;https://www.rappi.cl/restaurantes/900018396-rico-espacio
+2254;Dulcería Sweet Brownie;https://www.rappi.cl/restaurantes/900027766-dulceria-sweet-brownie
+2262;Chicken What?;https://www.rappi.cl/restaurantes/900056899-chicken-what
+2265;Lomo de La Fuente;https://www.rappi.cl/restaurantes/900072755-lomo-de-la-fuente
+2266;EL MUNDO DE LAS PAPAS FRITAS (VITACURA);https://www.rappi.cl/restaurantes/900073013-el-mundo-de-las-papas-fritas-vitacu
+2268;Del 10;https://www.rappi.cl/restaurantes/900077888-del-10
+2273;El Perdón Helados;https://www.rappi.cl/restaurantes/900083554-el-perdon-helados
+2277;Schopdog;https://www.rappi.cl/restaurantes/900025448-schopdog
+2278;Cordova Cocina y Bar;https://www.rappi.cl/restaurantes/900026543-cordova-cocina-y-bar
+2281;Yogurtlife;https://www.rappi.cl/restaurantes/900030340-yogurtlife
+2282;McDonald's Postre;https://www.rappi.cl/restaurantes/900032662-mcdonalds-postre
+2289;Pizzanta;https://www.rappi.cl/restaurantes/900057761-pizzanta
+2292;Entre Panas Food Truck;https://www.rappi.cl/restaurantes/900075515-entre-panas-food-truck
+2293;Almacen de Pizzas;https://www.rappi.cl/restaurantes/900077374-almacen-de-pizzas
+2300;Fajita Express;https://www.rappi.cl/restaurantes/900016571-fajita-express
+2302;Pizza Hut;https://www.rappi.cl/restaurantes/900019007-pizza-hut
+2304;Lumberjack's Grill;https://www.rappi.cl/restaurantes/900027975-lumberjacks-grill
+2305;Holy Chicken;https://www.rappi.cl/restaurantes/900030841-holy-chicken
+2307;El Karim;https://www.rappi.cl/restaurantes/900035778-el-karim
+2309;La Mil Hoja;https://www.rappi.cl/restaurantes/900041398-la-mil-hoja
+2318;Amasados;https://www.rappi.cl/restaurantes/900018045-amasados
+2319;Doggis;https://www.rappi.cl/restaurantes/900022970-doggis
+2323;Harina Pan Artesanal;https://www.rappi.cl/restaurantes/900036460-harina-pan-artesanal
+2328;Doggis Heladeria;https://www.rappi.cl/restaurantes/900073677-doggis-heladeria
+2336;Café Mokka;https://www.rappi.cl/restaurantes/900017876-cafe-mokka
+2338;Montalbano;https://www.rappi.cl/restaurantes/900026591-montalbano
+2340;Big Boba Bubble Tea Shop;https://www.rappi.cl/restaurantes/900030411-big-boba-bubble-tea-shop
+2345;Panaderia La Madre;https://www.rappi.cl/restaurantes/900067296-panaderia-la-madre
+2348;José Ramón 277;https://www.rappi.cl/restaurantes/900074761-jose-ramon-277
+2354;Coppelia;https://www.rappi.cl/restaurantes/900016424-coppelia
+2355;Dulcería Santa Elena;https://www.rappi.cl/restaurantes/900020366-dulceria-santa-elena
+2356;La Sanguchera del Barrio;https://www.rappi.cl/restaurantes/900022691-la-sanguchera-del-barrio
+2367;Croq Delice;https://www.rappi.cl/restaurantes/900023171-croq-delice
+2376;Madame Grace;https://www.rappi.cl/restaurantes/900081630-madame-grace
+2377;Tu churro;https://www.rappi.cl/restaurantes/900081874-tu-churro
+2384;Pedro Juan & Diego;https://www.rappi.cl/restaurantes/900028681-pedro-juan-y-diego
+2390;La Chestari;https://www.rappi.cl/restaurantes/900079687-la-chestari
+2405;Salad Lab;https://www.rappi.cl/restaurantes/900035348-salad-lab
+2406;Bloody Veggie;https://www.rappi.cl/restaurantes/900040211-bloody-veggie
+2413;Frank's Amazing Burger;https://www.rappi.cl/restaurantes/900081973-franks-amazing-burger
+2416;Granos de Cordova;https://www.rappi.cl/restaurantes/900039262-granos-de-cordova
+2429;Lima Coffee;https://www.rappi.cl/restaurantes/900077765-lima-coffee
+2430;Rayo Burger;https://www.rappi.cl/restaurantes/900083275-rayo-burger
+2444;Guaraco Las Condes;https://www.rappi.cl/restaurantes/900082181-guaraco-las-condes
+2454;Coyotes;https://www.rappi.cl/restaurantes/900085415-coyotes
+2455;La Perla Del Pacifico;https://www.rappi.cl/restaurantes/900015872-la-perla-del-pacifico
+2460;Intense Sushi Bar;https://www.rappi.cl/restaurantes/900067666-intense-sushi-bar
+2495;Restaurant y Polleria Ciamana;https://www.rappi.cl/restaurantes/900074910-restaurant-y-polleria-ciamana
+2497;Furō;https://www.rappi.cl/restaurantes/900078683-furo
+2501;Park Eat;https://www.rappi.cl/restaurantes/900028223-park-eat
+2502;Sangucheria de Barrio;https://www.rappi.cl/restaurantes/900030924-sangucheria-de-barrio
+2512;Lima Sushi;https://www.rappi.cl/restaurantes/900079469-lima-sushi
+2516;Pollo Stop Asaduría;https://www.rappi.cl/restaurantes/900026255-pollo-stop-asaduria
+2522;La Tavola Di Manolo;https://www.rappi.cl/restaurantes/900081875-la-tavola-di-manolo
+2527;Wakai;https://www.rappi.cl/restaurantes/900014826-wakai
+2535;Subway;https://www.rappi.cl/restaurantes/900025172-subway
+2555;Sangucheria La Champañeria Lunch;https://www.rappi.cl/restaurantes/900074390-sangucheria-la-champaneria-lunch
+2557;Teke Carrete Providencia;https://www.rappi.cl/restaurantes/900074630-teke-carrete-providencia
+2567;Yatai Sushi Nikkei Las Condes;https://www.rappi.cl/restaurantes/900079445-yatai-sushi-nikkei-las-condes
+2572;Get It Santiago;https://www.rappi.cl/restaurantes/900081061-get-it-santiago
+2573;Sushi Gaman Retro Bar;https://www.rappi.cl/restaurantes/900081413-sushi-gaman-retro-bar
+2576;Fuente Barnechea;https://www.rappi.cl/restaurantes/900081974-fuente-barnechea
+2592;Panino Lab;https://www.rappi.cl/restaurantes/900036693-panino-lab
+2607;Slicy Rocks Pizza;https://www.rappi.cl/restaurantes/900082870-slicy-rocks-pizza
+2608;Da Trento Gourmet;https://www.rappi.cl/restaurantes/900083190-da-trento-gourmet
+2629;Japo Sushi;https://www.rappi.cl/restaurantes/900085405-japo-sushi
+2641;La Minguita;https://www.rappi.cl/restaurantes/900014905-la-minguita
+2647;Cococha;https://www.rappi.cl/restaurantes/900019813-cococha
+2652;D'Fab;https://www.rappi.cl/restaurantes/900025653-dfab
+2657;La Nacional;https://www.rappi.cl/restaurantes/900027866-la-nacional
+2658;Almacén de Sabores;https://www.rappi.cl/restaurantes/900028487-almacen-de-sabores
+2663;Sport Café;https://www.rappi.cl/restaurantes/900030844-sport-cafe
+2665;Desmechada's;https://www.rappi.cl/restaurantes/900030925-desmechadas
+2666;Porca Pizzeria;https://www.rappi.cl/restaurantes/900031508-porca-pizzeria
+2676;Cocina Austral;https://www.rappi.cl/restaurantes/900066690-cocina-austral
+2678;Come Fry With Me;https://www.rappi.cl/restaurantes/900072671-come-fry-with-me
+2680;Latin Pizza;https://www.rappi.cl/restaurantes/900073045-latin-pizza
+2716;Vandals;https://www.rappi.cl/restaurantes/900084779-vandals
+2718;Alsham Comida Arabe;https://www.rappi.cl/restaurantes/900084459-alsham-comida-arabe
+2727;Kaly Sushi;https://www.rappi.cl/restaurantes/900015608-kaly-sushi
+2736;XS Market;https://www.rappi.cl/restaurantes/900017690-xs-market
+2738;Da Radda;https://www.rappi.cl/restaurantes/900018305-da-radda
+2744;Tortilla Factory;https://www.rappi.cl/restaurantes/900028083-tortilla-factory
+2750;Segreta Pizzeria;https://www.rappi.cl/restaurantes/900030076-segreta-pizzeria
+2755;Nan Fang;https://www.rappi.cl/restaurantes/900033015-nan-fang
+2758;pizzeria capri;https://www.rappi.cl/restaurantes/900035553-pizzeria-capri
+2763;Sushi To Taste;https://www.rappi.cl/restaurantes/900036640-sushi-to-taste
+2771;Only Burger;https://www.rappi.cl/restaurantes/900040869-only-burger
+2779;Selfish;https://www.rappi.cl/restaurantes/900067481-selfish
+2790;Cafe Mandorla Las Condes;https://www.rappi.cl/restaurantes/900075086-cafe-mandorla-las-condes
+2791;Wok To Wok;https://www.rappi.cl/restaurantes/900075153-wok-to-wok
+2792;Muranos Pizza;https://www.rappi.cl/restaurantes/900075158-muranos-pizza
+2806;Menutogo;https://www.rappi.cl/restaurantes/900080513-menutogo
+2807;Raffaella Cucina Napoletana;https://www.rappi.cl/restaurantes/900080541-raffaella-cucina-napoletana
+2816;Satai Sushi Las Condes;https://www.rappi.cl/restaurantes/900083930-satai-sushi-las-condes
+2817;La Bufala;https://www.rappi.cl/restaurantes/900083946-la-bufala
+2819;Superbowl;https://www.rappi.cl/restaurantes/900084143-superbowl
+2824;Sushiban;https://www.rappi.cl/restaurantes/515-sushiban
+2827;Sumo Sushi;https://www.rappi.cl/restaurantes/900014974-sumo-sushi
+2829;Taringa;https://www.rappi.cl/restaurantes/900015141-taringa
+2832;Chefs;https://www.rappi.cl/restaurantes/900015258-chefs
+2845;Vietnam Discovery;https://www.rappi.cl/restaurantes/900016579-vietnam-discovery
+2847;Lpetite cafetería y boutique;https://www.rappi.cl/restaurantes/900016976-lpetite-cafeteria-y-boutique
+2858;Messers;https://www.rappi.cl/restaurantes/900018498-messers
+2897;Il Pazzo;https://www.rappi.cl/restaurantes/900030044-il-pazzo
+2912;Lima Gourmet;https://www.rappi.cl/restaurantes/900032276-lima-gourmet
+2918;Nigiri Sushi;https://www.rappi.cl/restaurantes/900031959-nigiri-sushi
+2934;Panaderia La Colmena;https://www.rappi.cl/restaurantes/900036674-panaderia-la-colmena
+2938;Vettel Chocolates;https://www.rappi.cl/restaurantes/900037322-vettel-chocolates
+2941;Tako Sushi;https://www.rappi.cl/restaurantes/900037320-tako-sushi
+2949;Topizzima Pizzas Artesanales;https://www.rappi.cl/restaurantes/900040516-topizzima-pizzas-artesanales
+2961;Hoy Sushi Las Condes;https://www.rappi.cl/restaurantes/900057136-hoy-sushi-las-condes
+3005;Handroll Zito;https://www.rappi.cl/restaurantes/900073639-handroll-zito
+3006;Chickenparty Fried Chicken;https://www.rappi.cl/restaurantes/900073642-chickenparty-fried-chicken
+3039;Salad Box;https://www.rappi.cl/restaurantes/900075139-salad-box
+3048;Dely Postre;https://www.rappi.cl/restaurantes/900077408-dely-postre
+3049;Heladería Mister Aplv y Quequería Receitas Pups;https://www.rappi.cl/restaurantes/900077415-heladeria-mister-aplv-y-quequeria-r
+3060;Bocado By Yasari;https://www.rappi.cl/restaurantes/900078127-bocado-by-yasari
+3061;Pizza Nonna;https://www.rappi.cl/restaurantes/900078252-pizza-nonna
+3065;Arab;https://www.rappi.cl/restaurantes/900078543-arab
+3069;La Cantina...;https://www.rappi.cl/restaurantes/900078793-la-cantina
+3077;7 Cortes;https://www.rappi.cl/restaurantes/900079309-7-cortes
+3078;Mesón Del Marinero;https://www.rappi.cl/restaurantes/900079311-meson-del-marinero
+3079;La Piazza - Pdte Kennedy;https://www.rappi.cl/restaurantes/900079314-la-piazza-pdte-kennedy
+3080;Vegan Zone;https://www.rappi.cl/restaurantes/900079329-vegan-zone
+3086;Wheel Burger;https://www.rappi.cl/restaurantes/900079555-wheel-burger
+3100;El Beertuoso;https://www.rappi.cl/restaurantes/900080650-el-beertuoso
+3113;La Fuente Carrera;https://www.rappi.cl/restaurantes/900081529-la-fuente-carrera
+3130;Durangos Pizzas;https://www.rappi.cl/restaurantes/900082503-durangos-pizzas
+3132;Mazzones Pizza;https://www.rappi.cl/restaurantes/900082516-mazzones-pizza
+3134;Capriccianos Pizza;https://www.rappi.cl/restaurantes/900082598-capriccianos-pizza
+3163;La Casa Del Sushi Restaurant;https://www.rappi.cl/restaurantes/900084038-la-casa-del-sushi-restaurant
+3194;Milaresto;https://www.rappi.cl/restaurantes/900085686-milaresto
+3195;Eco Sushi;https://www.rappi.cl/restaurantes/900014558-eco-sushi
+3196;Pronto Pranzo;https://www.rappi.cl/restaurantes/900014637-pronto-pranzo
+3212;Ziaro Sushi;https://www.rappi.cl/restaurantes/900020324-ziaro-sushi
+3220;Chancha Javali;https://www.rappi.cl/restaurantes/900024735-chancha-javali
+3223;Virginia's Burger;https://www.rappi.cl/restaurantes/900026155-virginias-burger
+3236;Café Tropa;https://www.rappi.cl/restaurantes/900029197-cafe-tropa
+3249;Lukai Green & Salad;https://www.rappi.cl/restaurantes/900031473-lukai-green-y-salad
+3252;Shalom Yeshua;https://www.rappi.cl/restaurantes/900032758-shalom-yeshua
+3253;gelateria neva;https://www.rappi.cl/restaurantes/900035419-gelateria-neva
+3261;La Pura Mexicana;https://www.rappi.cl/restaurantes/900036249-la-pura-mexicana
+3266;Office Sandwich Huechuraba;https://www.rappi.cl/restaurantes/900038199-office-sandwich-huechuraba
+3278;La Burga;https://www.rappi.cl/restaurantes/900057204-la-burga
+3285;Don Julio;https://www.rappi.cl/restaurantes/900065115-don-julio
+3289;Tu Mundo Dulce;https://www.rappi.cl/restaurantes/900066458-tu-mundo-dulce
+3293;Matilda Pizza;https://www.rappi.cl/restaurantes/900067312-matilda-pizza
+3301;Zaika - Comida Hindu;https://www.rappi.cl/restaurantes/900070188-zaika-comida-hindu
+3306;Florentina Helado Artesanal;https://www.rappi.cl/restaurantes/900073250-florentina-helado-artesanal
+3321;Melomanos Pizzeria;https://www.rappi.cl/restaurantes/900077653-melomanos-pizzeria
+3324;Lam Burguesa Vitacura;https://www.rappi.cl/restaurantes/900078027-lam-burguesa-vitacura
+3328;Completos Veganos Hot God;https://www.rappi.cl/restaurantes/900078348-completos-veganos-hot-god
+3329;Ciabatta Sandwiches;https://www.rappi.cl/restaurantes/900078349-ciabatta-sandwiches
+3331;Postrecitos;https://www.rappi.cl/restaurantes/900078712-postrecitos
+3332;La Pizzeria Lm;https://www.rappi.cl/restaurantes/900078732-la-pizzeria-lm
+3349;La Real Pizza;https://www.rappi.cl/restaurantes/900081480-la-real-pizza
+3354;Veganlandia;https://www.rappi.cl/restaurantes/900082100-veganlandia
+3406;Chicken Factory;https://www.rappi.cl/restaurantes/900015643-chicken-factory
+3457;Inkanto Peruano;https://www.rappi.cl/restaurantes/900079422-inkanto-peruano
+3521;Moroni Sushi;https://www.rappi.cl/restaurantes/900022651-moroni-sushi
+3522;Melt Pizzas;https://www.rappi.cl/restaurantes/900027455-melt-pizzas
+3540;Dubai Sushi;https://www.rappi.cl/restaurantes/900015840-dubai-sushi
+3545;Saki Sushi;https://www.rappi.cl/restaurantes/900022652-saki-sushi
+3556;Kyoka Sushi;https://www.rappi.cl/restaurantes/900080285-kyoka-sushi
+3630;Fork;https://www.rappi.cl/restaurantes/900023259-fork
+3665;Taco Bell;https://www.rappi.cl/restaurantes/900030745-taco-bell
+3750;La Finestra Ristorante;https://www.rappi.cl/restaurantes/900021024-la-finestra-ristorante
+3758;Dunkin';https://www.rappi.cl/restaurantes/900027904-dunkin
+3764;Club Del Poke;https://www.rappi.cl/restaurantes/900075133-club-del-poke
+3782;Pizza Hut;https://www.rappi.cl/restaurantes/900014809-pizza-hut
+3787;Subway;https://www.rappi.cl/restaurantes/900016312-subway
+3838;Rincón Venezolano;https://www.rappi.cl/restaurantes/384-rincon-venezolano
+3841;Wendy's;https://www.rappi.cl/restaurantes/900016264-wendys
+3851;Churromania;https://www.rappi.cl/restaurantes/900030415-churromania
+3894;Starbucks;https://www.rappi.cl/restaurantes/900026862-starbucks
+3921;El Palenke Sandwichería;https://www.rappi.cl/restaurantes/900028672-el-palenke-sandwicheria
+3953;Shing Ramen;https://www.rappi.cl/restaurantes/900084229-shing-ramen
+3979;American Veggie Hot Dog;https://www.rappi.cl/restaurantes/900082080-american-veggie-hot-dog
+4095;Restaurant Japon Delivery;https://www.rappi.cl/restaurantes/900066541-restaurant-japon-delivery
+4104;Happy Milkshake;https://www.rappi.cl/restaurantes/900070312-happy-milkshake
+4113;Gohan Ko;https://www.rappi.cl/restaurantes/900081922-gohan-ko
+4114;La Casa de la Empanada;https://www.rappi.cl/restaurantes/900082367-la-casa-de-la-empanada
+4119;Ricca Pizza;https://www.rappi.cl/restaurantes/900085450-ricca-pizza
+4130;Mi Cielo Toscano Pizzeria;https://www.rappi.cl/restaurantes/900083679-mi-cielo-toscano-pizzeria
+4132;Affogato Waffles;https://www.rappi.cl/restaurantes/900085045-affogato-waffles
+4150;Schopdog;https://www.rappi.cl/restaurantes/900025998-schopdog
+4158;Montalbano;https://www.rappi.cl/restaurantes/900029337-montalbano
+4168;Punto Oriental;https://www.rappi.cl/restaurantes/900079070-punto-oriental
+4190;Salad Lab;https://www.rappi.cl/restaurantes/900036498-salad-lab
+4199;Get It Santiago;https://www.rappi.cl/restaurantes/900064879-get-it-santiago
+4217;El Causita;https://www.rappi.cl/restaurantes/900079488-el-causita
+4222;El Mundo de Las Hamburguesas;https://www.rappi.cl/restaurantes/900081230-el-mundo-de-las-hamburguesas
+4235;Mazui;https://www.rappi.cl/restaurantes/900015100-mazui
+4279;Graffiti Pizza;https://www.rappi.cl/restaurantes/900085318-graffiti-pizza
+4318;Oliva Ensalada Sandwich & Algo Mas;https://www.rappi.cl/restaurantes/900048128-oliva-ensalada-sandwich-y-algo-mas
+4357;Choclo Bowl;https://www.rappi.cl/restaurantes/900083632-choclo-bowl
+4373;Sushi Hass Nikkei la Reina;https://www.rappi.cl/restaurantes/900079729-sushi-hass-nikkei-la-reina
+4459;Delizia Pizza;https://www.rappi.cl/restaurantes/900077643-delizia-pizza
+4460;Fajre;https://www.rappi.cl/restaurantes/900077797-fajre
+4461;Treng Burger;https://www.rappi.cl/restaurantes/900077833-treng-burger
+4462;Niu Sushi;https://www.rappi.cl/restaurantes/900078038-niu-sushi
+4510;Mi li xuan;https://www.rappi.cl/restaurantes/900016285-mi-li-xuan
+4518;Yao Feng;https://www.rappi.cl/restaurantes/900017365-yao-feng
+4527;Mescalito;https://www.rappi.cl/restaurantes/900018435-mescalito
+4529;Juana La Loca;https://www.rappi.cl/restaurantes/900018706-juana-la-loca
+4532;Ceviche a lo Macho;https://www.rappi.cl/restaurantes/900019384-ceviche-a-lo-macho
+4537;Pisco Sour Restaurante;https://www.rappi.cl/restaurantes/900020295-pisco-sour-restaurante
+4597;Emporio Mallorca;https://www.rappi.cl/restaurantes/900033125-emporio-mallorca
+4618;Punto G Sushi;https://www.rappi.cl/restaurantes/900036961-punto-g-sushi
+4634;Pastelería Kore;https://www.rappi.cl/restaurantes/900040804-pasteleria-kore
+4643;Gastronomía Drakes;https://www.rappi.cl/restaurantes/900048400-gastronomia-drakes
+4652;WAKATAY;https://www.rappi.cl/restaurantes/900057493-wakatay
+4662;Mister Falafel;https://www.rappi.cl/restaurantes/900066431-mister-falafel
+4664;House Tofu;https://www.rappi.cl/restaurantes/900066470-house-tofu
+4671;Machu Picchu Gourmet;https://www.rappi.cl/restaurantes/900067194-machu-picchu-gourmet
+4672;Gringos & Tacos Y Burritos;https://www.rappi.cl/restaurantes/900067197-gringos-y-tacos-y-burritos
+4674;Causa Limeña;https://www.rappi.cl/restaurantes/900067208-causa-limena
+4675;Roccoto Gourmet;https://www.rappi.cl/restaurantes/900067209-roccoto-gourmet
+4677;Harley Curry;https://www.rappi.cl/restaurantes/900067241-harley-curry
+4752;Sabor a Pecados;https://www.rappi.cl/restaurantes/900077840-sabor-a-pecados
+4779;Heladeria la Foca;https://www.rappi.cl/restaurantes/900079511-heladeria-la-foca
+4794;Mama Johnas Pizzera;https://www.rappi.cl/restaurantes/900080504-mama-johnas-pizzera
+4811;Terrible Pollo Chile;https://www.rappi.cl/restaurantes/900081466-terrible-pollo-chile
+4815;Pizzaland;https://www.rappi.cl/restaurantes/900081586-pizzaland
+4818;Cara de Peskao;https://www.rappi.cl/restaurantes/900081836-cara-de-peskao
+4839;Dicaros Pizza;https://www.rappi.cl/restaurantes/900082610-dicaros-pizza
+4840;Dicaros Waffles;https://www.rappi.cl/restaurantes/900082612-dicaros-waffles
+4850;Burgerest;https://www.rappi.cl/restaurantes/900083111-burgerest
+4875;Taco Loco;https://www.rappi.cl/restaurantes/900084228-taco-loco
+4880;Mama Pacha;https://www.rappi.cl/restaurantes/900084367-mama-pacha
+4881;Azahar Cuisine;https://www.rappi.cl/restaurantes/900084369-azahar-cuisine
+4882;Dragon Rojo;https://www.rappi.cl/restaurantes/900084373-dragon-rojo
+4887;Tazon Chino;https://www.rappi.cl/restaurantes/900084514-tazon-chino
+4905;Taqueria el Socio;https://www.rappi.cl/restaurantes/900085498-taqueria-el-socio
+4910;Vietnam Discovery;https://www.rappi.cl/restaurantes/900014579-vietnam-discovery
+4928;Los II Romanos;https://www.rappi.cl/restaurantes/900020572-los-ii-romanos
+4929;Peces Gordos Padre Hurtado;https://www.rappi.cl/restaurantes/900020728-peces-gordos-padre-hurtado
+4979;Khana Khazana Chile;https://www.rappi.cl/restaurantes/900035825-khana-khazana-chile
+5013;American Wok;https://www.rappi.cl/restaurantes/900067199-american-wok
+5037;Heladería Magnolia;https://www.rappi.cl/restaurantes/900074650-heladeria-magnolia
+5044;Bomb Burger;https://www.rappi.cl/restaurantes/900077419-bomb-burger
+5046;Submarine;https://www.rappi.cl/restaurantes/900077458-submarine
+5085;Techno Papas;https://www.rappi.cl/restaurantes/900084014-techno-papas
+5095;McDonald's;https://www.rappi.cl/restaurantes/900016683-mcdonalds
+5098;Mistura del Perú;https://www.rappi.cl/restaurantes/900028763-mistura-del-peru
+5101;Doc Popcorn;https://www.rappi.cl/restaurantes/900075530-doc-popcorn
+5103;KFC;https://www.rappi.cl/restaurantes/900016666-kfc
+5106;Sushi Blues;https://www.rappi.cl/restaurantes/900017212-sushi-blues
+5109;Burger King®;https://www.rappi.cl/restaurantes/900015121-burger-kingr
+5112;Tanta;https://www.rappi.cl/restaurantes/900026711-tanta
+5113;Mega Ají Seco;https://www.rappi.cl/restaurantes/900029326-mega-aji-seco
+5115;El Puro Perú;https://www.rappi.cl/restaurantes/900015086-el-puro-peru
+5120;Take a Wok;https://www.rappi.cl/restaurantes/900022805-take-a-wok
+5131;El Japonés;https://www.rappi.cl/restaurantes/900023284-el-japones
+5143;Chicken Love You;https://www.rappi.cl/restaurantes/900037141-chicken-love-you
+5157;Bello Oriente;https://www.rappi.cl/restaurantes/900039437-bello-oriente
+5161;Nuevo Sol;https://www.rappi.cl/restaurantes/900017246-nuevo-sol
+5162;El Pollo Caballo;https://www.rappi.cl/restaurantes/900017423-el-pollo-caballo
+5177;Yasai Vegan Sushi.;https://www.rappi.cl/restaurantes/900023828-yasai-vegan-sushi
+5179;Sushitumare;https://www.rappi.cl/restaurantes/900035757-sushitumare
+5181;Comida china-Restaurant jin fu;https://www.rappi.cl/restaurantes/900040602-comida-china-restaurant-jin-fu
+5195;Get the wok.;https://www.rappi.cl/restaurantes/900084017-get-the-wok
+5204;Sayonara Sushi;https://www.rappi.cl/restaurantes/900020902-sayonara-sushi
+5207;China Village;https://www.rappi.cl/restaurantes/900025609-china-village
+5219;Don Chicken;https://www.rappi.cl/restaurantes/900027897-don-chicken
+5220;Puerto Ceviche;https://www.rappi.cl/restaurantes/900029113-puerto-ceviche
+5225;Johnny Rockets;https://www.rappi.cl/restaurantes/900057203-johnny-rockets
+5228;Wok To Wok;https://www.rappi.cl/restaurantes/900075155-wok-to-wok
+5229;Taco Bell;https://www.rappi.cl/restaurantes/900084192-taco-bell
+5233;Melt Pizzas;https://www.rappi.cl/restaurantes/900015954-melt-pizzas
+5238;Baires Sushi La Florida;https://www.rappi.cl/restaurantes/900036712-baires-sushi-la-florida
+5243;Mister Fish;https://www.rappi.cl/restaurantes/401-mister-fish
+5245;Dominó;https://www.rappi.cl/restaurantes/900015236-domino
+5247;Fuente Chilena;https://www.rappi.cl/restaurantes/900016229-fuente-chilena
+5248;Little Caesars Pizza;https://www.rappi.cl/restaurantes/900016333-little-caesars-pizza
+5249;Santiago Sushi Consistorial;https://www.rappi.cl/restaurantes/900020596-santiago-sushi-consistorial
+5252;Fukai;https://www.rappi.cl/restaurantes/900023121-fukai
+5253;Milano's Sushi;https://www.rappi.cl/restaurantes/900025708-milanos-sushi
+5269;Fork;https://www.rappi.cl/restaurantes/900023258-fork
+5273;Bravissimo;https://www.rappi.cl/restaurantes/900033147-bravissimo
+5285;Mascarpone;https://www.rappi.cl/restaurantes/900018055-mascarpone
+5289;Aceittuna Fast Food;https://www.rappi.cl/restaurantes/900021415-aceittuna-fast-food
+5290;Kyro Sushi;https://www.rappi.cl/restaurantes/900025447-kyro-sushi
+5301;Sushi Rotonda Grecia;https://www.rappi.cl/restaurantes/900080034-sushi-rotonda-grecia
+5302;Mi Ensalada;https://www.rappi.cl/restaurantes/900082084-mi-ensalada
+5322;Sushi Inari;https://www.rappi.cl/restaurantes/900015609-sushi-inari
+5327;Fajita Express;https://www.rappi.cl/restaurantes/900018299-fajita-express
+5331;DoHa DoHa - Shawarma's House;https://www.rappi.cl/restaurantes/900029111-doha-doha-shawarmas-house
+5342;Panda Sushi Delivery;https://www.rappi.cl/restaurantes/900041256-panda-sushi-delivery
+5343;El Rincon Dulce - La Florida;https://www.rappi.cl/restaurantes/900041260-el-rincon-dulce-la-florida
+5346;Sushi Lover's;https://www.rappi.cl/restaurantes/900065983-sushi-lovers
+5354;Paradiso;https://www.rappi.cl/restaurantes/900018845-paradiso
+5362;Mandala Mía Súper Alimentos;https://www.rappi.cl/restaurantes/900029103-mandala-mia-super-alimentos
+5364;Lovdo;https://www.rappi.cl/restaurantes/900031824-lovdo
+5377;Lamia Comida Árabe.;https://www.rappi.cl/restaurantes/900015273-lamia-comida-arabe
+5378;Dunkin';https://www.rappi.cl/restaurantes/900016227-dunkin
+5382;Sushi Rolls Liam;https://www.rappi.cl/restaurantes/900017601-sushi-rolls-liam
+5383;Juan Maestro;https://www.rappi.cl/restaurantes/900018247-juan-maestro
+5387;Rosita;https://www.rappi.cl/restaurantes/900023102-rosita
+5392;Cada Loco con su Churro;https://www.rappi.cl/restaurantes/900029110-cada-loco-con-su-churro
+5401;Fuente Barak;https://www.rappi.cl/restaurantes/900057391-fuente-barak
+5410;Tío pepe;https://www.rappi.cl/restaurantes/900017476-tio-pepe
+5414;Buffet Express;https://www.rappi.cl/restaurantes/900018815-buffet-express
+5418;Subway;https://www.rappi.cl/restaurantes/900023113-subway
+5426;Maldita Pizza;https://www.rappi.cl/restaurantes/900035890-maldita-pizza
+5435;Kami Sushi;https://www.rappi.cl/restaurantes/900072926-kami-sushi
+5450;Tommy Beans;https://www.rappi.cl/restaurantes/900017862-tommy-beans
+5456;Starbucks;https://www.rappi.cl/restaurantes/900025303-starbucks
+5458;Just Burger;https://www.rappi.cl/restaurantes/900030496-just-burger
+5460;McDonald's Postre;https://www.rappi.cl/restaurantes/900032270-mcdonalds-postre
+5463;El Taller;https://www.rappi.cl/restaurantes/900048090-el-taller
+5472;La Mechada Nacional;https://www.rappi.cl/restaurantes/900016247-la-mechada-nacional
+5474;Délice;https://www.rappi.cl/restaurantes/900016344-delice
+5476;Buffalo Waffles;https://www.rappi.cl/restaurantes/900019216-buffalo-waffles
+5486;Fusion Shawarma;https://www.rappi.cl/restaurantes/900032682-fusion-shawarma
+5498;Domani Pizzeria & Bar;https://www.rappi.cl/restaurantes/900071600-domani-pizzeria-y-bar
+5499;Barrio Chicken;https://www.rappi.cl/restaurantes/900071629-barrio-chicken
+5508;Pizza Hut;https://www.rappi.cl/restaurantes/900015096-pizza-hut
+5512;La Fuente Reina;https://www.rappi.cl/restaurantes/900017875-la-fuente-reina
+5513;Churromania;https://www.rappi.cl/restaurantes/900019252-churromania
+5518;Maske Sandwich;https://www.rappi.cl/restaurantes/900029052-maske-sandwich
+5530;Cinnabon;https://www.rappi.cl/restaurantes/900015733-cinnabon
+5534;Pollo Stop Asaduría;https://www.rappi.cl/restaurantes/900017398-pollo-stop-asaduria
+5535;Mamut;https://www.rappi.cl/restaurantes/900019119-mamut
+5537;Panzón Bustamante;https://www.rappi.cl/restaurantes/900020478-panzon-bustamante
+5538;Doggis;https://www.rappi.cl/restaurantes/900020873-doggis
+5540;La Pizzarra;https://www.rappi.cl/restaurantes/900022861-la-pizzarra
+5557;Wendy's;https://www.rappi.cl/restaurantes/900016903-wendys
+5558;Emporio La Rosa;https://www.rappi.cl/restaurantes/900016937-emporio-la-rosa
+5568;Mr. Keto;https://www.rappi.cl/restaurantes/900056884-mr-keto
+5569;Salad Box;https://www.rappi.cl/restaurantes/900075138-salad-box
+5571;Sofá Café;https://www.rappi.cl/restaurantes/900075451-sofa-cafe
+5573;Rikai;https://www.rappi.cl/restaurantes/900079666-rikai
+5577;Happy Days Waffles & Coffee;https://www.rappi.cl/restaurantes/900018643-happy-days-waffles-y-coffee
+5580;Pastelería Cathy Brown;https://www.rappi.cl/restaurantes/900026263-pasteleria-cathy-brown
+5584;T de Tequeño;https://www.rappi.cl/restaurantes/900029114-t-de-tequeno
+5586;Telepizza;https://www.rappi.cl/restaurantes/900029951-telepizza
+5588;Sorry Burger;https://www.rappi.cl/restaurantes/900031792-sorry-burger
+5593;Nyonkers Pizza;https://www.rappi.cl/restaurantes/900038448-nyonkers-pizza
+5603;Oh My Pizza Macul;https://www.rappi.cl/restaurantes/900082250-oh-my-pizza-macul
+5607;Lucky Asian;https://www.rappi.cl/restaurantes/900017450-lucky-asian
+5610;La Sanguchera del Barrio;https://www.rappi.cl/restaurantes/900022795-la-sanguchera-del-barrio
+5614;Aloha POKÉ;https://www.rappi.cl/restaurantes/900029079-aloha-poke
+5622;El Chacha;https://www.rappi.cl/restaurantes/900057210-el-chacha
+5624;Happy Gelato;https://www.rappi.cl/restaurantes/900070303-happy-gelato
+5628;Heladeria la Foca;https://www.rappi.cl/restaurantes/900079339-heladeria-la-foca
+5635;Takeshis Sushi;https://www.rappi.cl/restaurantes/900019875-takeshis-sushi
+5642;Ali Baba;https://www.rappi.cl/restaurantes/900036816-ali-baba
+5643;Heladería Maxidea;https://www.rappi.cl/restaurantes/900036967-heladeria-maxidea
+5652;Milanos Pizza;https://www.rappi.cl/restaurantes/900077322-milanos-pizza
+5659;Carl's Jr.;https://www.rappi.cl/restaurantes/900017771-carls-jr
+5665;Doner Kebab;https://www.rappi.cl/restaurantes/900035864-doner-kebab
+5668;Electric Chicken;https://www.rappi.cl/restaurantes/900057164-electric-chicken
+5669;Doggis Heladeria;https://www.rappi.cl/restaurantes/900071308-doggis-heladeria
+5673;La Casa de Las Papas Fritas;https://www.rappi.cl/restaurantes/900082364-la-casa-de-las-papas-fritas
+5676;Toshiro Sushi Macul;https://www.rappi.cl/restaurantes/900083801-toshiro-sushi-macul
+5682;Juan Valdez Café;https://www.rappi.cl/restaurantes/900032580-juan-valdez-cafe
+5687;Mustafa Shawarma Y Kebab;https://www.rappi.cl/restaurantes/900036814-mustafa-shawarma-y-kebab
+5697;Bendita Sopaipilla;https://www.rappi.cl/restaurantes/900029109-bendita-sopaipilla
+5698;La Terraza Food and Grill;https://www.rappi.cl/restaurantes/900032807-la-terraza-food-and-grill
+5702;The Master Pleto;https://www.rappi.cl/restaurantes/900036808-the-master-pleto
+5704;Le Chicken by Pollo Castillo;https://www.rappi.cl/restaurantes/900057299-le-chicken-by-pollo-castillo
+5714;Taz Burger;https://www.rappi.cl/restaurantes/900021359-taz-burger
+5715;Big Boba Bubble Tea Shop;https://www.rappi.cl/restaurantes/900024648-big-boba-bubble-tea-shop
+5722;Pokewok Vegano;https://www.rappi.cl/restaurantes/900073815-pokewok-vegano
+5724;Dulce Barquillo;https://www.rappi.cl/restaurantes/900080799-dulce-barquillo
+5739;Crispy Chicken;https://www.rappi.cl/restaurantes/900027771-crispy-chicken
+5751;Aladdin;https://www.rappi.cl/restaurantes/900036918-aladdin
+5754;Pizzpa la Reina;https://www.rappi.cl/restaurantes/900081687-pizzpa-la-reina
+5755;Mas Pizza Delivery;https://www.rappi.cl/restaurantes/900081954-mas-pizza-delivery
+5758;Pedro Juan & Diego;https://www.rappi.cl/restaurantes/900030720-pedro-juan-y-diego
+5759;Shawarma Station;https://www.rappi.cl/restaurantes/900032770-shawarma-station
+5768;Latin Pizza;https://www.rappi.cl/restaurantes/900073047-latin-pizza
+5770;Pasteleria Tentaciones Spa;https://www.rappi.cl/restaurantes/900078734-pasteleria-tentaciones-spa
+5777;Juicy Lucy;https://www.rappi.cl/restaurantes/900029247-juicy-lucy
+5778;Ludico;https://www.rappi.cl/restaurantes/900036809-ludico
+5781;U.K Vegan Burger;https://www.rappi.cl/restaurantes/900067433-uk-vegan-burger
+5783;Hamburguesa Parrillera;https://www.rappi.cl/restaurantes/900081235-hamburguesa-parrillera
+5784;Pasteleria Dgustar;https://www.rappi.cl/restaurantes/900035619-pasteleria-dgustar
+5791;Rock Zone Burger;https://www.rappi.cl/restaurantes/900075737-rock-zone-burger
+5807;Vegan Wok;https://www.rappi.cl/restaurantes/900067619-vegan-wok
+5812;Ryge Burger;https://www.rappi.cl/restaurantes/900084111-ryge-burger
+5814;The Best Wok;https://www.rappi.cl/restaurantes/900067447-the-best-wok
+5826;Falafel House;https://www.rappi.cl/restaurantes/900035861-falafel-house
+5832;Obvious! Burger;https://www.rappi.cl/restaurantes/900082311-obvious-burger
+5833;La Casa de la Cachapa;https://www.rappi.cl/restaurantes/900082370-la-casa-de-la-cachapa
+5834;La Casa Del Tequeño;https://www.rappi.cl/restaurantes/900082458-la-casa-del-tequeno
+5844;Gringos Tacos & Burritos;https://www.rappi.cl/restaurantes/900037734-gringos-tacos-y-burritos
+5847;Burritos Kahlo;https://www.rappi.cl/restaurantes/900067440-burritos-kahlo
+5853;La Casa de Las Alitas;https://www.rappi.cl/restaurantes/900082372-la-casa-de-las-alitas
+5854;Burger Truck;https://www.rappi.cl/restaurantes/900029246-burger-truck
+5857;Fuente Da Vinci;https://www.rappi.cl/restaurantes/900041504-fuente-da-vinci
+5860;Cineplanet;https://www.rappi.cl/restaurantes/900081312-cineplanet
+5861;Mi Gohan;https://www.rappi.cl/restaurantes/900082103-mi-gohan
+5863;Milas;https://www.rappi.cl/restaurantes/900084986-milas
+5867;El Sultan Restaurante;https://www.rappi.cl/restaurantes/900036813-el-sultan-restaurante
+5870;Dakota Burger;https://www.rappi.cl/restaurantes/900080719-dakota-burger
+5871;El Mundo de la Parrilla;https://www.rappi.cl/restaurantes/900081238-el-mundo-de-la-parrilla
+5872;La Casa de Las Hamburguesas;https://www.rappi.cl/restaurantes/900082361-la-casa-de-las-hamburguesas
+5875;Delicias Don Yeims;https://www.rappi.cl/restaurantes/900064622-delicias-don-yeims
+5886;Sultanah Comida Libanesa;https://www.rappi.cl/restaurantes/900020241-sultanah-comida-libanesa
+5887;Turkish Kitchen;https://www.rappi.cl/restaurantes/900021002-turkish-kitchen
+5888;Turco Cocina Árabe;https://www.rappi.cl/restaurantes/900021044-turco-cocina-arabe
+5890;Cocavi Comida Árabe;https://www.rappi.cl/restaurantes/900024454-cocavi-comida-arabe
+5895;Leaf - Just Fresh Salads;https://www.rappi.cl/restaurantes/900029112-leaf-just-fresh-salads
+5900;Istambul Cocina Mediterranea;https://www.rappi.cl/restaurantes/900036811-istambul-cocina-mediterranea
+5908;All Star Burger;https://www.rappi.cl/restaurantes/900067430-all-star-burger
+5924;Piczas And Burgers;https://www.rappi.cl/restaurantes/900079868-piczas-and-burgers
+5927;Burger Ya;https://www.rappi.cl/restaurantes/900081227-burger-ya
+5935;Mar y Tierra;https://www.rappi.cl/restaurantes/900083805-mar-y-tierra
+5942;Brontos;https://www.rappi.cl/restaurantes/900027409-brontos
+5944;Lasaña Factory;https://www.rappi.cl/restaurantes/900027853-lasana-factory
+5945;Camaleón Burgers;https://www.rappi.cl/restaurantes/900027981-camaleon-burgers
+5946;Poke Fresh;https://www.rappi.cl/restaurantes/900029953-poke-fresh
+5950;Mr. Taco;https://www.rappi.cl/restaurantes/900037726-mr-taco
+5975;Bloke Burger;https://www.rappi.cl/restaurantes/900085226-bloke-burger
+5981;Holy Donas;https://www.rappi.cl/restaurantes/900085374-holy-donas
+5994;ComoSushi;https://www.rappi.cl/restaurantes/900016869-comosushi
+6004;Sushimax;https://www.rappi.cl/restaurantes/900027869-sushimax
+6006;Tacos & Cuates - TexMex;https://www.rappi.cl/restaurantes/900029115-tacos-y-cuates-texmex
+6014;La Patatería;https://www.rappi.cl/restaurantes/900036018-la-patateria
+6016;Sabor de Siria;https://www.rappi.cl/restaurantes/900036892-sabor-de-siria
+6026;Burger Sin;https://www.rappi.cl/restaurantes/900067431-burger-sin
+6027;Burritos Vegan;https://www.rappi.cl/restaurantes/900067445-burritos-vegan
+6029;Pimpollos Cl;https://www.rappi.cl/restaurantes/900072948-pimpollos-cl
+6031;Sangucheria Bacan;https://www.rappi.cl/restaurantes/900073823-sangucheria-bacan
+6032;Watson Vegan Bistró;https://www.rappi.cl/restaurantes/900073827-watson-vegan-bistro
+6036;Tosaku Ñuñoa;https://www.rappi.cl/restaurantes/900075277-tosaku-nunoa
+6040;El Mundo Del Tequeño la Reina;https://www.rappi.cl/restaurantes/900078693-el-mundo-del-tequeno-la-reina
+6048;Hungry Chicken;https://www.rappi.cl/restaurantes/900081440-hungry-chicken
+6049;Hungry Veggie;https://www.rappi.cl/restaurantes/900081496-hungry-veggie
+6092;Thai Time;https://www.rappi.cl/restaurantes/900026967-thai-time
+6101;El Crudo Jack;https://www.rappi.cl/restaurantes/900030298-el-crudo-jack
+6115;Rishtedar;https://www.rappi.cl/restaurantes/900036614-rishtedar
+6121;Cinque Pizza;https://www.rappi.cl/restaurantes/900037833-cinque-pizza
+6123;El Indio Pícaro;https://www.rappi.cl/restaurantes/900040626-el-indio-picaro
+6133;Matilda Pizza;https://www.rappi.cl/restaurantes/900067310-matilda-pizza
+6156;Niu Sushi;https://www.rappi.cl/restaurantes/900078036-niu-sushi
+6157;Fit Corner;https://www.rappi.cl/restaurantes/900078518-fit-corner
+6164;Milanga;https://www.rappi.cl/restaurantes/900079809-milanga
+6171;Japon Sushi Express Macul;https://www.rappi.cl/restaurantes/900081478-japon-sushi-express-macul
+6172;Paradise Fast Food Macul;https://www.rappi.cl/restaurantes/900082638-paradise-fast-food-macul
+6175;Treng Burguer;https://www.rappi.cl/restaurantes/900083648-treng-burguer
+6179;Niu Sushi – Plaza Brasil;https://www.rappi.cl/restaurantes/900084426-niu-sushi-plaza-brasil
+6182;Casa Hortelana Saludable;https://www.rappi.cl/restaurantes/900085283-casa-hortelana-saludable
+6195;Achoclonados;https://www.rappi.cl/restaurantes/900015589-achoclonados
+6207;Mammaterra;https://www.rappi.cl/restaurantes/900016430-mammaterra
+6208;Sushi'sTosos;https://www.rappi.cl/restaurantes/900016522-sushistosos
+6236;Dulce Luna;https://www.rappi.cl/restaurantes/900022846-dulce-luna
+6254;Sanguchería Chilena;https://www.rappi.cl/restaurantes/900028131-sangucheria-chilena
+6261;Mitani Ramen;https://www.rappi.cl/restaurantes/900029221-mitani-ramen
+6272;chiwaffles;https://www.rappi.cl/restaurantes/900030769-chiwaffles
+6281;Frica Sandwicheria;https://www.rappi.cl/restaurantes/900032474-frica-sandwicheria
+6287;Fuente Nicanor;https://www.rappi.cl/restaurantes/900033206-fuente-nicanor
+6293;Casa Imperial;https://www.rappi.cl/restaurantes/900036026-casa-imperial
+6306;Empanadas D’angelis;https://www.rappi.cl/restaurantes/900037384-empanadas-dangelis
+6330;Churrasqueria Los Caceros;https://www.rappi.cl/restaurantes/900057480-churrasqueria-los-caceros
+6355;Mizu;https://www.rappi.cl/restaurantes/900067756-mizu
+6362;Biciclo Cafe;https://www.rappi.cl/restaurantes/900068854-biciclo-cafe
+6364;Alfajores Deleite;https://www.rappi.cl/restaurantes/900068901-alfajores-deleite
+6367;Kazudai Sushi;https://www.rappi.cl/restaurantes/900069133-kazudai-sushi
+6368;Pollo Comilon;https://www.rappi.cl/restaurantes/900069390-pollo-comilon
+6370;SUSHI PARIS SPA;https://www.rappi.cl/restaurantes/900069436-sushi-paris-spa
+6388;Local Burger;https://www.rappi.cl/restaurantes/900073811-local-burger
+6389;Raitnau;https://www.rappi.cl/restaurantes/900073845-raitnau
+6390;Pastelería Nogada;https://www.rappi.cl/restaurantes/900073890-pasteleria-nogada
+6406;Sushimaslico;https://www.rappi.cl/restaurantes/900074723-sushimaslico
+6410;Paki Pollo;https://www.rappi.cl/restaurantes/900074927-paki-pollo
+6429;Seven Burger;https://www.rappi.cl/restaurantes/900077969-seven-burger
+6456;Topping Cheessecake;https://www.rappi.cl/restaurantes/900080368-topping-cheessecake
+6466;Mote con Huesillos Cophie;https://www.rappi.cl/restaurantes/900081058-mote-con-huesillos-cophie
+6473;Sushi Mania Trinidad;https://www.rappi.cl/restaurantes/900081580-sushi-mania-trinidad
+6475;Maxidonas la Reina;https://www.rappi.cl/restaurantes/900081640-maxidonas-la-reina
+6478;Circo Sanguches;https://www.rappi.cl/restaurantes/900081841-circo-sanguches
+6479;Valeburgers Macul;https://www.rappi.cl/restaurantes/900082040-valeburgers-macul
+6483;Palermos Pizza;https://www.rappi.cl/restaurantes/900082262-palermos-pizza
+6486;Durangos Pizzas;https://www.rappi.cl/restaurantes/900082505-durangos-pizzas
+6521;House Thai;https://www.rappi.cl/restaurantes/900084020-house-thai
+6531;Pasteleria Abuela Pata Ñuñoa;https://www.rappi.cl/restaurantes/900084336-pasteleria-abuela-pata-nunoa
+6537;Sushi Bless;https://www.rappi.cl/restaurantes/900084384-sushi-bless
+6581;Sushi Tanuky;https://www.rappi.cl/restaurantes/900022036-sushi-tanuky
+6585;La Tía Peta;https://www.rappi.cl/restaurantes/900025664-la-tia-peta
+6588;Mahalo Food's;https://www.rappi.cl/restaurantes/900025804-mahalo-foods
+6596;Baco's Burger & Sushi;https://www.rappi.cl/restaurantes/900027941-bacos-burger-y-sushi
+6605;Divo Food Service;https://www.rappi.cl/restaurantes/900030055-divo-food-service
+6609;El Pinche Mexicano Santiago;https://www.rappi.cl/restaurantes/900030203-el-pinche-mexicano-santiago
+6622;Sanguchería Entre amigos;https://www.rappi.cl/restaurantes/900036657-sangucheria-entre-amigos
+6631;Cookies And Co.;https://www.rappi.cl/restaurantes/900048596-cookies-and-co
+6658;La Yolita Sanguchería;https://www.rappi.cl/restaurantes/900071497-la-yolita-sangucheria
+6690;Pizzeria el Italiano;https://www.rappi.cl/restaurantes/900079905-pizzeria-el-italiano
+6710;Kikiriki Pollos Asados;https://www.rappi.cl/restaurantes/900084393-kikiriki-pollos-asados
+6714;Carl's Jr.;https://www.rappi.cl/restaurantes/900020819-carls-jr
+6717;McDonald's;https://www.rappi.cl/restaurantes/900021235-mcdonalds
+6787;Lovdo;https://www.rappi.cl/restaurantes/900067107-lovdo
+6796;Puerto Ceviche;https://www.rappi.cl/restaurantes/900024960-puerto-ceviche
+6854;Tea Connection Salads & Sándwiches;https://www.rappi.cl/restaurantes/471-tea-connection-salads-y-sandwiches
+6874;Dominó;https://www.rappi.cl/restaurantes/521-domino
+6914;Subway;https://www.rappi.cl/restaurantes/900016644-subway
+6924;Mister Fish;https://www.rappi.cl/restaurantes/900033023-mister-fish
+6929;Kami Sushi;https://www.rappi.cl/restaurantes/900073792-kami-sushi
+6951;Factory Nine;https://www.rappi.cl/restaurantes/900081667-factory-nine
+6970;La Punta;https://www.rappi.cl/restaurantes/900035413-la-punta
+6981;Dunkin';https://www.rappi.cl/restaurantes/900016228-dunkin
+6982;La Mechada Nacional;https://www.rappi.cl/restaurantes/900016252-la-mechada-nacional
+6986;Starbucks;https://www.rappi.cl/restaurantes/900018102-starbucks
+7026;Mr. Keto;https://www.rappi.cl/restaurantes/900036611-mr-keto
+7066;Mr Qiu;https://www.rappi.cl/restaurantes/900081463-mr-qiu
+7081;El Callejero Truck;https://www.rappi.cl/restaurantes/900035663-el-callejero-truck
+7093;Chick´n All;https://www.rappi.cl/restaurantes/900077758-chickn-all
+7098;Buffalo Waffles;https://www.rappi.cl/restaurantes/519-buffalo-waffles
+7106;Mamut;https://www.rappi.cl/restaurantes/900019710-mamut
+7112;McDonald's Postre;https://www.rappi.cl/restaurantes/900032647-mcdonalds-postre
+7120;Milas;https://www.rappi.cl/restaurantes/900081464-milas
+7131;Pronto Copec;https://www.rappi.cl/restaurantes/900021260-pronto-copec
+7135;Indian Box - Veggie;https://www.rappi.cl/restaurantes/900030375-indian-box-veggie
+7193;El Mundo de Las Papas Fritas la Reina;https://www.rappi.cl/restaurantes/900078695-el-mundo-de-las-papas-fritas-la-rei
+7246;Uncle Fletch;https://www.rappi.cl/restaurantes/900017512-uncle-fletch
+7253;Pegli;https://www.rappi.cl/restaurantes/900040183-pegli
+7274;Viva Mas Gourmet;https://www.rappi.cl/restaurantes/900048974-viva-mas-gourmet
+7277;LES ARTISANS CREPES y GAUFRES SPA;https://www.rappi.cl/restaurantes/900074078-les-artisans-crepes-y-gaufres-spa
+7282;Deleite Churros;https://www.rappi.cl/restaurantes/900080127-deleite-churros
+7284;Inside Deli By Tea Connection;https://www.rappi.cl/restaurantes/900017401-inside-deli-by-tea-connection
+7293;Slicy Rocks Pizza;https://www.rappi.cl/restaurantes/900041157-slicy-rocks-pizza
+7300;Polleria Carmelita;https://www.rappi.cl/restaurantes/900083188-polleria-carmelita
+7312;Le Ñam Burgers;https://www.rappi.cl/restaurantes/900018935-le-nam-burgers
+7313;Pedro Juan & Diego;https://www.rappi.cl/restaurantes/900019889-pedro-juan-y-diego
+7350;Fasfu Burgers;https://www.rappi.cl/restaurantes/900078827-fasfu-burgers
+7377;The BIG Burgery;https://www.rappi.cl/restaurantes/900081147-the-big-burgery
+7382;The Craft Burger;https://www.rappi.cl/restaurantes/900030050-the-craft-burger
+7470;Tavelli;https://www.rappi.cl/restaurantes/900027016-tavelli
+7484;Salad Lab;https://www.rappi.cl/restaurantes/900074193-salad-lab
+7512;Imperio Oriental;https://www.rappi.cl/restaurantes/900016456-imperio-oriental
+7522;Panino Lab;https://www.rappi.cl/restaurantes/900036746-panino-lab
+7625;Vangohan Sushi;https://www.rappi.cl/restaurantes/900084399-vangohan-sushi
+7632;Happy Milkshake;https://www.rappi.cl/restaurantes/900085676-happy-milkshake
+7699;Barbanegra;https://www.rappi.cl/restaurantes/900041170-barbanegra
+7732;Niu Sushi;https://www.rappi.cl/restaurantes/900078067-niu-sushi
+7803;Tele Sándwich;https://www.rappi.cl/restaurantes/900019955-tele-sandwich
+7811;Vasto;https://www.rappi.cl/restaurantes/900022356-vasto
+7823;Crocante;https://www.rappi.cl/restaurantes/900025632-crocante
+7836;La Fuente Angus;https://www.rappi.cl/restaurantes/900029932-la-fuente-angus
+7889;ComeFit;https://www.rappi.cl/restaurantes/900048619-comefit
+7924;Naked Food;https://www.rappi.cl/restaurantes/900068747-naked-food
+7937;Lasdequeso;https://www.rappi.cl/restaurantes/900073474-lasdequeso
+7954;Tremisú;https://www.rappi.cl/restaurantes/900074089-tremisu
+7959;Emporio Magnolia Gourmet;https://www.rappi.cl/restaurantes/900074467-emporio-magnolia-gourmet
+8006;Papas Hot;https://www.rappi.cl/restaurantes/900079585-papas-hot
+8159;El. Empanadero;https://www.rappi.cl/restaurantes/900035685-el-empanadero
+8161;Super Taco;https://www.rappi.cl/restaurantes/900036384-super-taco
+8166;Maguro Sushi;https://www.rappi.cl/restaurantes/900037630-maguro-sushi
+8186;Campo Lindo - CL;https://www.rappi.cl/restaurantes/900067003-campo-lindo-cl
+8249;Cafe Ragazzi;https://www.rappi.cl/restaurantes/900084149-cafe-ragazzi
